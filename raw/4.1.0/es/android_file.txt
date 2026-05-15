@@ -2932,14 +2932,15 @@ Copyright del juego (Propietario: Electronic Arts Inc.)
 [HEALTH_NOTICE_CONTENT_3]
 Este juego en línea es adecuado para usuarios mayores de 12 años. 
 Por su salud, por favor controle el tiempo de juego razonablemente.
-^oldclrNO actualizar el juego a menos que te lo exiga el propio juego.
+Estás usando la versión ^0000FF^4.1.0 del mod
+^FF0000^NO actualizar el juego a menos que te lo exiga el propio juego.
 Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pepe)
 
 [HEALTH_NOTICE_CONTENT_4]
 Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pepe)
 
 [HEALTH_NOTICE_CONTENT_5]
-Estás usando la versión ^0000FF 4.1.0 del mod
+Estás usando la versión ^0000FF^4.1.0 del mod
 
 [HEALTH_NOTICE_CONTENT_3_1]
 Este juego en línea es adecuado para usuarios mayores de 12 años. 
