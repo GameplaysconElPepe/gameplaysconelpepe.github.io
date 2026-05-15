@@ -13276,23 +13276,145 @@ BOSS登场！大刀魔王和火药魔头来势汹汹，你能击败他们最终�
 ^00FA9A^La tienda de Penny ofrece cada día piezas de plantas diferentes, así que no olvides pasar por allí de vez en cuando...
 
 [SPRING_TIPS_4]
-^00FA9A^不要错过宝物中的免费抽奖机会，记得联网哟~
+^00FA9A^¡No te olvides de los Eventos!
+¡Consigue Recompensas al participar en ellos!
 
 [SPRING_TIPS_5]
-^00FA9A^竞技菜单中有很多有趣的玩法，体验不一样的玩法策略吧！
+^00FA9A^Hay un montón de actividades interesantes en Dueloz.
+¡Ve y reta a otros Jugadores!
 
 [SPRING_TIPS_6]
-^00FA9A^在同一场战斗中，战术黄瓜会越用越厉害哟~
+^00FA9A^Mientras más Pepinos Tácticos utilices, más costarán.
 
 [SPRING_TIPS_7]
-^00FA9A^请经常光顾进阶功能，查看可以领取和进阶的植物！
+^00FA9A^Visita la sección "Mejorar plantas" para darles nuevas habilidades a tus verdes amigas.
 
 [SPRING_TIPS_8]
-^00FA9A^在星系中收集星星可以兑换各种植物和强化奖励。
+^00FA9A^Visita la sección "Accesorios" para equipar Colgantes,
+Macetas o Disfraces a tus plantas, y hacerlas más fuertes.
 
 [SPRING_TIPS_9]
-^00FA9A^植物进阶到5阶需要的培养液可以在无尽商店中获得
+^00FA9A^Reúne estrellas para canjearlas por Premios Estelares.
 
+[SPRING_TIPS_10]
+^00FA9A^Las Pociones de cultivo se usan para mejorar plantas al Nvl. 4 en adelante.
+Puedes conseguirlas jugando a eventos y en la tienda.
+
+[SPRING_TIPS_11]
+^00FA9A^¡Diviértete completando Retos diarios y consigue Piezas para tus plantas y disfraces!
+
+[SPRING_TIPS_12]
+^00FA9A^Completa un Nivel en Modo difícil.
+¡Obtendrás el resto de Estrellas y un Cofre misterioso!
+
+[SPRING_TIPS_13]
+^00FA9A^Consigue todas las Estrellas de un mundo para acceder al Día Final.
+
+[SPRING_TIPS_14]
+^00FA9A^Desbloquea todas las plantas de un mundo para conseguir el Trofeo de Plantas.
+
+[SPRING_TIPS_15]
+^00FA9A^Recoleta todas las Estrellas de un Mundo para conseguir el Trofeo de Estrellas.
+
+[SPRING_TIPS_16]
+^00FA9A^¡Derrota al jefe de cada mundo para conseguir su Trofeo del Jefe!
+
+[SPRING_TIPS_17]
+^00FA9A^Visita la sección "Familia de Plantas" para mejorar los atributos de tus plantas.
+
+[SPRING_TIPS_18]
+^00FA9A^Compite contra otros jugadores en Batallaz y gana Premioz.
+
+[SPRING_TIPS_19]
+^00FA9A^Los Libros de avances se utilizan para mejorar plantas sin Piezas ni Monedas.
+¡Consíguelos en El Tesoro de Dave y otros eventos!
+
+[SPRING_TIPS_20]
+^00FA9A^¡Juega a La Búsqueda de Penny para competir contra otros jugadores y ganar premios!
+
+[SPRING_TIPS_21]
+^00FA9A^¿Cuánto tiempo puedes aguantar en la Zona de Infinito?
+Acepta el desafío y acumula recompensas.
+
+[SPRING_TIPS_22]
+^00FA9A^¡Explora los Reinos Secretos y gana premios mientras juegas!
+
+[SPRING_TIPS_23]
+^00FA9A^Nuevos desafíos te esperan en la Dimensión del Recuerdo.
+¡Complétalos para ganar premios jugosos!
+
+[SPRING_TIPS_24]
+^00FA9A^¡No olvides revisar el Tronco de viaje de vez en cuando!
+
+[SPRING_TIPS_25]
+^00FA9A^¡Completa misiones del Pase de batalla para ganar premios!
+
+[SPRING_LOADING_TEXT_1]
+^00FA9A^Cargando...
+
+[SPRING_LOADING_TEXT_2]
+^00FA9A^Ordenando unos y ceros...
+
+[SPRING_LOADING_TEXT_3]
+^00FA9A^Despertando a las plantas...
+
+[SPRING_LOADING_TEXT_4]
+^00FA9A^Despertando a los zombis...
+
+[SPRING_LOADING_TEXT_5]
+^00FA9A^Añadiendo belleza...
+
+[SPRING_LOADING_TEXT_6]
+^00FA9A^Inyectando un 150% de ZAM...
+
+[SPRING_NEW_TIPS_1]
+^00FA9A^Deja espacio en las columnas de atrás para las plantas vulnerables.
+
+[SPRING_NEW_TIPS_2]
+^00FA9A^Planta productoras solares a menudo y con antelación.
+
+[SPRING_NEW_TIPS_3]
+^00FA9A^Intenta plantar 2 columnas de productoras solares.
+
+[SPRING_NEW_TIPS_4]
+^00FA9A^Ahorra soles para hacerte con plantas caras y poderosas.
+
+[SPRING_NEW_TIPS_5]
+^00FA9A^Dales Nutrientes a los Girasoles para obtener soles extra.
+
+[SPRING_NEW_TIPS_6]
+^00FA9A^Una planta es invulnerable mientras dura el efecto de los Nutrientes.
+
+[SPRING_NEW_TIPS_7]
+^00FA9A^No tengas miedo de plantar en la parte derecha del patio.
+
+[SPRING_NEW_TIPS_8]
+^00FA9A^Toma ventaja.
+
+[SPRING_NEW_TIPS_9]
+^00FA9A^Prueba plantas instakill como Frijol o Carnívora contra zombis de alta salud o con gran blindaje.
+
+[SPRING_NEW_TIPS_10]
+^00FA9A^Los Zombiditos lanzados suelen aterrizar en el mismo sitio.
+
+[SPRING_NEW_TIPS_11]
+^00FA9A^Algunas plantas son buenas contra ciertos zombis.
+¡Lee el Almanaque de vez en cuando!
+
+[SPRING_NEW_TIPS_12]
+^00FA9A^Detén o ralentiza a los primeros zombis y gana tiempo para generar soles.
+
+[SPRING_NEW_TIPS_13]
+^00FA9A^Produce soles lo más rápido posible.
+
+[SPRING_NEW_TIPS_14]
+^00FA9A^Cambia las productoras solares por plantas ofensivas al avanzar en el nivel.
+
+[SPRING_NEW_TIPS_15]
+^00FA9A^Coloca a las plantas de corta distancia detrás de las defensas.
+
+[SPRING_NEW_TIPS_16]
+^00FA9A^¡Sigue plantando!
 
 [NARRATIVE_ZOMBOSS_BLADE_1]
 {NPC_ENTER:crazydave}{SAY}Boss
@@ -85312,7 +85434,7 @@ Zombisteinito Director
 "Hace mucho intercambié cuerpo con un zombistein" -siempre cuenta Zombinsteinito director, así siempre explica el cómo puede lanzar Zombisteins.
 
 [ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION_HEADER]
-Sorprendentemente lanza zombisteins, desafiando toda lógica
+Sorprendentemente lanza zombisteins, desafiando toda lógica.
 
 [ZOMBIE_ZCORP_IMP]
 Zombidistein Jurista
