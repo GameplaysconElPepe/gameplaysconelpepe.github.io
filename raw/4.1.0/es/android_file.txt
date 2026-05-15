@@ -11,10 +11,10 @@ Consigue todas las estrellas del Salvaje Oeste
 ¡Yiiihaa!
 
 [ACHIEVE_DOG_WHISPERER_DESC]
-¡Acaba con el Zombi Levantatumbas antes de que convoque tumbas!
+¡Acaba con el Zombi Levantatumbas antes de que invoque tumbas!
 
 [ACHIEVE_DOG_WHISPERER_TITLE]
-Entierratumbas
+Domador de Cachorros
 
 [PLANTING_BEYOND_NEW_PVP_LIMIT]
 Límite de plantación superado. ¡Recuerda mejorar tus Girasoles!
@@ -62,10 +62,10 @@ Supera con éxito el Antiguo Egipto.
 Faraón
 
 [ACHIEVE_MAGICAL_FRUIT_DESC]
-Usa una Haba Estragón para noquear a diez zombis.
+Usa un Nutriente para noquear a diez zombis.
 
 [ACHIEVE_MAGICAL_FRUIT_TITLE]
-Fruta Mágica
+Alimento Mágico
 
 [ACHIEVE_MUTINY_DESC]
 Derrota al Zombi Capitán Pirata antes de que su loro pueda volar.
@@ -86,22 +86,22 @@ Completa el nivel tutorial.
 Lejos de casa
 
 [ACHIEVE_PAT_THE_BIRDY_DESC]
-Golpea a un Zombi Gaviota con mantequilla.
+Golpea a un Zombi Gaviotero con mantequilla.
 
 [ACHIEVE_PAT_THE_BIRDY_TITLE]
 Mantequilla de pájaro
 
 [ACHIEVE_PIRATE_STARS_DESC]
-Consigue todas las Estrellas de la Costa Pirata.
+Consigue todas las Estrellas de los Mares Piratas.
 
 [ACHIEVE_PIRATE_STARS_TITLE]
 Tesoro Pirata
 
 [ACHIEVE_POD_SQUAD_DESC]
-Planta una Vaina de Guisantes completa en un carro minero.
+Planta una Vaina completa en un carro minero.
 
 [ACHIEVE_POD_SQUAD_TITLE]
-Táctica de la Vaina
+Táctica envainada
 
 [ACHIEVE_SASQUASH_DESC]
 ¡Derrota al Yeti!
@@ -116,7 +116,7 @@ Planta una Nuez en un carro minero.
 Escudo Móvil
 
 [ACHIEVE_SPUDOW_DESC]
-Usa Papa Mina para volar a un zombi.
+Usa a Papapum para volar a un zombi.
 
 [ACHIEVE_SPUDOW_TITLE]
 ¡¡Boom!!
@@ -128,13 +128,13 @@ Obtén diez soles de un Zombi Ra.
 Cazasoles
 
 [ACHIEVE_YARR_MATEY_DESC]
-Supera la Costa Pirata.
+Supera los Mares Piratas.
 
 [ACHIEVE_YARR_MATEY_TITLE]
-¡Vaya, marinero!
+¡Ahoy, marinero!
 
 [ADVICE_ALMANAC_FROM_PLANTS]
-Toca una planta en el mapa para entrar en el Almanaque.
+Toca una planta en el mapa para acceder al Almanaque.
 
 [ADVICE_BOUGHT_PLANTFOOD]
 ¡Recuerda guardar Nutrientes para emergencias!
@@ -146,10 +146,10 @@ Toca una planta en el mapa para entrar en el Almanaque.
 No puedes plantar ahí.
 
 [ADVICE_CANT_SHOVEL_THERE]
-¡No puedes excavar ahí!
+¡No puedes usar la pala ahí!
 
 [ADVICE_CANT_APPLY_PLANTFOOD_THERE]
-¡No puedes usar una Nutriente ahí!
+¡No puedes usar un Nutriente ahí!
 
 [ADVICE_CLICK_COIN]
 ¡Toca las monedas para recogerlas!
@@ -158,36 +158,35 @@ No puedes plantar ahí.
 ¡Toca la llave para recogerla!
 
 [ADVICE_CLICK_ON_GRASS]
-¡Arrastra la carta y colócala en el césped!
+¡Arrastra una planta y colócala en el césped!
 
 [ADVICE_CLICK_PEASHOOTER]
-¡Arrastra y planta otro Guisante Disparador!
+¡Arrastra y planta otro Lanzaguisantes!
 
 [ADVICE_TILE_PLANTS_ON_TILES]
-¡Esta planta no puede plantarse en losas de energía!
+¡Esta planta no puede plantarse en casillas especiales!
 
 [PLANTING_NOT_ON_FLAMES_DOOMSHROOM]
-¡Esta planta no puede plantarse sobre un hoyo de cenizas!
+¡No puedes plantar sobre cráteres!
 
 [ADVICE_CLICK_PLANT]
-¡Arrastra la pala sobre una planta para desenterrarla!
+¡Arrastra la Pala sobre una planta para quitarla!
 
 [ADVICE_CLICK_SEED_PACKET]
-Toca y mantén pulsada la carta de Guisante Disparador.
+¡Arrastra un Paquete de semillas al patio!
 
 [ADVICE_CLICK_SHOVEL]
 ¡Esas plantas estorban!
-¡Usa la pala para eliminarlas!
+¡Usa la pala para quitarlas!
 
 [ADVICE_COLLECT_COINS]
 ¡Recoge monedas, son un recurso muy útil!
 
 [ADVICE_COLLECT_KEYS]
-¿Me pregunto para qué servirá esto?
+¿Para qué servirá esto?
 
 [ADVICE_COLLECT_PLANT]
-Toca la planta para añadirla
-¡a tu colección de plantas!
+¡Toca la planta para añadirla a tu colección!
 
 [ADVICE_COLLECT_SUN]
 ¡Toca el sol que cae para recogerlo!
@@ -197,49 +196,47 @@ Toca la planta para añadirla
 Necesitas soles para plantar más plantas.
 
 [ADVICE_DANGER_ROOM_UNLOCKED]
-¡Desafío Sin Fin desbloqueado!
+¡Zona del Infinito desbloqueada!
 
 [ADVICE_DONE_DIGGING]
-Después de desenterrar, puedes plantar otras cosas.
+¡Después de quitar plantas, puedes plantar otras!
 
 [ADVICE_EARNED_SECOND_STAR]
-¡Bien hecho! ¡Otra estrella más! Las estrellas
-se pueden usar para desbloquear recompensas misteriosas.
+¡Bien hecho! ¡Otra estrella más! Las estrellas se pueden usar para desbloquear recompensas misteriosas.
 
 [ADVICE_EARNED_STAR]
-¡Nivel superado,
-has conseguido una estrella!
+¡Nivel superado, has conseguido una estrella!
 
 [ADVICE_ENOUGH_SUN]
-¡Genial! ¡Ya tienes suficientes soles
-para la próxima plantación!
+¡Genial! ¡Ya tienes suficientes soles para otra planta!
 
 [ADVICE_PLANT_NOT_ON_TENT]
-No se puede plantar sobre una tienda de campaña.
+No puedes plantar encima de una tienda
 
 [ADVICE_PLANT_NOT_ON_FISHERMAN]
-No se puede plantar sobre un Zombi Pescador.
+No puedes plantar en un Zombi Pescador
 
 [ADVICE_GET_MORE_STARS]
 ¡Hay más estrellas disponibles en el mapa! ¡Vuelve a niveles anteriores para conseguirlas!
 
 [ADVICE_GOTO_ALMANAC]
-Por favor, toca el Almanaque.
+¡Echa una ojeada al Almanaque!
 
 [ADVICE_GOTO_STORE]
-Visita la tienda.
+¡Visita la tienda!
 
 [ADVICE_GOTO_GACHA]
-Has obtenido acceso al Tesoro de Penny. Ahora vamos a probarlo.
+Has obtenido acceso al Tesoro de Penny. 
+¡Vamos a probarlo!
 
 [ADVICE_GOTO_UNIVERSE_VIEW]
-¡Has completado el Antiguo Egipto! ¡Toca el botón del mapa del multiverso!
+¡Has completado el Antiguo Egipto! ¡Toca el botón del Mapa!
 
 [ADVICE_GRAVEBUSTERS_ON_GRAVES]
-Rompetumbas solo se puede plantar sobre tumbas.
+Comepiedras solo se puede plantar sobre lápidas.
 
 [ADVICE_HUGE_WAVE]
-¡Se acerca una gran oleada de zombis!
+¡Se acerca una gran horda de zombis!
 
 [ADVICE_SOCCER_NEAR_END]
 ¡Quedan 30 segundos!
@@ -251,21 +248,19 @@ Rompetumbas solo se puede plantar sobre tumbas.
 Se acerca un zombi peligroso...
 
 [ADVICE_KEEP_DIGGING]
-Sigue cavando hasta que
-no queden plantas en el césped.
+Usa la pala hasta que no queden plantas en el césped.
 
 [ADVICE_KEEP_USING_POWERUPS]
 ¡Sigue usando los Power-Ups para superar los niveles!
 
 [ADVICE_MORE_SUNFLOWERS]
-Necesitas más Girasoles,
-así podrás plantar más rápido.
+Necesitas más Girasoles, así podrás plantar más rápido.
 
 [ADVICE_NEW_LEVEL]
 ¡Has desbloqueado el siguiente nivel!
 
 [ADVICE_NEW_PLANT]
-¡Consigue tu nueva planta!
+¡Conseguiste una nueva planta!
 
 [ADVICE_NOT_ENOUGH_SUN]
 ¡Necesitas más soles para plantarla!
@@ -283,29 +278,29 @@ Habilidad no desbloqueada.
 ¡Toca la puerta para desbloquearla!
 
 [ADVICE_PEASHOOTER_DIED]
-¡Uno de tus Guisantes Disparadores ha muerto!
+¡Uno de tus Lanzaguisantes ha muerto!
 ¡Prueba a plantarlos más a la izquierda!
 
 [ADVICE_PLANT_FOOD_BANK_FULL]
-¡Tienes las Nutrientes al máximo! ¡Usa las que tienes para no desperdiciarlas!
+¡Tienes llena la reserva de Nutrientes! ¡Usa los que tienes para no desperdiciarlos!
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-No puedes plantar sobre una tumba.
+No puedes plantar sobre una lápida.
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
 No puedes plantar sobre un zombi petrificado.
 
 [ADVICE_PLANT_NOT_ON_GLIDING]
-No puedes plantar sobre los restos de un planeador.
+No puedes plantar en aladeltas
 
 [ADVICE_PLANT_NOT_ON_HEALERSTAFF]
-No puedes plantar sobre un bastón.
+No puedes plantar en bastones de sanador
 
 [ADVICE_PLANT_NOT_ON_LOLLIPOPS]
-A las plantas no les gustan las piruletas.
+No puedes plantar en caramelos
 
 [ADVICE_PLANT_NOT_ON_GUN]
-No puedes plantar sobre una lanza.
+No puedes plantar en estantes de armas
 
 [ADVICE_PLANT_NOT_ON_KING]
 No puedes plantar sobre un Zombi Rey.
@@ -317,37 +312,37 @@ No puedes plantar sobre moho.
 No puedes plantar sobre una poción.
 
 [ADVICE_PLANT_NOT_ON_DUMPLING]
-No puedes plantar sobre una empanadilla.
+No puedes plantar en dumplings
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-No puedes plantar sobre una bola de arroz glutinoso.
+No puedes plantar en bolas de arroz
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
 No puedes plantar sobre una hucha.
 
 [ADVICE_PLANT_NOT_ON_PLANTSEED]
-No puedes plantar sobre una semilla de planta.
+No puedes plantar sobre un paquete de semillas.
 
 [ADVICE_PLANT_NOT_ON_ZOMBIE_CHANGER]
-No puedes plantar sobre un dispositivo de modificación.
+No puedes plantar en zombificadores
 
 [ADVICE_PLANT_NOT_ON_TURKEY]
 No puedes plantar sobre un pavo.
 
 [ADVICE_PLANT_NOT_ON_FIRECRACKER]
-No puedes plantar sobre un petardo.
+No puedes plantar sobre petardos.
 
 [ADVICE_PLANT_NOT_ON_RAIL]
-No se puede plantar directamente en el raíl, se necesita un carro minero.
+No puedes plantar directamente en el raíl, se necesita un carro minero.
 
 [ADVICE_PLANT_NOT_ON_SEEING_STAR]
-No se pueden plantar otras plantas en las casillas designadas.
+Solo se permiten plantas del tipo indicado en esa casilla
 
 [ADVICE_PLANT_NOT_ON_SCORCH]
-No puedes plantar sobre una losa ardiente.
+No puedes plantar en casillas calcinadas
 
 [ADVICE_PLANT_NOT_ON_SHARKS]
-No puedes plantar sobre una bandada de tiburones.
+No puedes plantar sobre tiburones.
 
 [ADVICE_PLANT_NOT_ON_SURFBOARD]
 No puedes plantar sobre una tabla de surf.
@@ -362,13 +357,13 @@ Esta planta no puede plantarse en el aire.
 Esta planta no puede plantarse en el mar.
 
 [ADVICE_PLANT_NOT_MOVING_LAND]
-No se pueden plantar plantas mientras el submarino está en movimiento.
+No puedes plantar mientras el submarino esté en movimiento.
 
 [ADVICE_PLANT_NOT_IN_GOLDROAD]
 Esta planta no puede plantarse aquí.
 
 [ADVICE_PLANT_NOT_ON_GUIDE_DOOR]
-No puedes plantar sobre un pasadizo secreto.
+No puedes plantar en un pasadizo secreto.
 
 [ADVICE_PLANT_SUNFLOWER1]
 ¡El Girasol es una planta muy importante!
@@ -377,32 +372,28 @@ No puedes plantar sobre un pasadizo secreto.
 ¡Planta al menos tres Girasoles!
 
 [ADVICE_PLANT_SUNFLOWER3]
-Planta al menos tres Girasoles, así tendrás más
-oportunidades de sobrevivir a la embestida de los zombis.
+Planta al menos tres Girasoles, así tendrás más oportunidad de sobrevivir al ataque zombi.
 
 [ADVICE_PLANT_SUNFLOWER4]
 Planta al menos tres Girasoles.
 
 [ADVICE_PLANTED_PEASHOOTER]
-¡Bien hecho! También puedes tocar la carta primero
-y luego tocar el lugar donde quieras plantar.
+¡Bien hecho! También puedes tocar la planta primero y luego tocar el lugar donde quieras plantar.
 
 [ADVICE_PLANTING_NEEDS_GROUND]
-El Clavo solo puede plantarse en suelo firme.
+Pichohierba solo puede plantarse en suelo firme.
 
 [ADVICE_NOT_ON_PLANKS]
-{PLANT_NAME} no puede plantarse en tablones de madera.
+{PLANT_NAME} no puede plantarse en tablones.
 
 [ADVICE_PLANT_NOT_ON_FROST]
-No se puede plantar plantas sobre una superficie helada.
+No puedes plantar en hielo.
 
 [ADVICE_SEED_REFRESH]
-Las semillas necesitan un tiempo
-de recuperación antes de volver a plantarse.
+La semilla necesita tiempo antes de volver a cargarse.
 
 [ADVICE_SEED_REFRESH_IZOMBIE]
-Los zombis necesitan un tiempo
-de recuperación antes de volver a usarse.
+Los zombis necesitan tiempo para recuperarse.
 
 [ADVICE_REACH_MAX_SIZE]
 ¡Ya has alcanzado el número máximo!
@@ -411,10 +402,10 @@ de recuperación antes de volver a usarse.
 ¡Aún no desbloqueado!
 
 [ADVICE_NOT_ON_ICEBLOCKS]
-Esta planta no puede plantarse directamente sobre bloques de hielo.
+No puedes plantar sobre bloques de hielo
 
 [ADVICE_NOT_ON_BUBBLECORAL]
-A Coral Burbujeante le apetece nadar hoy.
+Coral Burbuja ocupa esa casilla
 
 [ADVICE_STAR_CHALLENGES_UNLOCKED]
 Puedes conseguir más estrellas en niveles ya completados.
@@ -426,7 +417,7 @@ Puedes conseguir más estrellas en niveles ya completados.
 ¡Parece que necesitas más estrellas! Toca para volver al Antiguo Egipto.
 
 [ADVICE_TAP_PIRATE]
-¡Toca el mundo de la Costa Pirata!
+¡Toca el mundo de Mares Piratas!
 
 [ADVICE_TAP_POWERUP]
 ¡Toca el Power-Up!
@@ -466,34 +457,34 @@ Asegúrate de mantener el dedo en la pantalla.
 ¡Ha aparecido un zombi!
 
 [ADVICE_TAP_PEASHOOTER]
-¡Toca el Guisante Disparador!
+¡Toca el Lanzaguisantes!
 
 [ADVICE_TAP_TO_PLANT_PEASHOOTER]
-¡Arrastra al Guisante Disparador al campo para plantarlo!
+¡Arrastra a Lanzaguisantes al campo para plantarlo!
 
 [ADVICE_WAITING_FOR_KILLING_ZOMBIE]
-¡Acabemos con este zombi invasor!
+¡Acaba con el zombi invasor!
 
 [ADVICE_WAITING_FOR_BUCKET_ZOMBIE]
 ¡Ha aparecido un zombi con un cubo! ¡Parece duro!
 
 [ADVICE_TAP_PF]
-¡Probemos a usar una Nutriente en un Guisante Disparador a ver qué pasa!
+¡Probemos a usar un Nutriente en Lanzaguisantes a ver qué pasa!
 
 [ADVICE_COLLECT_PF]
-Toca para recoger la Nutriente que está saltando, ¡debería ayudarnos!
+Toca para recoger el Nutriente que está revoloteando, ¡debería ayudarnos!
 
 [ADVICE_TAP_TO_USE_PF]
-¡Probemos a usar una Nutriente en un Guisante Disparador a ver qué pasa!
+¡Probemos a usar un Nutriente en Lanzaguisantes a ver qué pasa!
 
 [ADVICE_WAITING_FOR_KILLING_BUCKET_ZOMBIE]
-¡Bien hecho! Ahora que el Zombi Cubo ya no es una amenaza, ¡acabemos con él!
+¡Bien hecho! Ahora que el Zombi Caracubo ya no es una amenaza, ¡acaba con él!
 
 [ADVICE_PLANT_ON_SPECIFIC_GRID]
-¡Plántalo en la posición designada!
+¡Planta en la ubicación señalada!
 
 [ADVICE_WAITING_FOR_PF_ZOMBIE]
-¡Ha aparecido un zombi con una Nutriente, acaba con él para conseguirla!
+¡Ha aparecido un zombi brillando en verde, acaba con él para conseguir un Nutriente!
 
 [ADVICE_LAST_HINT]
 Planta más Girasoles para obtener soles y más plantas para defenderte de las grandes oleadas.
@@ -506,18 +497,18 @@ Consejo
 
 [ADVICE_ANIM_PLANT_SUNFLOWER]
 Consejo:
-1. Arrastra la carta del Girasol al césped para plantarlo.
+1. Arrastra el Girasol al césped para plantarlo.
 2. El Girasol produce soles.
 
 [ADVICE_IMG_ZOMBIE_HINT]
 Consejo:
 1. Los zombis se comerán tus plantas.
-2. ¡No dejes que los zombis lleguen a la casa de la izquierda!
+2. ¡No dejes que los zombis lleguen a tu casa!
 
 [ADVICE_ANIM_PLANT_PEASHOOTER]
 Consejo:
-1. Arrastra la carta del Guisante Disparador al césped para plantarlo.
-2. El Guisante Disparador ataca a los zombis que se acercan.
+1. Arrastra al Lanzaguisantes al césped para plantarlo.
+2. El Guisante Lanzaguisantes ataca a los zombis que se acercan.
 
 [ADVICE_IMG_BUCKET_ZOMBIE]
 Consejo:
@@ -788,61 +779,61 @@ MEJORAS
 ZOMBIS
 
 [APP_UPDATE_REQUIRED]
-请从AppStore下载最新的植物大战僵尸2
+Descarga la última versión de Plants vs. Zombies 2 desde la App Store.
 
 [ARE_YOU_SURE]
-你确定吗？
+¿Estás seguro?
 
 [AWARD_SCREEN_ALL_STARS]
-你获得了所有星星！
+¡Has conseguido TODAS las estrellas!
 
 [AWARD_SCREEN_AND]
-和
+y
 
 [AWARD_SCREEN_FINALDAY_COMPLETE]
-三星解锁开启！
+¡Día final completado!
 
 [AWARD_SCREEN_FIRSTKEY_DESCRIPTION]
-这是一把古老的钥匙，现在你需要的只是一把古老的锁。
+Esta es una llave antigua; ahora solo necesitas una cerradura antigua.
 
 [AWARD_SCREEN_FIRSTKEY_TITLE]
-神秘埃及钥匙！
+¡La misteriosa llave egipcia!
 
 [AWARD_SCREEN_GOAL_FAILED]
-^ff0000 目标失败
+^ff0000 El objetivo no fue alcanzado
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
-一台或多台小推车被触发了！
+¡Se han activado una o varias Cortadoras!
 
 [AWARD_SCREEN_MAPGADGET_DESCRIPTION]
-一张蕴含着宇宙奥义的古老羊皮纸。
+Un pergamino antiguo, que parece contener el esquema del cosmos.
 
 [AWARD_SCREEN_MAPGADGET_TITLE]
-时空地图
+Mapa espacio-temporal
 
 [AWARD_SCREEN_MULTIPLE_PRESENTS]
-得到礼物！
+¡Obtuviste REGALOS!
 
 [AWARD_SCREEN_NEW_PLANT]
-你得到了一棵新植物！
+¡Desbloqueaste una nueva PLANTA!
 
 [AWARD_SCREEN_NEW_AVATAR]
-你得到了一株新植物装扮！
+¡Conseguiste un nuevo DISFRAZ!
 
 [AWARD_SCREEN_AVATAR_PLANT_LOCKED]
-此装扮对应的植物还未解锁，赶紧去解锁植物吧！
+^FF0000^(La planta que lleva este Disfraz no la has desbloqueado)^oldclr^
 
 [AWARD_SCREEN_NEW_UPGRADE]
-获得一个新的强化道具！
+¡Tienes una nueva MEJORA!
 
 [AWARD_SCREEN_NO_STAR]
-未获得星星
+Has perdido la estrella
 
 [AWARD_SCREEN_ONE_PRESENT]
-得到礼物！
+¡Obtuviste un REGALO!
 
 [AWARD_SCREEN_POWERUP_TITLE]
-您解锁了新的道具！
+¡Has desbloqueado nuevos Power-Up!
 
 [AWARD_SCREEN_POWERUP_WIZARDFINGER_DESCRIPTION]
 召唤金手指的所有力量！
@@ -2941,6 +2932,7 @@ Copyright del juego (Propietario: Electronic Arts Inc.)
 [HEALTH_NOTICE_CONTENT_3]
 Este juego en línea es adecuado para usuarios mayores de 12 años. 
 Por su salud, por favor controle el tiempo de juego razonablemente.
+^oldclrNO actualizar el juego a menos que te lo exiga el propio juego.
 Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pepe)
 
 [HEALTH_NOTICE_CONTENT_4]
@@ -13274,31 +13266,31 @@ BOSS登场！大刀魔王和火药魔头来势汹汹，你能击败他们最终�
 {FLAVOR}仿佛来自于别的星球。
 
 [SPRING_TIPS_1]
-解锁的世界越多，所需达到的星星数也会越多哟。
+^00FA9A^Cuantos más mundos desbloquees, más estrellas tendrás que conseguir.
 
 [SPRING_TIPS_2]
-挑战世界的顺序越靠后，那个世界困难模式的难度越高。
+^00FA9A^Cuanto más adelante esté el mundo al que te enfrentas, mayor será la dificultad de su modo difícil.
 
 [SPRING_TIPS_3]
-潘妮小店每天都会提供不一样的植物碎片，记得经常去看看~
+^00FA9A^La tienda de Penny ofrece cada día piezas de plantas diferentes, así que no olvides pasar por allí de vez en cuando...
 
 [SPRING_TIPS_4]
-不要错过宝物中的免费抽奖机会，记得联网哟~
+^00FA9A^不要错过宝物中的免费抽奖机会，记得联网哟~
 
 [SPRING_TIPS_5]
-竞技菜单中有很多有趣的玩法，体验不一样的玩法策略吧！
+^00FA9A^竞技菜单中有很多有趣的玩法，体验不一样的玩法策略吧！
 
 [SPRING_TIPS_6]
-在同一场战斗中，战术黄瓜会越用越厉害哟~
+^00FA9A^在同一场战斗中，战术黄瓜会越用越厉害哟~
 
 [SPRING_TIPS_7]
-请经常光顾进阶功能，查看可以领取和进阶的植物！
+^00FA9A^请经常光顾进阶功能，查看可以领取和进阶的植物！
 
 [SPRING_TIPS_8]
-在星系中收集星星可以兑换各种植物和强化奖励。
+^00FA9A^在星系中收集星星可以兑换各种植物和强化奖励。
 
 [SPRING_TIPS_9]
-植物进阶到5阶需要的培养液可以在无尽商店中获得
+^00FA9A^植物进阶到5阶需要的培养液可以在无尽商店中获得
 
 
 [NARRATIVE_ZOMBOSS_BLADE_1]
@@ -85244,197 +85236,196 @@ DJ芦荟
 完美通关周年秘境的证明
 
 [PLAYERS_TRIP_TO_ZOMBIERUSH]
-{PLAYER}的僵尸清除之旅！
+¡La aniquilación zombi de {PLAYER}!
 
 [ZOMBIERUSH_LEVEL_NAME]
-僵尸清除计划-第{LEVEL_NUMBER}天 
+Aniquilación zombi - Fase {LEVEL_NUMBER}
 
 [ZOMBIE_ZCORP]
-Z公司新雇员僵尸
+Empleado de ZCorp
 
 [ZOMBIE_ZCORP_DESCRIPTION]
-在入职培训中，他得到了自己的 Z 公司标准咖啡杯。
+Trabaja sin descanso día y noche, incluso horas extra, y lo único que le han dado es la taza que lleva.
 
 [ZOMBIE_ZCORP_DESCRIPTION_HEADER]
-一位 Z 公司股份有限公司的普通员工。
+Un empleado normal de ZCorp.
 
 [ZOMBIE_ZCORP_ARMOR1]
-Z公司路障僵尸
+Caracono ZCorp
 
 [ZOMBIE_ZCORP_ARMOR1_DESCRIPTION]
-论生产用来保护颅骨的大号锥形图钉，Z 公司遥遥领先。
+ZCorp es el único distribuidor de los "Pines Cono", ya que se han asegurado de eliminar la competencia. Caracono ZCorp sólo compra los pines.
 
 [ZOMBIE_ZCORP_ARMOR1_DESCRIPTION_HEADER]
-一位 Z 公司的普通员工，只是脑袋多了些东西。
+Un empleado de ZCorp con un cuaderno clavado a la cabeza, lo normal.
 
 [ZOMBIE_ZCORP_ARMOR2]
-Z公司铁桶僵尸
+Caracubo ZCorp
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION]
-Z 公司严格遵守各地的废物处理条例。​
+Al ser contratado, ZCorp le proporcionó una papelera de reciclaje como protección (No el cubo convencional porque inflinge los derechos de Copyright)
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION_HEADER]
-这位员工用环保的回收桶来保护自己的脑袋
+Una papelera de reciclaje respetuosa con el medioambiente le protege la cabeza de cualquier daño.
 
 [ZOMBIE_ZCORP_FLAG]
-Z公司旗帜僵尸
+Zombi abanderado de ZCorp
 
 [ZOMBIE_ZCORP_FLAG_DESCRIPTION]
-Z公司自主设计了品牌旗帜标志，并为此深感自豪。
+Lleva con orgullo la bandera de ZCorp. "Es mi manera de agradecer que me hayan dado trabajo" dice.
 
 [ZOMBIE_ZCORP_FLAG_DESCRIPTION_HEADER]
-这面旗帜既能高效提升品牌曝光，同时也预示着——一大波僵尸即将来袭，准备啃食你的大脑！​
+La bandera es una forma estupenda de crear reconocimiento de marca e indicar a la vez que van a aparecer muchos más zombis a comerse tu cerebro.
 
 [ZOMBIE_ZCORP_FEM]
-Z公司合同工僵尸
+Contratista de ZCorp
 
 [ZOMBIE_ZCORP_FEM_DESCRIPTION]
-连合同工都有免费的咖啡杯，Z 公司真是太包容了。
+ZCorp es una compañía tan inclusiva que hasta les da a sus contratistas tazas gratis.
 
 [ZOMBIE_ZCORP_FEM_DESCRIPTION_HEADER]
-一位 Z 公司的普通合同工。
+Aquí no hay nada que ver, sólo una contratista más de ZCorp.
 
 [ZOMBIE_ZCORP_FEM_ARMOR1]
-Z公司合同工路障僵尸
+Contratista Caracono
 
 [ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION]
-Z 公司的合同工可以低价购买 Z 公司的办公用品。
+Fue lo más barato que pudo pagar en materiales de oficina, y eso incluso con los descuentos que le hace ZCorp.
 
 [ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION_HEADER]
-正是笔记本与超大图钉的绝妙搭配，让这位合同工脱颖而出。
+La combinación de un cuaderno y un pin absurdamente grande hace destacar a esta contratista.
 
 [ZOMBIE_ZCORP_FEM_ARMOR2]
-Z公司合同工铁桶僵尸
+Contratista Caracubo
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION]
-Z公司鼓励合同工脑洞大开，想出保护头部的创新妙招。​
+Según dice, ZCorp la contrató porque "tuvo una idea innovadora y completamente original". Sorprendentemente, Zombi Caracubo no se ha pronunciado.
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION_HEADER]
-回收桶不仅能保护脑袋，更能保护地球的环境。
+Los cubos de reciclaje son un tocado excelente y respetuoso con el medioambiente.
 
 [ZOMBIE_ZCORP_GARGANTUAR]
-Z公司总部巨型小鬼僵尸
+Zombisteinito Director
 
 [ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION]
-总部巨鬼僵尸的大门永远向你敞开，不过，我不建议你真信这句话。
+"Hace mucho intercambié cuerpo con un zombistein" -siempre cuenta Zombinsteinito director, así siempre explica el cómo puede lanzar Zombisteins.
 
 [ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION_HEADER]
-他那巨大的脑袋是砸碎植物的钝器。
+Sorprendentemente lanza zombisteins, desafiando toda lógica
 
 [ZOMBIE_ZCORP_IMP]
-Z公司微型巨人法律顾问僵尸
+Zombidistein Jurista
 
 [ZOMBIE_ZCORP_IMP_DESCRIPTION]
-法务部小巨人僵尸送达律师函的方式很传统——直接抄起棒球棒。
+Él lleva la cuenta de los impuestos y lo sabe todo en leyes, por eso cada que vez que puede, usa la ley a su favor y aplaza los juicios en contra de ZCorp.
 
 [ZOMBIE_ZCORP_IMP_DESCRIPTION_HEADER]
-身体不大，本事不小，小巨人法务部不仅是业内最强，更是业内最凶。
-
+Él es la definición de "Chiquito pero peligroso" . Su departamento es la crème de la necrème del negocio zombi.
 
 [ZOMBIE_ZCORP_CONSULTANT]
-Z公司顾问僵尸
+Consultora de ZCorp
 
 [ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION]
-她不仅是 Z 公司的员工，同时也是他们的咨询顾问。这份工作要是能拿到，那可真是太爽了！
+No solo es empleada de ZCorp, sino también su consultora. ¡Conseguir ese trabajo sería fantástico!
 
 [ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION_HEADER]
-Z 公司顾问僵尸可以颠覆你的思维范式，管你什么蓝天思维还是红海战略，一律全部推翻。
+Consultora de ZCorp te cambia los paradigmas y vuela por los aires tus ideas preconcebidas.
 
 [ZOMBIE_ZCORP_HELPDESK]
-Z公司技术支持僵尸
+Asistente ZCorp
 
 [ZOMBIE_ZCORP_HELPDESK_DESCRIPTION]
-Z 公司技术支持僵尸竭诚为您服务，尤其擅长解决草坪上植物过多的问题！
+Según cuentan los rumores, Asistente ZCorp trató de correr un juego de última generación en la computadora que le regaló el Gobierno zombi. Y, bueno...
 
 [ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER]
-Z 公司技术支持僵尸从天而降，随后扔出一台可以爆炸的笔记本电脑。
+El Asistente ZCorp cae y lanza una computadora portátil explosiva.
 
 [ZOMBIE_ZCORP_RACER_CHAIR]
-Z公司办公椅赛车手僵尸
+Sillatleta de ZCorp
 
 [ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION]
-Z 公司办公椅赛车手僵尸为 Z 公司的生活带来了欢乐与松弛感。
+Presentó su proyecto "Silla Catapulta" a la comunidad zombi. Ahora aporta diversión y espontaneidad a la experiencia zcorporativa.
 
 [ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION_HEADER]
-Z 公司办公椅赛车手僵尸速度极快，造成猛烈撞击后以优雅的姿势向左侧弹射而出。
+Entra a toda velocidad, choca con un enorme impacto y se catapulta hacia la izquierda con una gracilidad extraordinaria.
 
 [ZOMBIE_GENERAL_ZMECH_PHASE1]
-Z机甲僵尸
+Z-Mech
 
 [ZOMBIE_GENERAL_ZMECH_PHASE1_DESCRIPTION]
-协议 1：不必保护小鬼僵尸；协议 2：得到脑子；协议 3：迪斯科!!!!!
+Ha viajado entre universos trabajando para Dr. Zomboss, desde Pvz Heroes hasta Garden Warfare. Ésta vez fue a parar en Pvz2.
 
 [ZOMBIE_GENERAL_ZMECH_PHASE1_DESCRIPTION_HEADER]
-部署一整套可以召唤与传送僵尸的科技道具，袭扰、攻击场上的植物，对其造成威胁。
+Despliega tecnología de invocación y teletransportación para hostigar, dañar y poner en peligro a las plantas del mapa.
 
 [ZOMBIE_GENERAL_ZMECH_PHASE2]
-Z机甲僵尸
+Z-Mech 2.0
 
 [ZOMBIE_GENERAL_ZMECH_PHASE3]
-Z机甲僵尸
+Z-Mech 3.0
 
 [ZOMBIE_FUTURE_JETPACK_VETERAN]
-宇航员喷射器僵尸
+Zombi Explotastronauta
 
 [ZOMBIE_FUTURE_JETPACK_VETERAN_DESCRIPTION]
-宇航员喷射器僵尸的火箭背包纯属装饰——他的悬浮能力全靠深度冥想和体内满满的氦气。​
+La mochila propulsora de Zombi explotastronauta es estrictamente decorativa. Puede flotar gracias a un estado de meditación profundo y por estar lleno de helio.
 
 [ZOMBIE_FUTURE_JETPACK_VETERAN_DESCRIPTION_HEADER]
-宇航员喷射器僵尸加速升空，能轻松越过绝大多数植物——除非遇到最高的那些。
+Zombi explotastronauta se propulsa para sobrevolar todas las plantas menos las más altas.
 
-[NEW_AVATAR_DESCRIPTION_KELPGUARD_1]
-生命值增加20%
+[NEW_AVATAR_DESCRIPTION_KELPGUARD_1] 
+Mejora la salud un 20%
 
 [NEW_AVATAR_DESCRIPTION_ESCAPEROOT_2]
-种植冷却减少15%
+Reduce el tiempo de recarga un 15%
 
 [NEWYEARREDPACKET_REWARDNAME]
-2月 {NUMBER} 日  
+{NUMBER}/8
 
 [WARNING_BUNGEE_TIP]
-蹦极僵尸来了！
+¡Que caen los Colgaos!
 
 [WARNING_SANTA_TIP]
-圣诞老人来了！
+¡Santa Claus llegó a la ciudad!
 
 [STARCHALLENGE_DISABLEPLANT]
-禁用 {TYPE} 类植物
+No puedes usar plantas de tipo: {TYPE}
 
 [STARCHALLENGE_DISABLEPLANT_NAME]
-禁用植物
+Plantas prohibidas
 
 [STARCHALLENGE_SUNREDUCED]
-降低 {COUNT} % 阳光收取
+Se reduce la producción solar en un {COUNT} %.
 
 [STARCHALLENGE_SUNREDUCED_NAME]
-降低阳光收获
+Soles Escasos
 
 [STARCHALLENGE_ZOMBIESPEED]
-增加 {COUNT} %僵尸移动速度
+La velocidad de los zombis aumenta en un {COUNT}%
 
 [STARCHALLENGE_ZOMBIESPEED_NAME]
-增加僵尸移动速度
+Zombies Acelerados
 
 [WARNING_WITCH_APPEAR_DESC]
-女巫即将到场，请小心！
+¡Apareció una bruja, ten cuidado!
 
 [PLANTING_NOT_ON_FLAMES_DOOMSHROOM]
-该植物不能种植在灰烬坑上!
+¡No puedes plantar en cráteres!
 
 [UI_GINGLEBELL_TIPS]
-赛季机制
+Mecánicas de temporada
 
 [SPACETIMERIFT_TITLE]
-时空裂缝奖励宝箱
+Cofre espacio-temporal
 
 [UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_1]
-1 本期全服贡献点: {NUM}w
+1. Puntos de temporada: {NUM} DPS
 
 [UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_2]
-2 今日小队挑战累计伤害: {NUM}w
+2. Puntos diarios: {NUM} DPS
 
 [UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_3]
-3 本期助战模式挑战次数: {NUM}
+3. Intentos esta temporada: {NUM}
 
 [SPACETIMERIFT_DES_DESCRIPTION]
 时空裂缝中可领取的奖励共有3条进度：
@@ -85465,36 +85456,36 @@ Z机甲僵尸
 5.时空裂缝限定头像
 
 [SPACETIMERIFT_DES_TITLE]
-奖励描述
+Descripción de la recompensa
 
 [UNCHARTED_PHATBEET]
-秘境魔音甜菜
+Remolacha Tremenda
 
 [UNCHARTED_PHATBEET_TOOLTIP]
-每隔数秒用弹奏造成伤害
+Inflige daño cada poco tiempo
 
 [UNCHARTED_CARROTLAUNCHER]
-秘境胡萝卜导弹车
+Zanahortillería
 
 [UNCHARTED_CARROTLAUNCHER_TOOLTIP]
-发射胡萝卜飞弹，对前方僵尸造成大威力伤害。
+Lanza zanahorias misil para infligir un daño masivo a los zombis que tengas delante.
 
 [UNCHARTED_HAYSTACK]
-草垛
+Césped
 
 [UNCHARTED_HAYSTACK_DESCRIPTION]
-{KEYWORD}用法：{STAT} 可以种植在坑道地形
-{KEYWORD}植物特征：{STAT}矮个子、绿色植物
-{FLAVOR}草垛在原本的世界只是作为其他植物和僵尸作战的背景板，直到来到秦始皇陵后，他终于找到了自己的用武之地。现在，草垛作为对抗秦始皇陵必不可少的“基石”，活跃在第一线！
+{KEYWORD}Uso：{STAT} Se puede plantar en caminos de tierra
+{KEYWORD}Características：{STAT}Planta chaparra, planta verde
+{FLAVOR}En su mundo original, el césped era simplemente un telón de fondo para otras plantas y zombis en sus batallas. Sin embargo, tras llegar al Palacio Subterráneo, finalmente encontró su propósito. Ahora, sirve como una "piedra angular" indispensable en la lucha contra los zombis del Palacio Subterráneo, ¡no olvides llevarla de paseo a ese lugar!
 
 [UNCHARTED_HAYSTACK_DESCRIPTION_HEADER]
-草垛可以在坑道地形时承载植物。
+Se planta en caminos de tierra, se le pueden poner plantas encima
 
 [STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK_TITLE]
-草垛装扮
+Liebre
 
 [STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK]
-阳光消耗减少15点
+Reduce el coste en 15 soles
 
 [UNCHARTED_HAYSTACK_NEW_SKILL_LEVEL1_DES]
 Después de plantar césped, podrás plantar sobre los caminos de tierra
