@@ -2323,7 +2323,7 @@ x {NUMBER}
 神秘埃及之门
 
 [EGYPT_LEVEL_NAME]
-神秘埃及-第{LEVEL_NUMBER}天
+Antiguo Egipto - Día {LEVEL_NUMBER}
 
 [EGYPT_FINAL_LEVEL]
 神秘埃及-终极挑战
@@ -2344,10 +2344,10 @@ x {NUMBER}
 {PLAYER}的时空裂缝之旅
 
 [HEIAN_LEVEL_NAME]
-平安时代-第{LEVEL_NUMBER}天
+Perido Heian - Día {LEVEL_NUMBER}
 
 [ATLANTIS_LEVEL_NAME]
-海底世界-第{LEVEL_NUMBER}天
+La Atlántida - Día {LEVEL_NUMBER}
 
 [ATLANTIS_AQUARIUM]
 僵尸水族馆
@@ -2386,7 +2386,7 @@ x {NUMBER}
 天空之门
 
 [SKYCITY_LEVEL_NAME]
-天空之城-第{LEVEL_NUMBER}天
+Ciudad Aérea - Día {LEVEL_NUMBER}
 
 [ENTER_UNIQUE_PLAYER_NAME]
 您输入的用户名已被使用，请输入一个新的用户名。
@@ -2433,7 +2433,7 @@ FACEBOOK
 
 
 [FUTURE]
-未来世界
+Futuro Lejano
 
 [FUTURE_LAST]
 未来世界-终极挑战
@@ -2448,7 +2448,7 @@ FACEBOOK
 未来挑战2-{LEVEL_NUMBER}
 
 [FUTURE_LEVEL_NAME]
-未来世界-第{LEVEL_NUMBER}天
+Futuro Lejano - Día {LEVEL_NUMBER}
 
 [BIRTHDAYZ_LEVEL_NAME]
 海螺大作战
@@ -4229,7 +4229,7 @@ Ha realizado suficientes investigaciones y siempre presta atención a los últim
 海盗之门
 
 [PIRATE_LEVEL_NAME]
-海盗港湾-第{LEVEL_NUMBER}天
+Mares Piratas - Día {LEVEL_NUMBER}
 
 [PLANT]
 植物
@@ -4250,7 +4250,7 @@ Ha realizado suficientes investigaciones y siempre presta atención a los últim
 点击以收集能量豆
 
 [PLANTS]
-植物
+PLANTAS
 
 [PLAY]
 返回游戏
@@ -4269,46 +4269,46 @@ Ha realizado suficientes investigaciones y siempre presta atención a los últim
 下一关！
 
 [PLAYERS_HOUSE]
-{PLAYER}的房子
+Casa de {PLAYER}
 
 [PLAYERS_TRIP_TO_DANGER_ROOM]
-准备好迎接无尽的僵尸大军！
+Zona del Infinito
 
 [PLAYERS_TRIP_TO_EGYPT]
-{PLAYER}的神秘埃及之旅
+El viaje de {PLAYER} al Antiguo Egipto
 
 [PLAYERS_TRIP_TO_FUTURE]
-{PLAYER}的未来世界之旅！
+El viaje de {PLAYER} al Futuro Lejano
 
 [PLAYERS_TRIP_TO_PIRATE_SHIP]
-{PLAYER}的海盗港湾之旅！
+El viaje de {PLAYER} a los Mares Piratas
 
 [PLAYERS_TRIP_TO_WEST]
-{PLAYER}的狂野西部之旅
+El viaje de {PLAYER} al Salvaje Oeste
 
 [PLAYERS_TRIP_TO_DARK]
-{PLAYER}的黑暗时代之旅
+El viaje de {PLAYER} a la Edad Oscura
 
 [PLAYERS_TRIP_TO_DARKAGES]
-{PLAYER}的黑暗时代之旅
+El viaje de {PLAYER} a la Edad Oscura
 
 [PLAYERS_TRIP_TO_BEACH]
-{PLAYER}的巨浪沙滩之旅
+El viaje de {PLAYER} a Playa de la Gran Ola
 
 [PLAYERS_TRIP_TO_ICEAGE]
-{PLAYER}的冰河世界之旅
+El viaje de {PLAYER} a Cuevas Congeladas
 
 [PLAYERS_TRIP_TO_SKYCITY]
-{PLAYER}的天空之旅
+El viaje de {PLAYER} a Ciudad Aérea
 
 [PLAYERS_TRIP_TO_LOSTCITY]
-{PLAYER}的失落之旅
+El viaje de {PLAYER} a Ciudad Perdida
 
 [PLAYERS_TRIP_TO_HEIAN]
-{PLAYER}的平安时代之旅！
+El viaje de {PLAYER} al Periodo Heian
 
 [PLAYERS_TRIP_TO_ATLANTIS]
-{PLAYER}的海底世界之旅！
+El viaje de {PLAYER} a la Atlántida
 
 [WARNING_LOW_TIDE]
 小心，退潮了！
@@ -6592,16 +6592,16 @@ Nuez
 穿过火炬树桩的豌豆会变成火弹。
 
 [TRY_AGAIN]
-再次尝试
+Reintentar
 
 [TUTORIAL]
-教学关
+Tutorial
 
 [TUTORIAL_FLICK_HELP]
 试试看把他们扔远
 
 [TUTORIAL_LEVEL_NAME]
-{PLAYER}的房子 
+Casa de {PLAYER} - Día {LEVEL_NUMBER}
 
 [TUTORIAL_PINCH_HELP]
 试着掐掐他们
@@ -6878,7 +6878,7 @@ Nuez
 开始！
 
 [WARNING_FINAL_WAVE]
-最后一波攻势
+OLEADA FINAL
 
 [WARNING_RAIDINGPARTY]
 海盗登船了！
@@ -6902,13 +6902,13 @@ Nuez
 开始！
 
 [WARNING_STANDARD_1]
-好…
+En sus marcas...
 
 [WARNING_STANDARD_2]
-准备…
+Listos...
 
 [WARNING_STANDARD_3]
-开始！
+¡A PLANTAR!
 
 [WARNING_THUNDER_TIP]
 雷云风暴来袭！
@@ -6947,7 +6947,7 @@ Nuez
 围栏之战-第3天
 
 [WEST_LEVEL_NAME]
-狂野西部-第{LEVEL_NUMBER}天
+Salvaje Oeste - Día {LEVEL_NUMBER}
 
 [WHO_ARE_YOU]
 你是谁？
@@ -6984,58 +6984,58 @@ Nuez
 记录{NUMBER}关
 
 [WORLD_NAME_COMING_SOON]
-即将推出
+Próximamente...
 
 [WORLD_NAME_COWBOY]
-狂野西部
+Salvaje Oeste
 
 [WORLD_NAME_EGYPT]
-神秘埃及
+Antiguo Egipto
 
 [WORLD_NAME_PIRATE]
-海盗港湾
+Mares Piratas
 
 [WORLD_NAME_DARK]
-黑暗时代
+Edad Oscura
 
 [WORLD_NAME_DARKAGE]
-黑暗时代
+Edad Oscura
 
 [WORLD_NAME_BEACH]
-巨浪沙滩
+Playa de la Gran Ola
 
 [WORLD_NAME_ICEAGE]
-冰河世界
+Cuevas Congeladas
 
 [WORLD_NAME_SKYCITY]
-天空之城
+Ciudad Aérea
 
 [WORLD_NAME_LOSTCITY]
-失落之城
+Ciudad Perdida
 
 [WORLD_NAME_STEAM]
-蒸汽时代
+Edad del Vapor
 
 [WORLD_NAME_RENAI]
-复兴时代
+Edad Renacentista
 
 [WORLD_NAME_HEIAN]
-平安时代
+Periodo Heian
 
 [WORLD_NAME_ATLANTIS]
-海底世界
+La Atlántida
 
 [WORLD_NAME_TALE]
-童话森林
+Bosque Encantado
 
 [LOSTCITY_LEVEL_NAME]
-失落之城-第{LEVEL_NUMBER}天
+Ciudad Perdida - Día {LEVEL_NUMBER}
 
 [DARK]
-黑暗时代
+Edad Oscura
 
 [DARKAGE]
-黑暗时代
+Edad Oscura
 
 [WORLD_PREVIEW_STAR_UNLOCK_MSG]
 解锁还需
@@ -11402,10 +11402,10 @@ UC至尊大礼包
 僵尸博士即将降临，敬请期待
 
 [PLAYERS_TRIP_TO_KONGFU]
-{PLAYER}的功夫世界之旅
+El viaje de {PLAYER} a la Dinastía del Kung Fu
 
 [KONGFU_LEVEL_NAME]
-功夫世界-第{LEVEL_NUMBER}天
+Dinastía del Kung Fu - Día {LEVEL_NUMBER}
 
 [RNDBOSS_LEVEL_NAME]
 穿越时空僵王挑战
@@ -13296,125 +13296,6 @@ Macetas o Disfraces a tus plantas, y hacerlas más fuertes.
 [SPRING_TIPS_9]
 ^00FA9A^Reúne estrellas para canjearlas por Premios Estelares.
 
-[SPRING_TIPS_10]
-^00FA9A^Las Pociones de cultivo se usan para mejorar plantas al Nvl. 4 en adelante.
-Puedes conseguirlas jugando a eventos y en la tienda.
-
-[SPRING_TIPS_11]
-^00FA9A^¡Diviértete completando Retos diarios y consigue Piezas para tus plantas y disfraces!
-
-[SPRING_TIPS_12]
-^00FA9A^Completa un Nivel en Modo difícil.
-¡Obtendrás el resto de Estrellas y un Cofre misterioso!
-
-[SPRING_TIPS_13]
-^00FA9A^Consigue todas las Estrellas de un mundo para acceder al Día Final.
-
-[SPRING_TIPS_14]
-^00FA9A^Desbloquea todas las plantas de un mundo para conseguir el Trofeo de Plantas.
-
-[SPRING_TIPS_15]
-^00FA9A^Recoleta todas las Estrellas de un Mundo para conseguir el Trofeo de Estrellas.
-
-[SPRING_TIPS_16]
-^00FA9A^¡Derrota al jefe de cada mundo para conseguir su Trofeo del Jefe!
-
-[SPRING_TIPS_17]
-^00FA9A^Visita la sección "Familia de Plantas" para mejorar los atributos de tus plantas.
-
-[SPRING_TIPS_18]
-^00FA9A^Compite contra otros jugadores en Batallaz y gana Premioz.
-
-[SPRING_TIPS_19]
-^00FA9A^Los Libros de avances se utilizan para mejorar plantas sin Piezas ni Monedas.
-¡Consíguelos en El Tesoro de Dave y otros eventos!
-
-[SPRING_TIPS_20]
-^00FA9A^¡Juega a La Búsqueda de Penny para competir contra otros jugadores y ganar premios!
-
-[SPRING_TIPS_21]
-^00FA9A^¿Cuánto tiempo puedes aguantar en la Zona de Infinito?
-Acepta el desafío y acumula recompensas.
-
-[SPRING_TIPS_22]
-^00FA9A^¡Explora los Reinos Secretos y gana premios mientras juegas!
-
-[SPRING_TIPS_23]
-^00FA9A^Nuevos desafíos te esperan en la Dimensión del Recuerdo.
-¡Complétalos para ganar premios jugosos!
-
-[SPRING_TIPS_24]
-^00FA9A^¡No olvides revisar el Tronco de viaje de vez en cuando!
-
-[SPRING_TIPS_25]
-^00FA9A^¡Completa misiones del Pase de batalla para ganar premios!
-
-[SPRING_LOADING_TEXT_1]
-^00FA9A^Cargando...
-
-[SPRING_LOADING_TEXT_2]
-^00FA9A^Ordenando unos y ceros...
-
-[SPRING_LOADING_TEXT_3]
-^00FA9A^Despertando a las plantas...
-
-[SPRING_LOADING_TEXT_4]
-^00FA9A^Despertando a los zombis...
-
-[SPRING_LOADING_TEXT_5]
-^00FA9A^Añadiendo belleza...
-
-[SPRING_LOADING_TEXT_6]
-^00FA9A^Inyectando un 150% de ZAM...
-
-[SPRING_NEW_TIPS_1]
-^00FA9A^Deja espacio en las columnas de atrás para las plantas vulnerables.
-
-[SPRING_NEW_TIPS_2]
-^00FA9A^Planta productoras solares a menudo y con antelación.
-
-[SPRING_NEW_TIPS_3]
-^00FA9A^Intenta plantar 2 columnas de productoras solares.
-
-[SPRING_NEW_TIPS_4]
-^00FA9A^Ahorra soles para hacerte con plantas caras y poderosas.
-
-[SPRING_NEW_TIPS_5]
-^00FA9A^Dales Nutrientes a los Girasoles para obtener soles extra.
-
-[SPRING_NEW_TIPS_6]
-^00FA9A^Una planta es invulnerable mientras dura el efecto de los Nutrientes.
-
-[SPRING_NEW_TIPS_7]
-^00FA9A^No tengas miedo de plantar en la parte derecha del patio.
-
-[SPRING_NEW_TIPS_8]
-^00FA9A^Toma ventaja.
-
-[SPRING_NEW_TIPS_9]
-^00FA9A^Prueba plantas instakill como Frijol o Carnívora contra zombis de alta salud o con gran blindaje.
-
-[SPRING_NEW_TIPS_10]
-^00FA9A^Los Zombiditos lanzados suelen aterrizar en el mismo sitio.
-
-[SPRING_NEW_TIPS_11]
-^00FA9A^Algunas plantas son buenas contra ciertos zombis.
-¡Lee el Almanaque de vez en cuando!
-
-[SPRING_NEW_TIPS_12]
-^00FA9A^Detén o ralentiza a los primeros zombis y gana tiempo para generar soles.
-
-[SPRING_NEW_TIPS_13]
-^00FA9A^Produce soles lo más rápido posible.
-
-[SPRING_NEW_TIPS_14]
-^00FA9A^Cambia las productoras solares por plantas ofensivas al avanzar en el nivel.
-
-[SPRING_NEW_TIPS_15]
-^00FA9A^Coloca a las plantas de corta distancia detrás de las defensas.
-
-[SPRING_NEW_TIPS_16]
-^00FA9A^¡Sigue plantando!
 
 [NARRATIVE_ZOMBOSS_BLADE_1]
 {NPC_ENTER:crazydave}{SAY}Boss
@@ -16264,10 +16145,10 @@ Z公司技术支持僵尸从天而降，随后扔出可以爆炸的电脑
 可以随着自身的成长释放越来越强大的法术攻击前方的僵尸。
 
 [DARK_LEVEL_NAME]
-黑暗时代-第{LEVEL_NUMBER}天
+Edad Oscura - Noche {LEVEL_NUMBER}
 
 [DARKAGES_LEVEL_NAME]
-黑暗时代-第{LEVEL_NUMBER}天
+Edad Oscura - Noche {LEVEL_NUMBER}
 
 [WORLD_MAP_TIME_LEVEL_DECS]
 这种神奇的墓碑看上去很坚固，你可能需要一些时间才能清理掉它。点击立即解锁可以立即清理完毕。
@@ -16285,7 +16166,7 @@ Z公司技术支持僵尸从天而降，随后扔出可以爆炸的电脑
 钻石即可立即解锁当前关卡，需要立即解锁吗？
 
 [LOGIN_REWARD]
-登录奖励
+Premios diarios
 
 [LOGIN_REWARD_BODY]
 360登录成功，请领取35钻石的奖励。
@@ -17317,10 +17198,10 @@ Lv.1 新手上路(0积分)                8钻石
 躲开障碍物！
 
 [BEACH]
-巨浪沙滩
+Playa de la Gran Ola
 
 [BEACH_LEVEL_NAME]
-巨浪沙滩 第{LEVEL_NUMBER}天
+Playa de la Gran Ola - Día {LEVEL_NUMBER}
 
 [BANANA]
 香蕉火箭炮
@@ -20146,7 +20027,7 @@ ca=了解敦煌知识|不去参观|破坏文物|什么都不做|
 时空穿梭-冰河世界
 
 [ICEAGE_LEVEL_NAME]
-冰河世界-第{LEVEL_NUMBER}天
+Cuevas Congeladas - Día {LEVEL_NUMBER}
 
 [XSHOT]
 旋转芜菁
@@ -25384,7 +25265,7 @@ x {SPEED}
 剩余 {TIME}
 
 [KILL_ALL_ZOMBIE]
-收集阳光种植植物，抵挡僵尸的入侵。
+Elige tus plantas y acaba con los zombis
 
 [EVIL_DAVID_CHALLENGE_FINISH]
 您已打败邪恶戴夫。
@@ -25989,7 +25870,7 @@ x {SPEED}
 获取宝箱失败
 
 [EIGHTIES]
-摇滚年代
+Vueltacasete de Neón
 
 [EIGHTIES_LAST]
 摇滚年代-终极挑战
@@ -25998,13 +25879,13 @@ x {SPEED}
 时空穿梭-摇滚年代
 
 [EIGHTIES_LEVEL_NAME]
-摇滚年代-第{LEVEL_NUMBER}天
+Vueltacasete de Neón - Día {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_EIGHTIES]
-{PLAYER}的摇滚年代之旅
+El viaje de {PLAYER} a Vueltacasete de Neón
 
 [WORLD_NAME_EIGHTIES]
-摇滚年代
+Vueltacasete de Neón
 
 [WARNING_BASSRAIN]
 贝斯手僵尸闪亮登场！
@@ -27491,10 +27372,10 @@ WEASEL ENSEMBLE
 大脑焦油坑
 
 [DINO]
-恐龙危机
+Pantano del Jurásico
 
 [DINO_LEVEL_NAME]
-恐龙危机-第{LEVEL_NUMBER}天
+Pantano del Jurásico - Día {LEVEL_NUMBER}
 
 [DINO_LEVEL_NAME1]
 时空穿梭-恐龙危机
@@ -29123,37 +29004,37 @@ PIÑATA 派对
 破罐者
 
 [MODERN]
-摩登时代
+Tiempos Modernos
 
 [STEAM]
-蒸汽时代
+Edad del Vapor
 
 [RENAI]
-文艺复兴
+Edad Renacentista
 
 [HEIAN]
-平安时代
+Periodo Heian
 
 [TALE]
-童话森林
+Bosque Encantado
 
 [ATLANTIS]
-海底世界
+La Atlántida
 
 [MODERN_DANGER_ROOM_NAME]
 危房高速
 
 [MODERN_LEVEL_NAME]
-摩登世界-第{LEVEL_NUMBER}天 
+Tiempos Modernos - Día {LEVEL_NUMBER}
 
 [BATTLE_LEVEL_NAME]
 超Z联赛
 
 [STEAM_LEVEL_NAME]
-蒸汽时代-第{LEVEL_NUMBER}天 
+Edad del Vapor - Día {LEVEL_NUMBER}
 
 [RENAI_LEVEL_NAME]
-复兴时代-第{LEVEL_NUMBER}天 
+Edad Renacentista - Día {LEVEL_NUMBER} 
 
 [RENAI_FINALE_NAME]
 复兴时代-终极挑战
@@ -31544,9 +31425,9 @@ PIÑATA 派对
 [PLAYERS_EPIC_QUEST_GEMJAM]
 {PLAYER}的史诗宝石乐队任务！
 [PLAYERS_TRIP_TO_DINO]
-{PLAYER}的恐龙危机旅程！
+El viaje de {PLAYER} al Pantano del Jurásico
 [PLAYERS_TRIP_TO_EIGHTIES]
-{PLAYER}的摇滚年代旅程
+El viaje de {PLAYER} a Vueltacasete de Neón
 [PLAYERS_TRIP_TO_HOLIDAY]
 {PLAYER}的盛宴派对！
 [PLAYERS_TRIP_TO_LOD]
@@ -31555,17 +31436,17 @@ PIÑATA 派对
 [PLAYERS_TRIP_TO_LOD__BIRTHDAY]
 {PLAYER}的生日派对！
 [PLAYERS_TRIP_TO_MODERN]
-{PLAYER}的摩登世界之旅！
+El viaje de {PLAYER} a la Edad Moderna
 [PLAYERS_TRIP_TO_PREVIEW]
 {PLAYER}的植物游乐园！
 [POWERUP_BEGHOULED_SHOVEL]
 强力铲子
 
 [PLAYERS_TRIP_TO_STEAM]
-{PLAYER}的蒸汽时代之旅！
+El viaje de {PLAYER} a la Edad del Vapor
 
 [PLAYERS_TRIP_TO_RENAI]
-{PLAYER}的复兴时代之旅！
+El viaje de {PLAYER} a la Edad Renacentista
 
 [PLAYERS_TRIP_TO_BATTLE]
 {PLAYER}的超Z联赛之旅！
@@ -71609,7 +71490,7 @@ ca=大招能用金箍棒把僵尸砸进地里|提升大招高能激光的伤害|
 踏雪寻春-第13天
 
 [PLAYERS_TRIP_TO_ZCORP]
-{PLAYER}的Z公司之旅
+El viaje de {PLAYER} a ZCorp
 
 [ZCORP_LEVEL_NAME_01_N]
 Z公司-第1天
