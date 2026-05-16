@@ -2919,7 +2919,7 @@ La cuenta original del dispositivo se eliminará
 Obtén Diamantes gratis
 
 [HEALTH_NOTICE_CONTENT]
-Éste mod fue creado por ^80BFFF Gameplays con El Pepe, ^oldclr^es gratis, así que ten cuidado con las estafas.
+Éste mod fue creado por ^80BFFF^Gameplays con El Pepe, es gratis, así que ten cuidado con las estafas.
 
 [HEALTH_NOTICE_TITLE]
 Aviso:
@@ -2932,7 +2932,7 @@ Copyright del juego (Propietario: Electronic Arts Inc.)
 [HEALTH_NOTICE_CONTENT_3]
 Este juego en línea es adecuado para usuarios mayores de 12 años. 
 Por su salud, por favor controle el tiempo de juego razonablemente.
-Estás usando la versión ^0000FF^4.1.0 del mod
+Estás usando la versión ^00AAE4^4.1.0 del mod
 ^FF0000^NO actualizar el juego a menos que te lo exiga el propio juego.
 Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pepe)
 
@@ -4198,23 +4198,23 @@ Ha realizado suficientes investigaciones y siempre presta atención a los últim
 堆叠种植数棵豌豆，造成多倍伤害。
 
 [PEASHOOTER]
-豌豆射手
+Lanzaguisantes
 
 [PEASHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}“问我成功的滋味如何？”豌豆射手慢悠悠地啜了一口热茶。“这个我现在不能告诉你，我正在整理我的商业合同。这是我的外套，保管好！”
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}"¿Que cómo sabe el éxito?», pregunta Lanzaguisantes mientras da un sorbo pausado a su té caliente. «Eso no te lo puedo decir ahora, estoy revisando mis contratos comerciales. Aquí tienes mi chaqueta, ¡cuídala bien!"
 
 [PEASHOOTER_DESCRIPTION_HEADER]
-豌豆射手，你的第一道防线，发射豌豆攻击僵尸。
+Dispara guisantes para acabar con los zombis.
 
 [PEASHOOTER_PLANTFOOD]
-连续发射一串豌豆，造成巨大伤害。
+Dispara una ráfaga de guisantes para infligir un daño enorme.
 
 [PEASHOOTER_TOOLTIP]
-向敌人发射豌豆。
+Dispara guisantes para acabar con los zombis.
 
 [PIRATE]
-海盗港湾
+Mares Piratas
 
 [PIRATE_CHALLENGE_MINIGAME_A_NAME]
 加农炮之战-第1天
@@ -6527,17 +6527,19 @@ Girasol es esencial para producir soles, ¡Planta tantos como puedas!
 Produce continuamente una gran cantidad de soles.
 
 [SUNFLOWER_TOOLTIP]
-Produce soles.
+Produce soles para que puedas plantar.
 
 [SUNFLOWER_PLANTFOOD_DESCRIPTION]
+Produce inmediatamente 300 soles
 
 [SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
+Con Nutrientes, tiene un 15% de dar una moneda de oro
 
 [SURVIVE_ZOMBIE_ATTACK]
 Sobreviviste a la invasión Zombi.
 
 [TALLNUT]
-Nuez
+Nuez Cáscara-rabias
 
 [TALLNUT_DESCRIPTION]
 {KEYWORD}特点：{STAT}阻挡被扔出的小鬼僵尸
@@ -6908,7 +6910,7 @@ En sus marcas...
 Listos...
 
 [WARNING_STANDARD_3]
-¡A PLANTAR!
+A PLANTAR!
 
 [WARNING_THUNDER_TIP]
 雷云风暴来袭！
@@ -12368,10 +12370,10 @@ Dinastía del Kung Fu - Día {LEVEL_NUMBER}
 兼具科技和幻想的邪恶作品。
 
 [KONGFU]
-功夫世界
+Dinastía del Kung Fu
 
 [WORLD_NAME_KONGFU]
-功夫世界
+Dinastía del Kung Fu
 
 [WORLD_PREVIEW_DESCRIPTION_KONGFU]
 这是1673年，少林武术大行天下。
@@ -13296,6 +13298,125 @@ Macetas o Disfraces a tus plantas, y hacerlas más fuertes.
 [SPRING_TIPS_9]
 ^00FA9A^Reúne estrellas para canjearlas por Premios Estelares.
 
+[SPRING_TIPS_10]
+^00FA9A^Las Pociones de cultivo se usan para mejorar plantas al Nvl. 4 en adelante.
+Puedes conseguirlas jugando a eventos y en la tienda.
+
+[SPRING_TIPS_11]
+^00FA9A^¡Diviértete completando Retos diarios y consigue Piezas para tus Plantas y Disfraces!
+
+[SPRING_TIPS_12]
+^00FA9A^Completa un Nivel del Modo Difícil.
+¡Conseguirás el resto de Estrellas y un Cofre misterioso!
+
+[SPRING_TIPS_13]
+^00FA9A^Consigue todas las Estrellas de un mundo para desbloquear el Día Final.
+
+[SPRING_TIPS_14]
+^00FA9A^Desbloquea todas las plantas de un mundo para conseguir el Trofeo de Plantas.
+
+[SPRING_TIPS_15]
+^00FA9A^Recoleta todas las Estrellas de un Mundo para conseguir el Trofeo de Estrellas.
+
+[SPRING_TIPS_16]
+^00FA9A^Derrota al jefe de un mundo para conseguir el Trofeo del Jefe.
+
+[SPRING_TIPS_17]
+^00FA9A^Visita la sección "Familia de Plantas" para mejorar los atributos de tus plantas.
+
+[SPRING_TIPS_18]
+^00FA9A^Compite contra otros jugadores en Batallaz y gana Premioz.
+
+[SPRING_TIPS_19]
+^00FA9A^Los Libros de avances se utilizan para mejorar plantas sin Piezas ni Monedas.
+¡Consíguelos en El Tesoro de Dave y otros eventos!
+
+[SPRING_TIPS_20]
+^00FA9A^¡Juega a La Búsqueda de Penny para competir contra otros jugadores y ganar premios!
+
+[SPRING_TIPS_21]
+^00FA9A^¿Cuánto tiempo puedes aguantar en la Zona de Infinito?
+¡Acepta el desafío y acumula recompensas!
+
+[SPRING_TIPS_22]
+^00FA9A^¡Explora los Reinos Secretos y gana premios mientras juegas!
+
+[SPRING_TIPS_23]
+^00FA9A^Nuevos desafíos te esperan en la Dimensión del Recuerdo.
+¡Complétalos para ganar premios jugosos!
+
+[SPRING_TIPS_24]
+^00FA9A^¡No olvides revisar el Tronco de Viaje de vez en cuando!
+
+[SPRING_TIPS_25]
+^00FA9A^¡Completa misiones del Pase de Batalla para ganar premios!
+
+[SPRING_LOADING_TEXT_1]
+^00FA9A^Cargando...
+
+[SPRING_LOADING_TEXT_2]
+^00FA9A^Ordenando unos y ceros...
+
+[SPRING_LOADING_TEXT_3]
+^00FA9A^Despertando a las plantas...
+
+[SPRING_LOADING_TEXT_4]
+^00FA9A^Despertando a los zombis...
+
+[SPRING_LOADING_TEXT_5]
+^00FA9A^Añadiendo belleza...
+
+[SPRING_LOADING_TEXT_6]
+^00FA9A^Inyectando un 150% de ZAM...
+
+[SPRING_NEW_TIPS_1]
+^00FA9A^Deja espacio en las columnas de atrás para las plantas vulnerables.
+
+[SPRING_NEW_TIPS_2]
+^00FA9A^Planta productoras solares lo antes posible.
+
+[SPRING_NEW_TIPS_3]
+^00FA9A^Intenta plantar 2 columnas de productoras solares.
+
+[SPRING_NEW_TIPS_4]
+^00FA9A^Ahorra soles para hacerte con plantas caras y poderosas.
+
+[SPRING_NEW_TIPS_5]
+^00FA9A^Dales Nutrientes a los Girasoles para obtener soles extra.
+
+[SPRING_NEW_TIPS_6]
+^00FA9A^Una planta es invulnerable mientras dura el efecto de los Nutrientes.
+
+[SPRING_NEW_TIPS_7]
+^00FA9A^No tengas miedo de plantar en la parte derecha del patio.
+
+[SPRING_NEW_TIPS_8]
+^00FA9A^Toma ventaja.
+
+[SPRING_NEW_TIPS_9]
+^00FA9A^Prueba plantas instakill como Frijol o Carnívora contra zombis de alta salud o con gran blindaje.
+
+[SPRING_NEW_TIPS_10]
+^00FA9A^Los Zombiditos lanzados suelen aterrizar en el mismo sitio.
+
+[SPRING_NEW_TIPS_11]
+^00FA9A^Algunas plantas son buenas contra ciertos zombis.
+¡Lee el Almanaque de vez en cuando!
+
+[SPRING_NEW_TIPS_12]
+^00FA9A^Detén o ralentiza a los primeros zombis y gana tiempo para generar soles.
+
+[SPRING_NEW_TIPS_13]
+^00FA9A^Desarrolla producción solar lo más rápido posible.
+
+[SPRING_NEW_TIPS_14]
+^00FA9A^Cambia las productoras solares por plantas ofensivas al avanzar en el nivel.
+
+[SPRING_NEW_TIPS_15]
+^00FA9A^Coloca a las plantas de corta distancia detrás de las defensas.
+
+[SPRING_NEW_TIPS_16]
+^00FA9A^¡Sigue plantando!
 
 [NARRATIVE_ZOMBOSS_BLADE_1]
 {NPC_ENTER:crazydave}{SAY}Boss
@@ -13325,13 +13446,13 @@ Macetas o Disfraces a tus plantas, y hacerlas más fuertes.
 僵尸只能放在警戒线的右边
 
 [POPCAP_GAMES_PRESENTS]
-宝开游戏出品
+Popcap presenta...
 
 [UPDATE_RIGHT_NOW]
-立即更新
+Actualizar ahora
 
 [SKIP_UPDATE_VERSION]
-下次提醒
+Recordar más tarde
 
 [NARRATIVE_KONGFU_CHALLENGE_LASTSTAND_A_1]
 {NPC_ENTER:crazydave}{PLAYFUL}这里再次拉开了终极挑战的序幕。
@@ -15437,7 +15558,7 @@ Z公司技术支持僵尸从天而降，随后扔出可以爆炸的电脑
 沙滩之门
 
 [WORLD_NAME_FUTURE]
-未来世界
+Futuro Lejano
 
 [PIECE_COME_FROM_MAGNIFYINGGRASS_LEVEL]
 未来世界-第7天
@@ -32946,11 +33067,11 @@ HTTPS://WWW.EA.COM/WWF
 
 {FLAVOR}“抽人的技巧全在手腕上”，炙热山葵说。“好吧，准确的说也不是手腕，毕竟我没有手腕。你得，呃……自己成为手腕。”
 [WORLD_NAME_DINO]
-恐龙危机
+Pantano del Jurásico
 [WORLD_NAME_EIGHTIES]
-摇滚年代
+Vueltacasete de Neón
 [WORLD_NAME_MODERN]
-摩登世界
+Tiempos Modernos
 [WORLD_PREVIEW_BEACH_HIGHLIGHT_COUNT]
 38
 
