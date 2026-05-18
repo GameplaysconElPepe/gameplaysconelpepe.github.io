@@ -1621,38 +1621,37 @@ x {NUMBER}
 增加新的档案会删除非初始档案，确定这样做吗？
 
 [DIALOG_ARE_YOU_EXPERIENCED]
-之前玩过植物大战僵尸吗？
+¿Ya has jugado Plants Vs. Zombies anteriormente?
 
 [DIALOG_NO_DONT_SKIP]
 JUGAR
 
 [DIALOG_NO_HAVENT_PLAYED]
-什么是僵尸？
+¿Qué es un zombi?
 
 [DIALOG_SKIP_TUTORIAL]
-想玩教学关卡吗?
+¿Quieres jugar la guía básica de Plants Vs. Zombies?
 
 [DIALOG_STRING_CANCEL]
-取消
+CANCELAR
 
 [DIALOG_STRING_NO]
-否
+NO
 
 [DIALOG_STRING_OK]
-确定
+ACEPTAR
 
 [DIALOG_STRING_YES]
-是
-
+SÍ
 
 [DIALOG_WARNING]
-警告
+ATENCIÓN
 
 [DIALOG_YES_PLAYED_PVZ]
 JUGAR
 
 [DIALOG_YES_SKIP_TUTORIAL]
-跳过
+SALTAR
 
 [RANK_AVATAR_SELECT_TITLE]
 选择背景
@@ -2934,9 +2933,8 @@ Por su salud, por favor controle el tiempo de juego razonablemente.
 Copyright del juego (Propietario: Electronic Arts Inc.)
 
 [HEALTH_NOTICE_CONTENT_3]
-Este juego en línea es adecuado para usuarios mayores de 12 años. 
-Por su salud, por favor controle el tiempo de juego razonablemente.
-Estás usando la versión ^00AAE4^4.1.0 del mod
+Este juego en línea es adecuado para usuarios mayores de 12 años. Por su salud, por favor controle el tiempo de juego razonablemente.
+Estás usando la versión ^00AAE4^4.1.1 del mod
 ^FF0000^NO actualizar el juego a menos que te lo exiga el propio juego.
 Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pepe)
 
@@ -2944,16 +2942,14 @@ Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pe
 Copyright del juego (Creador: Electronic Arts Inc. ; Modder: Gameplays con El Pepe)
 
 [HEALTH_NOTICE_CONTENT_5]
-Estás usando la versión ^0000FF^4.1.0 del mod
+Estás usando la versión ^0000FF^4.1.1 del mod
 
 [HEALTH_NOTICE_CONTENT_3_1]
-Este juego en línea es adecuado para usuarios mayores de 12 años. 
-Por su salud, por favor controle el tiempo de juego razonablemente.
+Este juego en línea es adecuado para usuarios mayores de 12 años. Por su salud, por favor controle el tiempo de juego razonablemente.
 Copyright del juego (Propietario: Electronic Arts Inc.)
 
 [HEALTH_NOTICE_CONTENT_2_1]
-Este juego en línea es adecuado para usuarios mayores de 12 años. 
-Por su salud, por favor controle el tiempo de juego razonablemente.
+Este juego en línea es adecuado para usuarios mayores de 12 años. Por su salud, por favor controle el tiempo de juego razonablemente.
 Copyright del juego (Propietario: Electronic Arts Inc.)
 
 [MARIGOLD]
@@ -69100,7 +69096,7 @@ NO41平行宇宙秘境说明
 返回
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_CHALLENGE]
-挑战
+JUGAR
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_COPYCHANGE]
 允许其他玩家下载关卡
