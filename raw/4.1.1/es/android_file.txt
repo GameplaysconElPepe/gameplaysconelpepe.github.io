@@ -1237,20 +1237,20 @@ Toca para continuar la partida
 Cococañón
 
 [COCONUTCANNON_DESCRIPTION]
-{KEYWORD}用法：{STAT}点击开火
-{KEYWORD}范围：{STAT}直线
-{KEYWORD}特殊：{STAT}撞击目标后四面爆炸
-{KEYWORD}Características：{STAT}褐色植物、武器家族
-{FLAVOR}椰子加农炮不再年轻，却有着一头秀发，他依然活跃在最前线。至于秀发闪亮的原因，我们猜测大概是上了蜡了。
+{KEYWORD}Uso：{STAT}pulsar para disparar
+{KEYWORD}Alcance：{STAT}línea recta
+{KEYWORD}Especial：{STAT}Impacta contra el objetivo y explota en todas direcciones
+{KEYWORD}Características：{STAT}planta marrón
+{FLAVOR}Ya no es joven, pero luce una melena espléndida y sigue en forma. En cuanto al motivo por el que su cabello brilla tanto, suponemos que se debe a que se lo ha encerado.
 
 [COCONUTCANNON_DESCRIPTION_HEADER]
-椰子加农炮可以把整条路线轰翻，造成中等威力的爆炸破坏。
+Arrasar toda la línea, causando una explosión de potencia media.
 
 [COCONUTCANNON_PLANTFOOD]
-发射巨大的加农炮弹，被击中的僵尸会被推到草坪最右边并爆炸。
+Lanza una enorme bala de cañón; los zombis que sean alcanzados serán lanzados hacia la derecha y explotarán.
 
 [COCONUTCANNON_TOOLTIP]
-点击加农炮发射会爆炸的椰子。
+Al pulsar en él, lanzará cocos explosivos.
 
 [COIN_OFFERING1]
 500个金币！
@@ -1283,7 +1283,7 @@ Cococañón
 ^ff0000^
 
 [CONTINUE_BUTTON]
-继续
+CONTINUAR
 
 [CONTINUE_GAME_HEADER]
 继续游戏？
@@ -2982,25 +2982,25 @@ Ha realizado suficientes investigaciones y siempre presta atención a los últim
 生产5枚银币与1枚金币，并改变颜色
 
 [MELONPULT]
-西瓜投手
+Melonpulta
 
 [MELONPULT_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}1/2倍速
-{KEYWORD}范围：{STAT}抛掷
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}“人人都说我的头长得像个西瓜”，投手家族的二把手说。“可能是真的吧。”千万别问它是不是无籽西瓜，它一听就翻脸。
+{KEYWORD}Velocidad de lanzamiento：{STAT}media
+{KEYWORD}Alcance：{STAT}el del lanzamiento
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Nada de falsas modestias con Melonpulta. "Yo reparto la mejor leña de todo el jardín", asegura. "No me estoy echando ningún farol: Saca cuentas tú mismo.
 
 [MELONPULT_DESCRIPTION_HEADER]
-西瓜投手能对成群的僵尸造成巨大伤害。
+Inflinge un daño enorme a grupos de zombis.
 
 [MELONPULT_PLANTFOOD]
-发射重型西瓜并打击草坪上的所有僵尸。
+Lanza sandías gigantes y acaba con todos los zombis del patio.
 
 [MELONPULT_TOOLTIP]
-投出西瓜， 重重打击成群的僵尸。
+Lanza sandías y golpea con fuerza a las hordas de zombis.
 
 [MENU_BUTTON]
-菜单
+MENÚ
 
 [MINECART_TUTORIAL_1]
 可以沿轨道拖动采矿车
@@ -4346,7 +4346,7 @@ Explota al contacto, pero tarda un poco en activarse. Colócalo delante de los z
 Planta dos clones preparados en casillas aleatorias del patio.
 
 [POTATOMINE_TOOLTIP]
-Lanza por los aires a los enemigos que lo tocan, pero, una vez colocado, tarda un tiempo en activarse.
+Explota al contacto. Una vez colocado, tarda tiempo en activarse.
 
 [POWERLILY]
 能量花
@@ -4832,7 +4832,7 @@ Lanza por los aires a los enemigos que lo tocan, pero, una vez colocado, tarda u
 重放
 
 [RESTART_BUTTON]
-重新开始
+REINICIAR
 
 [RESTART_LABEL]
 重新开始
@@ -4851,13 +4851,13 @@ Lanza por los aires a los enemigos que lo tocan, pero, una vez colocado, tarda u
 重新开始本关？
 
 [RESUME_BUTTON]
-继续
+REANUDAR
 
 [RESUME_GAME]
-继续游戏
+Reanudar partida
 
 [RETRY]
-再试一次
+REINTENTAR
 
 [TRY_FROM_START]
 从头再来
@@ -5038,25 +5038,25 @@ Lanza por los aires a los enemigos que lo tocan, pero, una vez colocado, tarda u
 版本号：{VersionName}
 
 [SETTINGS_FPS_TITLE]
-帧率设置
+Ajustes de FPS
 
 [SETTINGS_FPS_ENABLE]
-60帧
+60 FPS
 
 [SETTINGS_FPS_DISABLE]
-30帧
+30 FPS
 
 [SETTINGS_DATASHARING_TITLE]
-使用数据分享
+Uso compartido de datos
 
 [SETTINGS_DOWNLOADPREFS_TITLE]
-下载偏好
+Preferencias de descarga
 
 [SETTINGS_ENABLE_WWAN_DOWNLOADS]
-你不在wifi环境下，是否确定要更新版本？
+No estás conectado a una red wifi. ¿Seguro que quieres actualizar la versión?
 
 [SETTINGS_EULA_TITLE]
-最终用户许可协议
+ Acuerdo de licencia de usuario final
 
 [SETTINGS_EULA_URL]
 http://tos.ea.com/legalapp/mobileeula/US/{LOCALE}/OTHER/
@@ -5065,31 +5065,31 @@ http://tos.ea.com/legalapp/mobileeula/US/{LOCALE}/OTHER/
 http://filead.talkyun.com.cn/tw/twyh.htm
 
 [SETTINGS_GAMECREDITS_TITLE]
-制作人员
+Equipo de producción
 
 [SETTINGS_HELP_TITLE]
-帮助
+Ayuda
 
 [SETTINGS_HELP_URL]
 http://www.popcap.com.cn/helpform.html
 
 [SETTINGS_LEGAL_TEXT]
-重要的法律文本
+Textos legales importantes
 
 [SETTINGS_LEGAL_TITLE]
-法务团队
+Equipo jurídico
 
 [SETTINGS_MERCH_URL]
 http://www.pvzstore.com/?utm_source={DEVICETYPE}&utm_medium={OPENEDFROM}&utm_campaign={LANGUAGE}
 
 [SETTINGS_MOREGAMES_TITLE]
-更多游戏
+Más juegos
 
 [SETTINGS_MOREGAMES_URL]
 http://canvas.popcap.com/games/plants-vs-zombies-2/ios/{DEVICETYPE}
 
 [SETTINGS_PRIVACY_TITLE]
-隐私政策
+Política de privacidad
 
 [SETTINGS_PRIVACY_URL]
 http://filead.talkyun.com.cn/tw/twys.htm
@@ -5098,7 +5098,7 @@ http://filead.talkyun.com.cn/tw/twys.htm
 http://filead.talkyun.com.cn/tw/twys.htm
 
 [SETTINGS_TERMS_TITLE]
-服务条款协议
+Términos y condiciones del servicio
 
 [SETTINGS_TERMSOFSERVICE_URL]
 http://filead.talkyun.com.cn/tw/twyh.htm
@@ -5107,7 +5107,7 @@ http://filead.talkyun.com.cn/tw/twyh.htm
 http://filead.talkyun.com.cn/tw/twyh.htm
 
 [SETTINGS_PERSONAL_TITLE]
-已收集得个人信息清单
+Lista de datos personales recopilados
 
 [SETTINGS_PERSONAL_URL]
 http://filead.talkyun.com.cn/tw/geren.htm
@@ -5116,7 +5116,7 @@ http://filead.talkyun.com.cn/tw/geren.htm
 http://filead.talkyun.com.cn/tw/geren.htm
 
 [SETTINGS_INVENTORY_TITLE]
-sdk共享清单
+Lista compartida del SDK
 
 [SETTINGS_INVENTORY_URL]
 http://filead.talkyun.com.cn/tw/sdk.htm 
@@ -5133,7 +5133,7 @@ http://pvztmall.popcap.com.cn
 购买周边产品
 
 [SETTINGS_TITLE]
-设置
+AJUSTES
 
 [ROTATION_SETTINGS]
 旋转设置
@@ -5293,7 +5293,7 @@ http://pvztmall.popcap.com.cn
 
 
 [ARMORFLAME]
-植甲拼装者-炎星
+P-Mech
 
 [ARMORFLAME_TALENT_NAME_1]
 ^2f8101^强化扩散^oldclr^
@@ -6541,56 +6541,56 @@ Sobreviviste a la invasión Zombi.
 Nuez Cáscara-rabias
 
 [TALLNUT_DESCRIPTION]
-{KEYWORD}Características：{STAT}阻挡被扔出的小鬼僵尸
-{KEYWORD}Características：{STAT}褐色植物、高个子
-{FLAVOR}高坚果专为高个人士开了服装连锁店。“良心生意，多余的料子会送还给您。”
+{KEYWORD}Características：{STAT}bloquea zombis que son lanzados.
+{KEYWORD}Características：{STAT}planta marrón, de gran altura
+{FLAVOR}A pesar de su carácter, ha abierto una cadena de tiendas de ropa especializada en gente de gran estatura. "Un negocio honesto: le devolvemos la tela que sobre".
 
 [TALLNUT_DESCRIPTION_HEADER]
-高坚果是有名的重型防御植物，他可以有效地阻挡僵尸的前进。 
+Es una planta defensiva muy conocida, capaz de detener eficazmente el avance de los zombis. 
 
 [TALLNUT_PLANTFOOD]
-变出金属盔甲，大大提高了坚果的防御。
+Crea una armadura metálica que aumenta su defensa.
 
 [TALLNUT_TOOLTIP]
-巨型坚果墙阻挡僵尸的前进。
+Un gigantesco muro de nuez que impide el avance de los zombis.
 
 [TAP_TO_REVEAL_PRIZES]
-点击宝盒获得奖励。
+Se revelan los premios de la Tartera.
 
 [THREEPEATER]
-三重射手
+Tripitidora
 
 [THREEPEATER_DESCRIPTION]
-{KEYWORD}伤害：{STAT}中等（每颗）
-{KEYWORD}范围：{STAT}三线
-{KEYWORD}Características：{STAT}绿色植物、豌豆家族。
-{FLAVOR}三重射手热爱多人电玩，但分屏总是不管用，因为左边的射手爱耍小手段。
+{KEYWORD}Daño：{STAT}medio (por cabeza)
+{KEYWORD}Alcance：{STAT}tres líneas
+{KEYWORD}Características：{STAT}planta verde, tres cabezas
+{FLAVOR}A todas las cabezas de Tripitidora les encanta los videojuegos multijugador. Lo malo, es que al dividir la pantalla, la cabeza de la izquierda siempre hace trampa.
 
 [THREEPEATER_DESCRIPTION_HEADER]
-三重射手可以在三条道上同时射出豌豆。
+Tripitidora puede disparar guisantes por las tres líneas a la vez.
 
 [THREEPEATER_PLANTFOOD]
-发射出一波豌豆，在草坪上形成一波豌豆波浪。
+Lanza una ráfaga de guisantes sobre el patio.
 
 [THREEPEATER_TOOLTIP]
-在三条道上同时发射豌豆。
+Dispara guisantes en tres filas a la vez.
 
 [TORCHWOOD]
-火炬树桩
+Plantorcha
 
 [TORCHWOOD_DESCRIPTION]
-{KEYWORD}Características：{STAT}让穿过他的豌豆变成火球造成两倍伤害。
-{KEYWORD}Características：{STAT}褐色植物、面恶心善、浑身浴火
-{FLAVOR}因为兴趣相投，火炬树桩和火龙草迅速成为了好朋友。你可以在类似场合见到他们，比如夏威夷土著风情酒廊，或者是文艺复兴风格的马戏团。
+{KEYWORD}Uso：{STAT}hace que los guisantes que le atraviesan se conviertan en bolas de fuego que infligen el doble de daño.
+{KEYWORD}Características：{STAT}planta marrón, planta de fuego
+{FLAVOR}Todo el mundo respeta a Plantorcha; por su integridad, por su amistad sincera, y sobre todo, por su habilidad para duplicar el daño de los guisantes. Pero Plantorcha esconde un secreto: no sabe leer.
 
 [TORCHWOOD_DESCRIPTION_HEADER]
-火炬树桩可以把穿过他的豌豆变成火球，造成两倍伤害。
+Convierte los guisantes que lo atraviesan en bolas de fuego, que causan el doble de daño.
 
 [TORCHWOOD_PLANTFOOD]
-永久燃烧蓝色火焰，蓝焰豌豆的杀伤力是火焰豌豆的两倍。
+Se enciende en llamas azules y convierte los guisantes que lo atraviesan en bolas de fuego azules, causando daño x4.
 
 [TORCHWOOD_TOOLTIP]
-穿过火炬树桩的豌豆会变成火弹。
+Convierte los guisantes que lo atraviesan en bolas de fuego, que causan el doble de daño.
 
 [TRY_AGAIN]
 Reintentar
@@ -6599,48 +6599,48 @@ Reintentar
 Tutorial
 
 [TUTORIAL_FLICK_HELP]
-试试看把他们扔远
+¡Intenta lanzarlos lejos!
 
 [TUTORIAL_LEVEL_NAME]
 Casa de {PLAYER} - Día {LEVEL_NUMBER}
 
 [TUTORIAL_PINCH_HELP]
-试着掐掐他们
+Intenta pellizcarlos un poco
 
 [TUTORIAL_POWERUPS_HAVE_FUN]
-好好发挥金手指的威力！
+¡Aprovecha al máximo el poder de tu "dedo mágico"!
 
 [TUTORIAL_POWERUPS_KILL_ALL_ZOMBIES]
-在金手指时间用尽前，消灭所有僵尸
+Acaba con todos los zombis antes de que se acabe el tiempo extra.
 
 [TUTORIAL_POWERUPS_TAP_TO_CONTINUE]
-点击屏幕继续
+Toca la pantalla para continuar
 
 [TUTORIAL_POWERUPS_USE_POWERUP]
-太棒了！现在使用金手指！
+¡Genial! ¡Ahora usa los "superpoderes"!
 
 [TUTORIAL_POWERUPS_ZOMBIE_WAVE]
-太棒了！别让这些僵尸吃了你的脑子！
+¡Genial! ¡No dejes que esos zombis te coman el cerebro!
 
 [TUTORIAL_WIZARDFINGER_HELP]
-试着电死他们！
+¡Intenta electrocutarlos!
 
 [TWINSUNFLOWER]
-双胞向日葵
+Birasol
 
 [TWINSUNFLOWER_DESCRIPTION]
-{KEYWORD}阳光产量：{STAT}双倍
-{KEYWORD}Características：{STAT}黄色植物、无尽阳光
-{FLAVOR}双胞向日葵的闪亮奢华墨镜让它超有明星范儿。时时都得招架狗仔的突然袭击。
+{KEYWORD}Producción solar：{STAT}doble
+{KEYWORD}Características：{STAT}planta amarilla, produce soles
+{FLAVOR}Las gafas de sol lujosas y brillantes de Birasol le dan un aire muy glamuroso. Siempre tiene que estar preparada para las emboscadas repentinas de los paparazzi.
 
 [TWINSUNFLOWER_DESCRIPTION_HEADER]
-双胞向日葵提供两倍的阳光产量。
+Producen el doble de soles
 
 [TWINSUNFLOWER_PLANTFOOD]
-持续产出许多额外阳光。
+Produce continuamente una gran cantidad de soles adicionales.
 
 [TWINSUNFLOWER_TOOLTIP]
-为你提供两倍于普通向日葵的阳光。
+Proporciona el doble de soles que un Girasol normal.
 
 [UI_SOCIAL_FRIEND_PICKER_MSG]
 离开这款带劲的游戏
@@ -6843,13 +6843,13 @@ Nuez
 {FLAVOR}Ante las insistentes peticiones de los aficionados, el campeón de la "La Bolera", que había anunciado su retiro, ha anunciado a bombo y platillo su regreso. ¡Ánimo! ¡Adelante! 
 
 [WALLNUT_DESCRIPTION_HEADER]
-Tienen una cáscara dura capaz de proteger a otras plantas.
+Tiene una cáscara dura capaz de proteger a otras plantas.
 
 [WALLNUT_PLANTFOOD]
 Genera una armadura metálica, aumentando enormemente la defensa de Nuez.
 
 [WALLNUT_TOOLTIP]
-Bloquea a los zombis y protege las plantas que están detrás de ella.
+Bloquea zombis y protege las plantas de atrás.
 
 [WARNING_CAMELMINIGAME_1]
 准备…
@@ -6909,7 +6909,7 @@ En sus marcas...
 Listos...
 
 [WARNING_STANDARD_3]
-A PLANTAR!
+¡A PLANTAR!
 
 [WARNING_THUNDER_TIP]
 雷云风暴来袭！
@@ -7354,7 +7354,7 @@ Edad Oscura
 钢琴僵尸
 
 [ZOMBIE_PIANO_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用钢琴压扁植物
+{KEYWORD}Daño：{STAT}用钢琴压扁植物
 {KEYWORD}Características：{STAT}召唤牛仔僵尸舞者，穿梭于不同道路
 
 {FLAVOR}钢琴僵尸只会两支曲子，两首都是口哨独奏。
@@ -8801,16 +8801,16 @@ Edad Oscura
 阳光铲
 
 [WORLDINFO_GOTO]
-进入
+VIAJAR
 
 [WORLDINFO_UNLOCK_BY_STAR]
-立即解锁
+Desbloquear
 
 [WORLDINFO_UNLOCK_BY_GEM]
-{GEMS}立即解锁
+{GEMS}Desbloquear
 
 [WORLDINFO_UNLOCK_PROGRESS_DES]
-解锁条件：
+Requisitos：
 
 [WORLDINFO_UNLOCK_PROGRESS_DES_PERCENT]
 {STAR}/{STARREQ}
