@@ -1244,7 +1244,7 @@ Cococañón
 {FLAVOR}Ya no es joven, pero luce una melena espléndida y sigue en forma. En cuanto al motivo por el que su cabello brilla tanto, suponemos que se debe a que se lo ha encerado.
 
 [COCONUTCANNON_DESCRIPTION_HEADER]
-Arrasar toda la línea, causando una explosión de potencia media.
+Arrasa toda la línea, causando una explosión de potencia media.
 
 [COCONUTCANNON_PLANTFOOD]
 Lanza una enorme bala de cañón; los zombis que sean alcanzados serán lanzados hacia la derecha y explotarán.
@@ -2463,10 +2463,10 @@ Futuro Lejano - Día {LEVEL_NUMBER}
 {PLAYER}的小僵僵乐园之旅
 
 [GAME_OVER]
-游戏结束
+FIN DE LA PARTIDA
 
 [GAME_PAUSED]
-游戏暂停
+PARTIDA EN PAUSA
 
 [GATE_COST]
 你需要
@@ -2956,30 +2956,30 @@ Copyright del juego (Propietario: Electronic Arts Inc.)
 Margarita
 
 [MARIGOLD_DESCRIPTION]
-{KEYWORD}Característica：{STAT}Proporciona monedas de oro y plata
+{KEYWORD}Especial：{STAT}entrega monedas de oro y plata
 {FLAVOR}Margarita pasa mucho tiempo considerando si proporcionar monedas de oro o de plata. Ella analiza todas las posibilidades y sigue pensando. 
 Ha realizado suficientes investigaciones y siempre presta atención a los últimos materiales publicados. Esa es la razón por la que siempre es exitosa.
 
 [MARIGOLD_DESCRIPTION_HEADER]
-金盏花可以提供硬币。
+Entrega monedas de oro o plata
 
 [MARIGOLD_PLANTFOOD]
-生产大量硬币
+Produce una gran cantidad de monedas
 
 [STORE_PRODUCT_AVATAR_MARIGOLD_TITLE]
-金盏花装扮
+Disfraz de Margarita
 
 [STORE_PRODUCT_AVATAR_MARIGOLD]
-额外生产一枚金币
+Produce una moneda de oro adicional
 
 [MARIGOLD_NEW_SKILL_LEVEL1_DES]
-每隔一段时间生产一枚银币
+Cada cierto tiempo produce una moneda de plata
 
 [MARIGOLD_TOOLTIP]
-生产金币
+Produce monedas
 
 [MARIGOLD_AVATAR_PLANTFOOD_DESCRIPTION]
-生产5枚银币与1枚金币，并改变颜色
+Crea 5 monedas de plata y 1 de oro, y cambia su color
 
 [MELONPULT]
 Melonpulta
@@ -4808,47 +4808,47 @@ Explota al contacto. Una vez colocado, tarda tiempo en activarse.
 重设用户名
 
 [REPEATER]
-双重射手
+Repetidora
 
 [REPEATER_DESCRIPTION]
-{KEYWORD}伤害：{STAT}中等（每颗）
-{KEYWORD}发射速度：{STAT}两倍
-{KEYWORD}Características：{STAT}绿色植物、豌豆家族
-{FLAVOR}如果你对双重射手好，他会加倍报答。如果你惹了他，那你可能会得到加倍的反击。当然他的人际关系相当好，大家最愿意做的就是借钱给他。
+{KEYWORD}Daño：{STAT}Medio (por guisante)
+{KEYWORD}Velocidad de disparo：{STAT}doble
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Si te portas bien con Repetidora, te lo recompensará doblemente. Si le molestas, es posible que recibas una respuesta doblemente dura. Por supuesto, tiene muy buenas relaciones interpersonales, y lo que más le gusta a la gente es prestarle dinero.
 
 [REPEATER_DESCRIPTION_HEADER]
-双重射手能一次发射两颗豌豆。
+Repetidora puede lanzar dos guisantes a la vez.
 
 [REPEATER_PLANTFOOD]
-连续发射一串豌豆，压轴的巨型豌豆对目标造成巨大伤害。
+Lanza una ráfaga de guisantes y, de remate, un guisante gigante que inflige un daño enorme al objetivo.
 
 [REPEATER_TOOLTIP]
-连续发射两发豌豆攻击敌人。
+Dispara dos guisantes a la vez
 
 [REPICK_BUTTON]
-重新选择
+Seleccionar de nuevo
 
 [REPLAY_BUTTON]
-重放
+REPETIR
 
 [RESTART_BUTTON]
 REINICIAR
 
 [RESTART_LABEL]
-重新开始
+REINICIAR
 
 [RESTART_LEVEL]
-你确定想要重新开始这一关卡吗？
+¿Estás seguro de que quieres volver a empezar este nivel?
 
 [RESTART_LEVEL_BODY]
-你想要再次从头
-进行这一关卡么？
+¿Quieres volver a empezar
+este nivel desde el principio?
 
 [RESTART_LEVEL_BUTTON]
-重新开始本关卡
+REINICIAR NIVEL
 
 [RESTART_LEVEL_HEADER]
-重新开始本关？
+¿Quieres volver a empezar este nivel?
 
 [RESUME_BUTTON]
 REANUDAR
@@ -4860,51 +4860,51 @@ Reanudar partida
 REINTENTAR
 
 [TRY_FROM_START]
-从头再来
+Empezar de cero
 
 [RV_NAME_INVALID]
-不懂你叫什么…
+No sé cómo te llamas…
 
 [RV_NAME_SAME_AS_PLAYER]
-这是你的名字，笨蛋！
+¡Ese es tu nombre, chistoso!
 
 [SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS]
-使用{PLANT_NAME}将不利于你在本关获得星星，
-你确定要继续吗？
+Usar a {PLANT_NAME} te impedirá conseguir estrellas en este nivel.
+¿Estás seguro de que quieres continuar?
 
 [SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS_PVZ1]
-使用{PLANT_NAME}将不利于通过本关，
-你确定要继续吗？
+Usar a {PLANT_NAME} te impedirá superar este nivel.
+¿Estás seguro de que quieres continuar?
 
 [SEED_CHOOSER_GRAVE_WARNING]
-这关没有墓碑。你确定要使用噬碑藤吗？
+En este nivel no hay lápidas. ¿Seguro que quieres usar a Comepiedras?
 
 [SEED_CHOOSER_BLOW_WARNING]
-你没有选可吹飞僵尸的植物，确定要继续吗？
+No has elegido ninguna planta que pueda mandar volando a los zombis. ¿Seguro que quieres continuar?
 
 [SEED_CHOOSER_SUN_WARNING]
-你没有选能生产阳光的植物，确定要继续吗？ 
+No has elegido una planta que produzca soles, ¿Seguro que quieres continuar? 
 
 [SEED_CHOOSER_WARNING_TITLE]
-提示
+Aviso
 
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
-本关星级条件需要使用空中植物，确定不使用任何空中植物挑战本关么？
+Para conseguir las estrellas en este nivel es necesario usar plantas aéreas. ¿Seguro que quieres intentar superarlo sin usar ninguna?
 
 [SEEDBANK_PLANT_LOCKED]
- {PlantName} 不可以在此关中使用
+{PlantName} puede usarse en este nivel
 
 [SEEDBANK_PLANT_LOCKED_TEMPORARILY]
-完成 {LevelName} ， 在此关中解锁 {PlantName}的使用
+Completa {LevelName} y desbloquea el uso de {PlantName} en este nivel.
 
 [SETTINGS_ABOUT_TEXT]
-这里可见游戏的所有信息。你现在看的就是。
+Aquí puedes ver toda la información del juego. Es lo que estás viendo ahora mismo.
 
 [SETTINGS_ABOUT_TITLE]
-关于
+Acerca de
 
 [SETTINGS_UUID_BIND_TITLE]
-设备绑定
+Vinculación de dispositivos
 
 [SETTINGS_UUID_UNBIND_TITLE]
 设备解绑
@@ -5130,139 +5130,138 @@ http://filead.talkyun.com.cn/tw/sdk.htm
 http://pvztmall.popcap.com.cn
 
 [TMALL_STORE_BUTTON_CONTENT]
-购买周边产品
+Comprar productos relacionados
 
 [SETTINGS_TITLE]
 AJUSTES
 
 [ROTATION_SETTINGS]
-旋转设置
+Ajustes de rotación
 
 [ZOMBIE_NUM]
-僵尸数量
+Número de zombis
 
 [ROTATION_VELOCITY]
-旋转时间
+Tiempo de rotación
 
 [STATUS_NUM]
-雕像数量
+Número de estatuas
 
 [SHOW_TIME]
-初始展示时间
+Tiempo de Visualización
 
 [WAVE_SHOW_TIME]
-波次展示时间
+Tiempo entre oleadas
 
 [TRY_TIMES]
-额外尝试次数
+Intentos adicionales
 
 [ROTATION_TIMES]
-旋转次数
+Número de giros
 
 [SLOW_PERFORMANCE]
-你的显示卡无法完全支持此功能。
-
-如果你的游戏运行速度过慢，请取消硬件加速功能。
+Tu tarjeta gráfica no es totalmente compatible con esta función.
+Si el juego va demasiado lento, desactiva la aceleración por hardware.
 
 [SNAPDRAGON]
-火龙草
+Bocadragón
 
 [SNAPDRAGON_DESCRIPTION]
-{KEYWORD}区域：{STAT}伤害前方6格以内所有僵尸
-{KEYWORD}Características：{STAT}满腹怒火
-{FLAVOR}即便火龙草是植物中最强大的龙，也无法阻止他插上梦想的翅膀，他想去海底世界一探究竟。
+{KEYWORD}Área：{STAT}inflinge daño en un radio de 6 casillas
+{KEYWORD}Características：{STAT}furioso, planta de fuego
+{FLAVOR}Aunque Bocadragón fuera el dragón más poderoso de entre todas las plantas, nada podría impedir que él desplegara las alas de sus sueños; siempre quiso adentrarse en La Atlántida para descubrirlo todo.
 
 [SNAPDRAGON_DESCRIPTION_HEADER]
-火龙草呼出的火焰可以造成6格伤害。
+Las llamas que escupe Bocadragón pueden causar daño en un radio de 6 casillas.
 
 [SNAPDRAGON_PLANTFOOD]
-产生3x3方格的火焰，有巨大杀伤力。
+Genera llamas que abarcan un área de 3x3 casillas y tienen un enorme poder destructivo.
 
 [SNAPDRAGON_TOOLTIP]
-朝前方大片区域喷射火焰。
+Escupe llamaradas de fuego en un radio de seis casillas
 
 [SNOWPEA]
-寒冰射手
+Hielaguisantes
 
 [SNOWPEA_DESCRIPTION]
-{KEYWORD}特殊：{STAT}冷冻僵尸
-{KEYWORD}Características：{STAT}蓝色植物、豌豆家族
-{FLAVOR}尽管外表很酷，寒冰射手很热爱他的朋友，尊老爱幼。聚会时他的拿手好戏是什么？当然是用冷笑话炒热全场～
+{KEYWORD}Especial：{STAT}congela a los zombis
+{KEYWORD}Características：{STAT}planta azul
+{FLAVOR}A pesar de su aspecto tan frío, Hielaguisantes quiere mucho a sus amigos, respeta a los mayores y cuida de los más pequeños. ¿Cuál es su especialidad en las fiestas? Pues claro, romper el hielo contando chistes malos.
 
 [SNOWPEA_DESCRIPTION_HEADER]
-寒冰射手发射冰冻豆减慢僵尸速度。
+Lanza guisantes congelados para ralentizar a los zombis.
 
 [SNOWPEA_PLANTFOOD]
-快速射出一波冰豌豆，并将面前的草坪变成冰道。
+Lanza rápidamente una ráfaga de guisantes helados y convierte el césped que tiene delante en una pista de hielo.
 
 [SNOWPEA_TOOLTIP]
-发射冰冻豆打击僵尸，减慢僵尸速度。
+Lanza guisantes congelados que ralentizan a los zombis.
 
 
 [MANDRAKE]
-酷跑曼德拉
+Mandrágora Velocista
 
 [MANDRAKE_DESCRIPTION]
-{KEYWORD}特殊：{STAT}向前奔跑
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}欢迎回到比赛现场，这里是第一届植物跑酷大赛。本届夺冠大热门酷跑曼德拉正在场边热身，他的目标是世界第一，是星辰大海！
+{KEYWORD}Especial：{STAT}corre hacia adelante
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Bienvenidos de nuevo al recinto del torneo, aquí se celebra la primera edición del Campeonato de Parkour Vegetal. El gran favorito para llevarse el título, Mandrágora Velocista, está calentando al borde del campo; ¡su objetivo es ser el número uno del mundo, alcanzar las estrellas y el océano!
 
 [MANDRAKE_DESCRIPTION_HEADER]
-酷跑曼德拉能够向前奔跑，遇到僵尸时可以触发跑酷动作。
+Corre hacia delante y, cuando se encuentra con un zombi, realiza una maniobra de parkour.
 
 [MANDRAKE_TOOLTIP]
-酷跑曼德拉能够向前奔跑，遇到僵尸时可以触发跑酷动作。
+Corre hacia delante y, cuando se encuentra con un zombi, realiza una maniobra de parkour.
 
 [MANDRAKE_PRODUCT_SHORT_DESC]
-酷跑曼德拉能够向前奔跑，遇到僵尸时可以触发跑酷动作。
+Corre hacia delante y, cuando se encuentra con un zombi, realiza una maniobra de parkour.
 
 [MANDRAKE_SKILL_LEVEL1]
-幻影冲刺
+Sprint Fantasma
 
 [MANDRAKE_SKILL_LEVEL1_DES]
-曼德拉生长时有概率出现幻影曼德拉，提升伤害和控制时间。
+Mientras crece, existe una probabilidad de que aparezca una copia fantasma, lo que aumenta el daño y la duración del aturdimiento.
 
 [MANDRAKE_SKILL_LEVEL2]
-强化幻影
+Entrenamiento Intensivo
 
 [MANDRAKE_SKILL_LEVEL2_DES]
-提升出现幻影曼德拉的概率
+Aumenta la probabilidad de que aparezca su copia fantasma
 
 [MANDRAKE_SKILL_LEVEL5]
-霹雳一闪
+Rayo Fugaz
 
 [MANDRAKE_SKILL_LEVEL5_DES]
-第三次生长将出现变异株，击退三格内的中小型僵尸，麻痹大型僵尸3秒
+En su tercera fase de crecimiento aparecerá una variante que derrotará a los zombis pequeños y medianos en un radio de tres casillas y paralizará a los zombis grandes durante 3 segundos.
 
 [STORE_PRODUCT_AVATAR_MANDRAKE_TITLE]
-酷跑曼德拉装扮
+Disfraz de Mandrágora Velocista
 
 [MANDRAKE_AVATAR_NAME]
-酷跑曼德拉装扮
+Disfraz de Mandrágora Velocista
 
 [STORE_PRODUCT_AVATAR_MANDRAKE]
-大招对其他单位造成的伤害提高
+Aumento del daño que inflige su habilidad definitiva a otras unidades
 
 [MANDRAKE_NEW_SKILL_LEVEL1_DES]
-酷跑曼德拉向前奔跑，遇到僵尸时，将使用空翻或滑铲进行攻击，当僵尸身后没有僵尸时，曼德拉恢复奔跑。空翻：在僵尸头上进行弹射，碰撞到的僵尸将被0.5秒^848484^眩晕Ⅰ^oldclr^；滑铲：把僵尸铲起浮空0.5秒，巨人僵尸^848484^眩晕Ⅰ^oldclr^0.5秒
+Corre hacia delante y, cuando se encuentra con un zombi, ataca con una voltereta o una patada deslizante; cuando no hay zombis detrás de él, vuelve a correr.
 
 [MANDRAKE_NEW_SKILL_LEVEL2_DES]
-酷跑曼德拉在生长时有30%概率出现幻影曼德拉，在奔跑时身后出现幻影，对僵尸造成的伤害变成2倍，且^848484^眩晕Ⅰ^oldclr^时间变为1秒
+Cuando crece, tiene un 30 % de probabilidad de convertirse en un Fantasma; al correr, aparece una sombra detrás de él, el daño infligido a los zombis se duplica y el tiempo de aturdimiento pasa a ser de 1 segundo.
 
 [MANDRAKE_NEW_SKILL_LEVEL3_DES]
-出现幻影曼德拉的概率变为60%
+La probabilidad de que aparezca una copia fantasma pasa a ser del 60 %.
 
 [MANDRAKE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+¡Al plantarla, hay altas posibilidades de que lance directamente su ataque de Nutrientes!
 
 [MANDRAKE_NEW_SKILL_LEVEL5_DES]
-每生长两个曼德拉草后，下一个曼德拉草将出现变异株，变异株向前冲刺，遇到僵尸时，将使用霹雳一闪，向前快速冲刺3格，将范围内的中小型僵尸随机向上下行击退，大型僵尸^ff9600^麻痹Ⅰ^oldclr^在原地3秒，冲刺完毕后，变异株变为正常状态
+Cada dos mandrágoras que crezcan, la siguiente será una variante. La variante se lanza hacia delante y, al encontrarse con un zombi, se lanzará rápidamente 3 casillas hacia delante y repelerá aleatoriamente hacia arriba o hacia abajo a los zombis pequeños y medianos que se encuentren en su radio de acción. los zombis grandes^ff9600^quedarán paralizados I^oldclr^en el sitio durante 3 segundos. Una vez finalizada su carrera, la variante vuelve a su estado normal.
 
 [MANDRAKE_PLANTFOOD_DESCRIPTION]
-酷跑曼德拉向前高速冲锋，将整行的中小型僵尸击飞，对其他单位造成伤害。该秒杀无阶数限制。
+Corre a toda velocidad hacia delante, lanzando por los aires a toda una fila de zombis pequeños y medianos, y causando daño a las demás unidades. Este ataque instantáneo no tiene límite de nivel.
 
 [MANDRAKE_AVATAR_PLANTFOOD_DESCRIPTION]
-酷跑曼德拉向前高速冲锋，将整行的中小型僵尸击飞，对其他单位造成^ff0000^大量^oldclr^伤害。可秒杀僵尸的阶数一般不超过植物本身阶数的2倍。
+Corre a toda velocidad hacia delante, lanzando por los aires a toda una fila de zombis pequeños y medianos, e infligiendo ^FF0000^una gran cantidad de^oldclr^daño a las demás unidades. Por lo general, el nivel de los zombis que puede eliminar al instante no supera el doble del nivel de la propia planta.
 
 
 [HERO]
@@ -99514,7 +99513,7 @@ LV {LEVEL}
  
 
 [ARMORFLAME]
-植甲拼装者-炎星
+P-Mech
 
  
 
