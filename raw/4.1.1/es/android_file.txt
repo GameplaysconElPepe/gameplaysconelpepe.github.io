@@ -5210,7 +5210,7 @@ Mandrágora Velocista
 Corre hacia delante y, cuando se encuentra con un zombi, realiza una maniobra de parkour.
 
 [MANDRAKE_TOOLTIP]
-Corre hacia delante y, cuando se encuentra con un zombi, realiza una maniobra de parkour.
+Corre hacia delante y, cuando se encuentra con un zombi, realiza parkour.
 
 [MANDRAKE_PRODUCT_SHORT_DESC]
 Corre hacia delante y, cuando se encuentra con un zombi, realiza una maniobra de parkour.
@@ -5293,6 +5293,9 @@ Corre a toda velocidad hacia delante, lanzando por los aires a toda una fila de 
 
 [ARMORFLAME]
 P-Mech
+
+[ARMORFLAME_TOOLTIP]
+Fusiona múltiples plantas para que puedas sembrar el caos
 
 [ARMORFLAME_TALENT_NAME_1]
 ^2f8101^强化扩散^oldclr^
@@ -99515,7 +99518,8 @@ LV {LEVEL}
 [ARMORFLAME]
 P-Mech
 
- 
+[ARMORFLAME_TOOLTIP]
+Fusiona múltiples plantas para que puedas sembrar el caos 
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_0]
 ^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^3%^oldclr^
