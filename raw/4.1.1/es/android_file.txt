@@ -2715,7 +2715,7 @@ Si quieres ejecutar el juego en modo de ventana, primero debes salir del juego y
 
 [LIGHTNINGREED_DESCRIPTION]
 {KEYWORD}范围：{STAT}可以击中上下一行的目标 
-{KEYWORD}特殊：{STAT}多个目标的连锁攻击
+{KEYWORD}Especial:{STAT}多个目标的连锁攻击
 {KEYWORD}Características：{STAT}绿色植物、十万伏特
 {FLAVOR}这可能有些令人吃惊。闪电芦苇是业余无线电的热衷者。它的呼号是“闪0电3嗝1”。每周二你可以在调频收听到它给年纪大的植物们朗读经典。这周主题：理智的种子与情感。
 
@@ -5366,77 +5366,77 @@ Fusiona múltiples plantas para que puedas sembrar el caos
 ^573701^(点击升级)^oldclr^
 
 [METEORFLOWER]
-流星花
+Flor Meteoro
 
 [METEORFLOWER_DESCRIPTION]
-{KEYWORD}特殊：{STAT}火焰伤害
-{KEYWORD}Características：{STAT}红色植物
-{FLAVOR}僵尸无法理解流星花为什么能召唤出陨石，但是看着从天而降的陨石，他只有最后一个想法“啊，原来恐龙是这么灭绝的呀。” 
+{KEYWORD}Especial:{STAT}daño por fuego
+{KEYWORD}Características：{STAT}planta rojo
+{FLAVOR}El zombi no entendía como una flor podía invocar meteoritos, pero al verlos caer del cielo, solo tuvo un último pensamiento: "Así que así es como se extinguieron los dinosaurios". 
 
 [METEORFLOWER_DESCRIPTION_HEADER]
-流星花能够召唤陨石攻击僵尸，并在地块上留下陨石坑。
+Invoca meteoritos para atacar a los zombis y deja cráteres en el terreno.
 
 [METEORFLOWER_TOOLTIP]
-流星花能够召唤陨石攻击僵尸，并在地块上留下陨石坑。
+Ataca a los zombis con meteoritos y deja cráteres en el terreno.
 
 [METEORFLOWER_PRODUCT_SHORT_DESC]
-流星花能够召唤陨石攻击僵尸，并在地块上留下陨石坑。
+Invoca meteoritos para atacar a los zombis y deja cráteres en el terreno.
 
 [METEORFLOWER_SKILL1_LEVEL1]
-重力牵引
+Atracción Gravitacional
 
 [METEORFLOWER_SKILL1_LEVEL1_DES]
-召唤陨石时有概率召唤出重型陨石，将震飞一格内的僵尸
+Al invocar un meteorito, existe la posibilidad de que aparezca un meteorito pesado, que lanzará por los aires a los zombis que se encuentren en un radio de una casilla.
 
 [METEORFLOWER_SKILL1_LEVEL2]
-牵引提升
+Gravedad Magnética
 
 [METEORFLOWER_SKILL1_LEVEL2_DES]
-提升召唤重型陨石的概率
+Aumenta la probabilidad de invocar meteoritos pesados
 
 [METEORFLOWER_SKILL1_LEVEL5]
-行星冲击
+Bomba Meteórica
 
 [METEORFLOWER_SKILL1_LEVEL5_DES]
-有概率召唤出行星陨石，行星陨石落地后将向前滚动，推动僵尸，达到终点后发生爆炸
+Existe la posibilidad de invocar un meteorito; una vez que este caiga al suelo, rodará hacia delante empujando a los zombis y, al llegar a su destino, explotará.
 
 [STORE_PRODUCT_AVATAR_METEORFLOWER_TITLE]
-流星花装扮
+Disfraz de Flor Meteoro
 
 [METEORFLOWER_AVATAR_NAME]
-流星花装扮
+Disfraz de Flor Meteoro
 
 [STORE_PRODUCT_AVATAR_METEORFLOWER]
-大招召唤的行星陨石数量变为5颗并列
+El número de meteoritos invocados por la habilidad definitiva pasa a ser de cinco, dispuestos en fila.
 
 [METEORFLOWER_NEW_SKILL_LEVEL1_DES]
-流星花攻击时从空中召唤两颗陨石下砸，两颗陨石有35%概率攻击同一目标，陨石可对一格范围内僵尸造成伤害，并在地面上留下陨石坑，陨石坑持续5秒，行走在上面的僵尸每秒受到10点伤害。陨石坑上无法种植植物。
+Invoca dos meteoritos; estos tienen un 35% de probabilidad de golpear al mismo objetivo. Los meteoritos infligen daño a los zombis en un radio de una casilla y dejan un cráter en el suelo que permanece durante 5 segundos; los zombis que caminen sobre él recibirán 10 puntos de daño por segundo. No podrás plantar sobre el cráter.
 
 [METEORFLOWER_NEW_SKILL_LEVEL2_DES]
-流星花召唤陨石时有15%概率召唤出重型陨石，重型陨石对一格范围内僵尸造成伤害，并将范围内僵尸向右三行震飞一格距离。
+Tiene un 15 % de probabilidad de invocar un meteorito pesado, que inflige daño a los zombis en un radio de una casilla y los lanza tres casillas hacia la derecha.
 
 [METEORFLOWER_NEW_SKILL_LEVEL3_DES]
-召唤重型陨石的概率提升为30%
+La probabilidad de invocar un meteorito pesado aumenta al 30%
 
 [METEORFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Al plantarla, existe la probabilidad de que active directamente su efecto de Nutrientes.
 
 [METEORFLOWER_NEW_SKILL_LEVEL5_DES]
-流星花攻击时有10%概率召唤出行星陨石，对一格范围内僵尸造成伤害，行星陨石落地后将向前滚动3格距离，推动路径上的中小型僵尸一起移动，在移动尽头发生爆炸造成一次2400点的伤害，在陨石落点和滚动地面上留下陨石坑。
+Tiene un 10% de probabilidad de invocar un meteorito planetario que inflige daño a los zombis en un radio de una casilla. Tras caer, el meteorito rodará tres casillas hacia delante, empujando a los zombis que se encuentren en su trayectoria. Al llegar al final, explotará e infligirá 2400 puntos de daño, dejando un cráter en el punto de impacto y a lo largo de su recorrido.
 
 [METEORFLOWER_PLANTFOOD_DESCRIPTION]
-在流星花前方一格召唤3颗并列的行星陨石，攻击落地点的僵尸并向前滚动，释放大招后，将吓跑场地上所有的敌方恐龙。
+Invoca tres meteoritos planetarios alineados delante de ella; estos atacarán a los zombis en el punto de impacto y rodarán hacia delante; tras lanzar su habilidad especial, ahuyentarán a todos los dinosaurios enemigos del campo de batalla.
 
 [METEORFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-在流星花前方一格召唤^ff0000^5颗并列的行星陨石^oldclr^，攻击落地点的僵尸并向前滚动向前滚动，释放大招后，将吓跑场地上所有的敌方恐龙。
+Invocará ^FF0000^ cinco meteoritos planetarios ^oldclr^ alineados delante de ella; estos atacarán a los zombis en el punto de impacto y rodarán hacia delante; tras lanzar su habilidad especial, ahuyentarán a todos los dinosaurios enemigos del campo de batalla.
 
 [SARRACENIA]
-蛇妖瓶子草
+Hierba Gorgona
 
 [SARRACENIA_DESCRIPTION]
-{KEYWORD}特殊：{STAT}石化僵尸
+{KEYWORD}Especial:{STAT}petrifica zombis
 {KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}“我只是想给它们抛个媚眼，但就都变成石像了，真无趣~”在“僵尸最害怕的植物”评选的获奖台上，蛇妖瓶子草如是说道。
+{FLAVOR}"Solo quería guiñarles un ojo, pero se han quedado todos convertidos en estatuas de piedra. ¡Qué aburrido!", dijo Hierba Gorgona desde el podio de la entrega de premios del concurso "La planta que más miedo le da a los zombis".
 
 [SARRACENIA_DESCRIPTION_HEADER]
 蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
@@ -5499,7 +5499,7 @@ Fusiona múltiples plantas para que puedas sembrar el caos
 电能藤蔓
 
 [POWERVINE_DESCRIPTION]
-{KEYWORD}特殊：{STAT}闪电伤害
+{KEYWORD}Especial:{STAT}闪电伤害
 {KEYWORD}Características：{STAT}蓝色植物、十万伏特
 {FLAVOR}电能藤蔓每天的早餐是牛奶加鸡蛋，他相信总有长高的一天。
 
@@ -12025,7 +12025,7 @@ Características：
 [FIREGOURD_DESCRIPTION]
 {KEYWORD}用法：{STAT}点击喷火
 {KEYWORD}范围：{STAT}直线
-{KEYWORD}特殊：{STAT}蓄力时间越长，喷出的火焰越强，专克兵器架
+{KEYWORD}Especial:{STAT}蓄力时间越长，喷出的火焰越强，专克兵器架
 {KEYWORD}Características：{STAT}黄色植物、满腹怒火
 {FLAVOR}火葫芦原先只是个杂技班里的小配角，自从上了僵尸战场后，他才发现自己真正的价值。
 
@@ -14862,7 +14862,7 @@ LV.
 
 [EMPEA_DESCRIPTION]
 {KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}特殊：{STAT}设备失灵
+{KEYWORD}Especial:{STAT}设备失灵
 {KEYWORD}Características：{STAT}橙色植物、矮个子
 {FLAVOR}如果你要去和脉冲黄桃一起吃饭聚会，给你个小提示，吃饭的时候别埋头玩手机。
 
@@ -15046,7 +15046,7 @@ Devora a los zombis que tiene delante, pero mientras los digiere es vulnerable a
 甜薯可以吸引附近的僵尸并阻挡他们前进。
 
 [SWEETPOTATO_DESCRIPTION]
-{KEYWORD}特殊：{STAT}不能吸引背后的僵尸
+{KEYWORD}Especial:{STAT}不能吸引背后的僵尸
 
 {FLAVOR}甜薯就像她看起来那样甜。她最喜欢的动物是独角兽。按她的原话说她最喜欢的颜色则是“彩虹的所有颜色”。当她写字母“i”的时候，她喜欢把点画成一颗心的形状。坦白来讲，对别人来说她的甜度简直无法忍受。但是对她来讲，这只是刚刚好而已。
 
@@ -39580,7 +39580,7 @@ SDK初始化失败
 热辣海枣可以吸引附近的僵尸并阻挡他们前进。
 
 [HOTDATE_DESCRIPTION]
-{KEYWORD}特殊：{STAT}不能吸引背后的僵尸
+{KEYWORD}Especial:{STAT}不能吸引背后的僵尸
 {KEYWORD}Características：{STAT}褐色植物
 {FLAVOR} 热辣海枣是一个魔术师。他很有礼貌，读书得很好，有很多有趣的观点，也很乐意积极的倾听别人的心声，所以僵尸在街区周围排队等着给他倾述。
 
@@ -42066,7 +42066,7 @@ SDK初始化失败
 水生藤蔓
 
 [AQUAVINE_DESCRIPTION]
-{KEYWORD}特殊：{STAT}根据其上种植植物种类的不同选择不同的攻击模式
+{KEYWORD}Especial:{STAT}根据其上种植植物种类的不同选择不同的攻击模式
 {KEYWORD}Características：{STAT}绿色植物
 {FLAVOR}在某一次晨练时，水生藤蔓将一份玉米卷绑在绳子的末端以此来帮助戴夫锻炼身体。谁知道戴夫居然能跑这么快？
 
