@@ -1178,7 +1178,7 @@ Frijol
 
 [CHILIBEAN_DESCRIPTION]
 {KEYWORD}Uso：{STAT}se lo comen
-{KEYWORD}Características：{STAT}daña a los zombis que se lo comen y libera un gas aturdidor
+{KEYWORD}Efecto：{STAT}daña a los zombis que se lo comen y libera un gas aturdidor
 {KEYWORD}Características：{STAT}plantas roja, planta pequeña
 {FLAVOR}No es que se sonroje de forma natural, sino que se le pone roja por la tensión.
 
@@ -2484,80 +2484,73 @@ PARTIDA EN PAUSA
 升级成功！
 
 [GRAVEBUSTER]
-噬碑藤
+Comepiedras
 
 [GRAVEBUSTER_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性，只对墓碑有效
-{KEYWORD}Características：{STAT}吃掉墓碑
-{KEYWORD}Características：{STAT}绿色植物、伶牙俐齿
-{FLAVOR}尽管看上去外表凶恶，脾气暴躁，但噬碑藤其实只是想给你个温柔的拥抱。除非你是一只小狗，没错，他怕狗。
+{KEYWORD}Uso：{STAT}único, solo se puede plantar sobre lápidas
+{KEYWORD}Efecto：{STAT}se come las lápidas
+{KEYWORD}Características：{STAT}planta verde, afilada
+{FLAVOR}Aunque parezca feroz y de mal genio, Comepiedras en realidad solo quiere darte un tierno abrazo. A menos que seas un perrito, claro está, porque le dan miedo los perros.
 
 [GRAVEBUSTER_DESCRIPTION_HEADER]
-噬碑藤会吃掉墓碑。
+Comepiedras se come las lápidas.
 
 [GRAVEBUSTER_PLANTFOOD]
-能量豆无效果。
+Los Nutrientes no le hacen efecto
 
 [GRAVEBUSTER_TOOLTIP]
-把它种植在墓碑上，它就能咬掉墓碑。
+Se come las lápidas
 
 [HARDWARE_ACCELERATION_NOT_SUPPORTED]
-此电脑无法使用硬件加速。
+Este ordenador no admite la aceleración por hardware.
 
-你的显示卡无法
-满足此游戏的最
-低硬件需求。
-
-
+Tu tarjeta gráfica no
+cumple los requisitos mínimos de hardware
+de este juego.
 
 [HIDE_LAWN]
-隐藏草地
+ESCONDER PATIO
 
 [ICEBURG]
-冰冻生菜
+Lechuga Iceberg
 
 [ICEBURG_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，接触生效
-{KEYWORD}Características：{STAT}爆炸，暂时冷冻一名僵尸
-{KEYWORD}Características：{STAT}蓝色植物、矮个子
-{FLAVOR}当它忽闪着大眼时，看它的人会被迷得神魂颠倒，灵魂出窍。不过，只对僵尸有效。
+{KEYWORD}Uso：{STAT}único, se activa al contacto
+{KEYWORD}Efecto：{STAT}congela temporalmente a un zombi
+{KEYWORD}Características：{STAT}planta azul, pequeña
+{FLAVOR}Cuando parpadea con sus grandes ojos, quien la mira queda completamente hipnotizado, como si su alma se hubiera desprendido del cuerpo. Aunque eso solo aplica para zombis.
 
 [ICEBURG_DESCRIPTION_HEADER]
-踩上冰冻生菜的僵尸会被冻住。
+Los zombis que la toquen quedarán congelados.
 
 [ICEBURG_PLANTFOOD]
-瞬间冰冻草坪上的所有僵尸。
+Congela al instante a todos los zombis del patio.
 
 [ICEBURG_TOOLTIP]
-冻住踩到它的僵尸，还能熄灭火炬。
+Congela zombis que la tocan y apaga el fuego
 
 [IMITATED_PLANT]
-模仿 {PLANT}
+Imitar {PLANT}
 
 [IMITATER]
-变身茄子
+Imitadora
 
 [IMITATER_DESCRIPTION]
-{KEYWORD}特殊：{STAT}可以模仿其他植物
-
-{FLAVOR}变身茄子在法国进修过表演艺术，在街头表演中完善了他的最新节目“关在盒子里的茄子”。
+{KEYWORD}Especial：{STAT}puede transformarse en cualquier planta
+{FLAVOR}"Eres sólo una copia barata" - le dicen los envidiosos. Esto es porque junto con Seta Maga son de las pocas plantas capaces de tranformarse en otras, algo poco común.
 
 [IMITATER_DESCRIPTION_HEADER]
-变身茄子允许你同一个关卡携带两张相同的植物卡片！
+Imitadora te permite llevar dos plantas iguales en un mismo nivel
 
 [IMITATER_PLANTFOOD]
-所复制植物的特效。
+Copia el efecto de Nutrientes de la planta imitada
 
 [IMITATER_TOOLTIP]
-允许携带两张相同的植物卡片。
+Puede transformarse en cualquier planta, pudiendo llevar dos iguales a un nivel
 
 [INVALID_WINDOWS_MODE]
-只有当你的桌面在16位或32位色模
-式下运行，窗口模式才是有效的。
-
-
-
-如果你想要在窗口模式中运行游戏，那么你就要先退出游戏，将桌面转换为16位或32位色模式。
+El modo de ventana solo funciona si el escritorio está configurado en un modo de color de 16 o 32 bits.
+Si quieres ejecutar el juego en modo de ventana, primero debes salir del juego y configurar el escritorio en un modo de color de 16 o 32 bits.
 
 [JALAPENO]
 火爆辣椒
@@ -6543,7 +6536,7 @@ Sobreviviste a la invasión Zombi.
 Nuez Cáscara-rabias
 
 [TALLNUT_DESCRIPTION]
-{KEYWORD}Características：{STAT}bloquea zombis que son lanzados.
+{KEYWORD}Efecto：{STAT}bloquea zombis que son lanzados.
 {KEYWORD}Características：{STAT}planta marrón, de gran altura
 {FLAVOR}A pesar de su carácter, ha abierto una cadena de tiendas de ropa especializada en gente de gran estatura. "Un negocio honesto: le devolvemos la tela que sobre".
 
@@ -14910,21 +14903,21 @@ LV.
 每隔一段时间可以重生。
 
 [LASER_BEAN]
-激光豆
+Frijol Láser
 
 [LASER_BEAN_DESCRIPTION]
-{KEYWORD}范围：{STAT}整条线上的僵尸
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}经过了激光眼科手术后，他获得了不可思议的能力。现在激光豆拥有了强大的能量，以及不眨眼游戏中的压倒性实力。
+{KEYWORD}Alcance：{STAT}toda la fila
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Tras someterse a una cirugía ocular con láser, adquirió unos poderes increíbles. Ahora, posee una energía formidable y un dominio absoluto en el juego de no parpadear.
 
 [LASER_BEAN_DESCRIPTION_HEADER]
-激光豆向整条路线开火，击溃他前面的所有僵尸。
+Dispara a lo largo de toda la fila, acabando con los zombis que se le ponen por delante.
 
 [LASER_BEAN_PLANTFOOD]
-能量豆无效果。
+Dispara un potente rayo que arrasa con todos los zombis de una fila
 
 [LASER_BEAN_TOOLTIP]
-朝僵尸群发射激光。
+Dispara lásers para acabar con todos los zombis de una fila
 
 [MAGNIFYINGGRASS]
 棱镜草
@@ -15039,12 +15032,12 @@ LV.
 扫射前方扇形范围的僵尸。
 
 [CHOMPER_DESCRIPTION_HEADER]
-大嘴花可以吞食前方的僵尸，但是在消化僵尸时容易受到僵尸攻击。
+Devora a los zombis que tiene delante, pero mientras los digiere es vulnerable a sus ataques.
 
 [CHOMPER_DESCRIPTION]
-{KEYWORD}特殊：{STAT}消化僵尸时容易受到僵尸攻击
-{KEYWORD}Características：{STAT}紫色植物、伶牙俐齿
-{FLAVOR}每个人都很欣赏大嘴花的所作所为，因为他的大胃口在很多场合都曾拯救过他们。但说句真心话，大嘴花的朋友们认为他吃僵尸是件很粗鄙的事情。更何况他的口气！当他不理解别人为什么会送他薄荷的时候，实在没有人忍心告诉他真相。
+{KEYWORD}Especial：{STAT}mientras digiere a los zombis, es vulnerable a sus ataques
+{KEYWORD}Características：{STAT}planta púrpura, lengua afilada
+{FLAVOR}Todo el mundo aprecia lo que hace, ya que su gran apetito les ha salvado en muchas ocasiones. Pero, sinceramente, sus amigos consideran que comer zombis es algo muy grosero. ¡Y ni  hablar de su aliento! Hasta ahora no entiende por qué le regalaban mentas, y nadie se atreve a decirle la verdad.
 
 [SWEETPOTATO]
 甜薯
