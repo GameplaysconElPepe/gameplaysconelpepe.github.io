@@ -2350,7 +2350,7 @@ Antiguo Egipto - Día {LEVEL_NUMBER}
 Perido Heian - Día {LEVEL_NUMBER}
 
 [ATLANTIS_LEVEL_NAME]
-La Atlántida - Día {LEVEL_NUMBER}
+Atlántida - Día {LEVEL_NUMBER}
 
 [ATLANTIS_AQUARIUM]
 僵尸水族馆
@@ -2623,22 +2623,22 @@ Si quieres ejecutar el juego en modo de ventana, primero debes salir del juego y
 跳至道具界面
 
 [KERNELPULT]
-玉米投手
+Lanzamaíz
 
 [KERNELPULT_DESCRIPTION]
-{KEYWORD}伤害：{STAT}轻微（玉米粒）中等（黄油）
-{KEYWORD}Características：{STAT}黄油可以暂时固定僵尸
-{KEYWORD}Características：{STAT}黄色植物
-{FLAVOR}玉米投手原来是电影院的引座员，不过自从看了“油炸绿番茄”这个电影后，他发现自己是天生演戏的料，于是他带着他的黄油和玉米粒，向演艺圈进军。
+{KEYWORD}Daño：{STAT}leve (granos de maíz), medio (mantequilla)
+{KEYWORD}Especial：{STAT}su mantequilla inmoviliza zombis
+{KEYWORD}Características：{STAT}planta amarilla
+{FLAVOR}Lanzamaíz era originalmente acomodador de un cine, pero desde que vio cierta película, descubrió que tenía un talento innato para la interpretación, así que, armado con su mantequilla y sus palomitas, se lanzó al mundo del espectáculo.
 
 [KERNELPULT_DESCRIPTION_HEADER]
-玉米投手，投掷玉米粒和黄油。
+Lanza granos de maíz y mantequilla que paraliza zombis
 
 [KERNELPULT_PLANTFOOD]
-触发黄油风暴，使草坪上所有的僵尸停滞几秒钟。
+Desencadena una lluvia de mantequilla que paraliza a todos los zombis del patio durante unos segundos.
 
 [KERNELPULT_TOOLTIP]
-向僵尸投掷玉米粒和黄油块。
+Lanza granos de maíz y mantequilla que paraliza zombis
 
 [KEY_GATE]
 钥匙之门
@@ -2684,13 +2684,13 @@ Si quieres ejecutar el juego en modo de ventana, primero debes salir del juego y
 最长连胜:{NUM}关
 
 [LEAVE_GAME_BUTTON]
-退出关卡
+SALIR
 
 [LEAVE_GAME_HEADER]
-退出关卡？
+¿Seguro?
 
 [LETS_ROCK_BUTTON]
-开始战斗
+¡QUE COMIENCE!
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_HP]
 生命
@@ -2705,31 +2705,31 @@ Si quieres ejecutar el juego en modo de ventana, primero debes salir del juego y
 加速
 
 [START_GAME_BUTTON]
-开始游戏
+JUGAR
 
 [CHOOSER_RESET_BUTTON]
-清空卡槽
+VACIAR
 
 [LIGHTNINGREED]
-闪电芦苇
+Junco Eléctrico
 
 [LIGHTNINGREED_DESCRIPTION]
-{KEYWORD}范围：{STAT}可以击中上下一行的目标 
-{KEYWORD}Especial:{STAT}多个目标的连锁攻击
-{KEYWORD}Características：{STAT}绿色植物、十万伏特
-{FLAVOR}这可能有些令人吃惊。闪电芦苇是业余无线电的热衷者。它的呼号是“闪0电3嗝1”。每周二你可以在调频收听到它给年纪大的植物们朗读经典。这周主题：理智的种子与情感。
+{KEYWORD}Alcance：{STAT}objetivos situados en su fila, fila superior o inferior
+{KEYWORD}Especial:{STAT}ataca simultáneamente a múltiples objetivos
+{KEYWORD}Características：{STAT}planta verde, mantener fuera del alcance de los niños
+{FLAVOR}Puede que te sorprenda, pero Junco Eléctrico es un fan de la radioafición. Su indicativo es "junc03l3ctr1c0". Todos los martes, al sintonizar, se le puede oír recitar clásicos a plantas ancianas. Tema de esta semana: "La semilla de la racionalidad y la sensibilidad"
 
 [LIGHTNINGREED_DESCRIPTION_HEADER]
-闪电芦苇会对路线上最近的僵尸发射闪电，并且其电压会形成电弧扫过附近的僵尸。
+Lanza rayos contra los zombis más cercanos, puede atacar a muchos zombis al mismo tiempo.
 
 [LIGHTNINGREED_PLANTFOOD]
-产生一朵云，云会对飘过的僵尸发射闪电攻击。
+Genera una nube que lanza rayos contra los zombis que pasan.
 
 [LIGHTNINGREED_TOOLTIP]
-一次击中几只鸡或僵尸。
+Lanza rayos contra los zombis más cercanos, acaba con los pollos zombi.
 
 [LOADING]
-读取中…
+Cargando...
 
 [LOCAL_PUSH_YETI_EVENT]
 宝藏雪人的餐盒里到底藏着什么秘密？打败它一探究竟。
@@ -5162,7 +5162,7 @@ Bocadragón
 [SNAPDRAGON_DESCRIPTION]
 {KEYWORD}Área：{STAT}inflinge daño en un radio de 6 casillas
 {KEYWORD}Características：{STAT}furioso, planta de fuego
-{FLAVOR}Aunque Bocadragón fuera el dragón más poderoso de entre todas las plantas, nada podría impedir que él desplegara las alas de sus sueños; siempre quiso adentrarse en La Atlántida para descubrirlo todo.
+{FLAVOR}Aunque Bocadragón fuera el dragón más poderoso de entre todas las plantas, nada podría impedir que él desplegara las alas de sus sueños; siempre quiso adentrarse en la Atlántida para descubrirlo todo.
 
 [SNAPDRAGON_DESCRIPTION_HEADER]
 Las llamas que escupe Bocadragón pueden causar daño en un radio de 6 casillas.
@@ -5248,7 +5248,7 @@ La probabilidad de que aparezca una copia fantasma pasa a ser del 60 %.
 ¡Al plantarla, hay altas posibilidades de que lance directamente su ataque de Nutrientes!
 
 [MANDRAKE_NEW_SKILL_LEVEL5_DES]
-Cada dos mandrágoras que crezcan, la siguiente será una variante. La variante se lanza hacia delante y, al encontrarse con un zombi, se lanzará rápidamente 3 casillas hacia delante y repelerá aleatoriamente hacia arriba o hacia abajo a los zombis pequeños y medianos que se encuentren en su radio de acción. los zombis grandes^ff9600^quedarán paralizados I^oldclr^en el sitio durante 3 segundos. Una vez finalizada su carrera, la variante vuelve a su estado normal.
+Cada dos mandrágoras que crezcan, la siguiente será una variante. La variante se lanza hacia delante y, al encontrarse con un zombi, se lanzará rápidamente 3 casillas hacia delante y repelerá aleatoriamente hacia arriba o hacia abajo a los zombis pequeños y medianos que se encuentren en su radio de acción. los zombis grandes^ff9600^quedarán paralizados ^oldclr^en el sitio durante 3 segundos. Una vez finalizada su carrera, la variante vuelve a su estado normal.
 
 [MANDRAKE_PLANTFOOD_DESCRIPTION]
 Corre a toda velocidad hacia delante, lanzando por los aires a toda una fila de zombis pequeños y medianos, y causando daño a las demás unidades. Este ataque instantáneo no tiene límite de nivel.
@@ -5435,225 +5435,225 @@ Hierba Gorgona
 
 [SARRACENIA_DESCRIPTION]
 {KEYWORD}Especial:{STAT}petrifica zombis
-{KEYWORD}Características：{STAT}绿色植物
+{KEYWORD}Características：{STAT}planta verde
 {FLAVOR}"Solo quería guiñarles un ojo, pero se han quedado todos convertidos en estatuas de piedra. ¡Qué aburrido!", dijo Hierba Gorgona desde el podio de la entrega de premios del concurso "La planta que más miedo le da a los zombis".
 
 [SARRACENIA_DESCRIPTION_HEADER]
-蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
+Petrifica a los zombis y también lanza espíritus serpiente para infligirles daño.
 
 [SARRACENIA_TOOLTIP]
-蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
+Petrifica a los zombis y lanza espíritus serpiente para infligirles daño.
 
 [SARRACENIA_PRODUCT_SHORT_DESC]
-蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
+Petrifica a los zombis y lanza espíritus serpiente para infligirles daño.
 
 [SARRACENIA_SKILL_LEVEL1]
-快速恢复
+Rápida Recuperación
 
 [SARRACENIA_SKILL_LEVEL1_DES]
-休息时间减少3秒，缩短至17秒
+Su tiempo de recarga se reduce 3 segundos
 
 [SARRACENIA_SKILL_LEVEL2]
-极速恢复
+Veloz Recuperación
 
 [SARRACENIA_SKILL_LEVEL2_DES]
-休息时间再减少3秒，缩短至14秒
+Su tiempo de recarga se reduce 3 segundos más
 
 [SARRACENIA_SKILL_LEVEL5]
 终极石化
 
 [SARRACENIA_SKILL_LEVEL5_DES]
-石化攻击有60%概率变为强化石化射线，使2个僵尸石化成40%生命值的石像。
+Tiene un 60% de probabilidad de lanzar un "Rayo de petrificación potenciado", lo que convierte a 2 zombis en estatuas de piedra con un 40 % de vida.
 
 [STORE_PRODUCT_AVATAR_SARRACENIA_TITLE]
-蛇妖瓶子草装扮
+Disfraz de Hierba Gorgona
 
 [SARRACENIA_AVATAR_NAME]
-蛇妖瓶子草装扮
+Disfraz de Hierba Gorgona
 
 [STORE_PRODUCT_AVATAR_SARRACENIA]
-大招释放的石化凝视变为更大的扇形范围
+Su habilidad definitiva pasa a tener un área de efecto más amplia en forma de abanico.
 
 [SARRACENIA_NEW_SKILL_LEVEL1_DES]
-每隔3秒发射蛇灵对僵尸造成伤害。当蛇灵经过毒系植物后，会附毒对僵尸施加持续5秒、每秒15点伤害的^701edf^中毒Ⅰ^oldclr^状态，并能蛇行对其他僵尸攻击，穿过毒系植物越多攻击次数越多。植物完成蓄力出现绿光，僵尸靠近后自动触发或点击后手动触发石化，使单个3阶以下中小型僵尸变为80%生命值的石像，不可石化的僵尸则^848484^眩晕Ⅰ^oldclr^5秒。
+Cada 3 segundos lanza un espíritu serpiente que inflige daño a los zombis. Cuando el espíritu serpiente pasa por una planta venenosa, los envenenará. Dura 5 segundos y causa 15 puntos de daño por segundo, y podrá serpentear para atacar a otros zombis; cuantas más plantas venenosas atraviese, mayor será el número de ataques. Cuando la planta complete la carga y aparezca una luz verde, se activará automáticamente al acercarse un zombi o manualmente al pulsar sobre ella, petrificando a un solo zombi pequeño o mediano de nivel 3 o inferior y convirtiéndolo en una estatua con un 80% de vida; los zombis que no pueden ser petrificados quedan ^848484^ aturdidos ^oldclr^ durante 5 segundos.
 
 [SARRACENIA_NEW_SKILL_LEVEL2_DES]
-蛇妖瓶子草加快准备时间，休息时间缩短至17秒。石化的僵尸生效阶数上限变为3阶。
+Reduce su tiempo de recuperación a 17 segundos. El nivel máximo permitido para petrificar zombis pasa a ser 3.
 
 [SARRACENIA_NEW_SKILL_LEVEL3_DES]
-快速恢复的技能效果提升100%，休息时间缩短至14秒。石化的僵尸生效阶数上限变为5阶。
+Reduce su tiempo de recuperación a 14 segundos. El nivel máximo permitido para petrificar zombis pasa a ser 5.
 
 [SARRACENIA_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！石化的僵尸生效阶数上限变为7阶。
+Existe una probabilidad de que active su efecto de Nutrientes al ser plantada. El nivel máximo permitido para petrificar zombis pasa a ser 7.
 
 [SARRACENIA_NEW_SKILL_LEVEL5_DES]
-每次石化攻击时，有60%的概率变为每次使最左侧2个僵尸石化成40%生命值的石像。石化的僵尸生效阶数上限变为10阶。
+Cada vez que se lance un ataque de petrificación, existe un 60% de probabilidad de que los dos zombis situados a la izquierda se conviertan en estatuas con un 40% de vida. El nivel máximo permitido para petrificar zombis pasa a ser 10.
 
 [SARRACENIA_PLANTFOOD_DESCRIPTION]
-蛇妖瓶子草进入强化状态，使出范围石化凝视，对右侧扇形范围（7格）的所有僵尸施加石化攻击。
+Se potencia y lanza un rayo petrificante de área, lo que petrifica a todos los zombis dentro de un área en forma de abanico a la derecha (7 casillas).
 
 [SARRACENIA_AVATAR_PLANTFOOD_DESCRIPTION]
-蛇妖瓶子草进入强化状态，使出范围石化凝视，对右侧^ff0000^更大扇形范围（13格）^oldclr^的所有僵尸施加石化攻击。
+Se potencia y lanza un rayo petrificante de área, lo que petrifica a todos los zombis dentro de un área en forma de abanico a la derecha (13 casillas).
 
 [POWERVINE]
-电能藤蔓
+Enredadera Poderosa
 
 [POWERVINE_DESCRIPTION]
-{KEYWORD}Especial:{STAT}闪电伤害
-{KEYWORD}Características：{STAT}蓝色植物、十万伏特
-{FLAVOR}电能藤蔓每天的早餐是牛奶加鸡蛋，他相信总有长高的一天。
+{KEYWORD}Especial:{STAT}daño eléctrico
+{KEYWORD}Características：{STAT}planta azul, 100 mil voltios
+{FLAVOR}El desayuno diario de Enredadera Poderosa consiste en leche y huevos; él cree que algún día crecerá.
 
 [POWERVINE_DESCRIPTION_HEADER]
-电能藤蔓能够快速发射子弹攻击僵尸。
+Dispara proyectiles eléctricos rápidamente para atacar a los zombis.
 
 [POWERVINE_TOOLTIP]
-电能藤蔓能够快速发射子弹攻击僵尸。
+Dispara proyectiles eléctricos para atacar a los zombis.
 
 [POWERVINE_PRODUCT_SHORT_DESC]
-电能藤蔓能够快速发射子弹攻击僵尸。
+Dispara proyectiles eléctricos rápidamente para atacar a los zombis.
 
 [POWERVINE_SKILL_LEVEL1]
-超级充能
+Carga
 
 [POWERVINE_SKILL_LEVEL1_DES]
-电能藤蔓有5%的概率发射一枚特殊子弹，为上方的电系植物增加强化效果。
+Tiene un 5 % de probabilidad de disparar un proyectil especial que potencia a las plantas de tipo Eléctrico situadas encima.
 
 [POWERVINE_SKILL_LEVEL2]
-强化充能
+Bola Voltio
 
 [POWERVINE_SKILL_LEVEL2_DES]
-电能藤蔓有10%的概率发射一枚特殊子弹，为上方的电系植物增加强化效果。
+Tiene un 10% de probabilidad de disparar un proyectil especial que potencia a las plantas de tipo Eléctrico situadas encima.
 
 [POWERVINE_SKILL_LEVEL5]
-麻痹子弹
+Paralizador
 
 [POWERVINE_SKILL_LEVEL5_DES]
-每进行两轮攻击后，下一轮攻击会额外发出一枚麻痹子弹，对击中的敌人造成0.5秒^ff9600^麻痹Ⅰ^oldclr^。
+Cada dos ataques, lanzará un proyectil adicional que provocará ^ff9600^0,5 segundos de parálisis ^oldclr^ al enemigo al que alcance.
 
 [STORE_PRODUCT_AVATAR_POWERVINE_TITLE]
-电能藤蔓装扮
+Disfraz de Enredadera Poderosa
 
 [POWERVINE_AVATAR_NAME]
-电能藤蔓装扮
+Disfraz de Enredadera Poderosa
 
 [STORE_PRODUCT_AVATAR_POWERVINE]
-大招发射的电力子弹变为穿透型
+Las balas eléctricas del ataque especial pasan a ser penetrantes
 
 [POWERVINE_NEW_SKILL_LEVEL1_DES]
-电能藤蔓能够快速发射子弹攻击僵尸，当相邻位置存在电能藤蔓时进入强化状态，强化状态下每轮发射3枚子弹。
+Cuando hay una enredadera eléctrica en una casilla adyacente, entra en estado potenciado, y en ese estado dispara tres proyectiles por turno.
 
 [POWERVINE_NEW_SKILL_LEVEL2_DES]
-电能藤蔓有5%的概率发射一枚特殊子弹，发射后会为上方的电系植物增加强化效果，在强化效果下的植物普攻会发射两枚子弹。
+Tiene un 5% de probabilidad de disparar un proyectil especial que potencia a las plantas de tipo Eléctrico situadas encima, dichas plantas dispararán dos ataques por turno.
 
 [POWERVINE_NEW_SKILL_LEVEL3_DES]
-电能藤蔓有10%的概率发射一枚特殊子弹，发射后会为上方的电系植物增加强化效果，在强化效果下的植物普攻会发射两枚子弹。
+Tiene un 10% de probabilidad de disparar un proyectil especial que potencia a las plantas de tipo Eléctrico situadas encima, dichas plantas dispararán dos ataques por turno.
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Existe la probabilidad de que active su efecto de Nutrientes al ser plantada.
 
 [POWERVINE_NEW_SKILL_LEVEL5_DES]
-每进行两轮攻击后，下一轮攻击会额外发出一枚紫色的麻痹子弹，对击中的敌人造成0.5s麻痹。
+Cada dos ataques, lanzará un proyectil paralizante de color púrpura adicional, que provocará 0,5 segundos de parálisis al enemigo al que alcance.
 
 [POWERVINE_PLANTFOOD_DESCRIPTION]
-发生一次5×5范围的脉冲爆炸，并向右侧扇形范围内发射数枚电力子弹。脉冲爆炸会使所有机械僵尸瘫痪5秒。
+Provoca una pulsación explosiva con un radio de 5×5 y dispara varias balas eléctricas en un sector de abanico hacia la derecha. Paraliza a todos los zombis mecanizados durante 5 segundos.
 
 [POWERVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-大招向右侧发射的电力子弹变为穿透型。
+El proyectil eléctrico que dispara pasa a ser penetrante.
 
 [SPIKEROCK]
-钢地刺
+Pinchorroca
 
 [SPIKEROCK_DESCRIPTION]
-{KEYWORD}Características：{STAT}不会被僵尸吃掉
-{KEYWORD}弱点：{STAT}承受滚桶僵尸3次攻击
-{KEYWORD}Características：{STAT}矮个子
-{FLAVOR}钢地刺是具有金属气质的植物，所以它决定在麦迪逊摇滚公园开一场重金属摇滚演唱会，消息一经发布，门票立即抢售一空。
+{KEYWORD}Especial：{STAT}no puede ser comida
+{KEYWORD}Debilidad：{STAT}resiste sólo tres ataques del zombi tonelero
+{KEYWORD}Características：{STAT}de baja estatura
+{FLAVOR}Pinchorroca tiene un flow metálico, por lo que decidió organizar un concierto de heavy metal en el Madison Rock Park; tan pronto como se publicó la noticia, las entradas se agotaron al instante.
 
 [SPIKEROCK_DESCRIPTION_HEADER]
-钢地刺可以摧毁多个滚桶僵尸，并对踩到他的僵尸造成伤害。
+Destruye barriles y causa mucho daño a los zombis que la pisan
 
 [SPIKEROCK_PLANTFOOD]
-将刺扎进所在行的所有僵尸，并对其造成伤害。
+Pincha a todos los zombis de la fila en la que se encuentre y les inflinge daño.
 
 [SPIKEROCK_TOOLTIP]
-破坏最多三个滚动物体，并伤害从自己身上经过的僵尸。
+Destruye barriles y causa mucho daño a los zombis que la pisan
 
 [SPIKEWEED]
-地刺
+Pinchohierba
 
 [SPIKEWEED_DESCRIPTION]
-{KEYWORD}Características：{STAT}不会被僵尸吃掉
-{KEYWORD}弱点：{STAT}被滚桶僵尸压扁
-{KEYWORD}Características：{STAT}绿色植物、矮个子
-{FLAVOR}地刺虽然出身贫寒，现在他的针灸事业可谓蒸蒸日上。 
+{KEYWORD}Especial：{STAT}no puede ser comida
+{KEYWORD}Debilidad：{STAT}el ataque del zombi tonelero
+{KEYWORD}Características：{STAT}planta verde, chaparra
+{FLAVOR}Aunque Pinchohierba proviene de una familia humilde, su negocio de acupuntura está en pleno auge. 
 
 [SPIKEWEED_DESCRIPTION_HEADER]
-地刺可以摧毁一个滚桶僵尸，并对踩到他的僵尸造成伤害。
+Destruye un barril y causa daño a los zombis que la pisan
 
 [SPIKEWEED_PLANTFOOD]
-将刺扎进所在行的所有僵尸，并对其造成伤害。
+Pincha a todos los zombis de la fila en la que se encuentre y les inflinge daño.
 
 [SPIKEWEED_TOOLTIP]
-破坏一个滚动物体，并伤害从自己身上经过的僵尸。
+Destruye un barril y causa daño a los zombis que la pisan
 
 [SPLITPEA]
-双向射手
+Bipetidora
 
 [SPLITPEA_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}向前正常速度，向后两倍速度
-{KEYWORD}Características：{STAT}绿色植物、豌豆家族
-{FLAVOR}前面的头说：“轮到我用眉毛了！”后面的头说：那只好一人一半了。虽然出生就差两分钟，可眉毛争夺战的硝烟永难停息。
+{KEYWORD}Velocidad：{STAT}adelante normal, atrás rápida
+{KEYWORD}Características：{STAT}planta verde, dos cabezas
+{FLAVOR}Cuando la cabeza de adelante dice: "¡Ahora me toca a mí usar las cejas!". La cabeza de atrás responde: "Ni hablar". Aunque nacieron con solo dos minutos de diferencia, la batalla por las cejas nunca cesa.
 
 [SPLITPEA_DESCRIPTION_HEADER]
-双向射手可以向前后两个方向发射豌豆。
+Lanza guisantes hacia delante y hacia atrás.
 
 [SPLITPEA_PLANTFOOD]
-向前后方快速射出高伤害的豌豆。
+Lanza rápidamente guisantes que infligen mucho daño por ambos lados.
 
 [SPLITPEA_TOOLTIP]
-向前后两个方向发射豌豆。
+Lanza guisantes hacia delante y hacia atrás.
 
 [SPRINGBEAN]
-弹簧豆
+Frijuelle
 
 [SPRINGBEAN_DESCRIPTION]
-{KEYWORD}Características：{STAT}将僵尸向后推或推进水里
-{KEYWORD}弱点：{STAT}弹起攻击后会犯困
-{KEYWORD}Características：{STAT}绿色植物、呆毛
-{FLAVOR}弹簧豆非常安静和内向，以至于没什么人了解他。但他的粉丝团却十分壮大，尤其受姑娘们的追捧。
+{KEYWORD}Efecto：{STAT}empuja a los zombis hacia atrás o al agua
+{KEYWORD}Debilidad：{STAT}después de su ataque, se pone a dormir
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Frijuelle es tan callado e introvertido que casi nadie lo conoce. Sin embargo, tiene un gran número de seguidores, y es especialmente popular entre las chicas.
 
 [SPRINGBEAN_DESCRIPTION_HEADER]
-弹簧豆会把靠近的僵尸弹开。如果附近有水，僵尸就会被直接弹入水里。
+Repele a los zombis que se acercan. Si hay agua cerca, los zombis caerán directamente al agua.
 
 [SPRINGBEAN_PLANTFOOD]
-重重击地，把所有僵尸都弹回到草坪最右侧。
+Golpea con fuerza el suelo para lanzar a todos los zombis hacia la derecha del patio.
 
 [SPRINGBEAN_TOOLTIP]
-将僵尸弹回后方，或直接弹入水里。
+Empuja a los zombis que la pisan hacia atrás o al agua
 
 [SQUASH]
-窝瓜
+Apisonaflor
 
 [SQUASH_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用
-{KEYWORD}区域：{STAT}目标周围所有僵尸
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}窝瓜只是他的艺名，他的本名叫…小明。
+{KEYWORD}Uso：{STAT}de un sólo uso
+{KEYWORD}Área：{STAT}zombis cercanos
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}"¡A por ellos!", grita Apisonaflor. "¡A por ellos! ¡Oe! ¡Ya sácame! soy el mejor, vamos ¿qué esperas? ¡Lo necesito!".
 
 [SQUASH_DESCRIPTION_HEADER]
-窝瓜会压扁第一个接近它的僵尸。
+Apisonaflor aplastará al primer zombi que se le acerque.
 
 [SQUASH_PLANTFOOD]
-一下压扁草地上的多个棘手目标，然后返回原处。
+Aplasta de un golpe varios objetivos peligrosos del patio y luego vuelve a su lugar.
 
 [SQUASH_TOOLTIP]
-压扁接近的僵尸。
+Aplasta al primer zombi que se le acerque.
 
 [STAR_GATE]
-时空之门
+Portal del Espacio-Tiempo
 
 [STAR_GATE_DESCRIPTION]
-允许进入%s世界！
+¡Se te permite entrar al mundo %s!
 
 [STARCHALLENGE_BULLET_SYMBOL]
 
@@ -7019,7 +7019,7 @@ Edad Renacentista
 Periodo Heian
 
 [WORLD_NAME_ATLANTIS]
-La Atlántida
+Atlántida
 
 [WORLD_NAME_TALE]
 Bosque Encantado
@@ -14858,25 +14858,25 @@ LV.
 未来时空奖杯
 
 [EMPEA]
-脉冲黄桃
+P.E. Melocotonético
 
 [EMPEA_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}Especial:{STAT}设备失灵
+{KEYWORD}Uso：{STAT}único, funciona inmediatamente
+{KEYWORD}Especial:{STAT}hace fallar máquinas
 {KEYWORD}Características：{STAT}橙色植物、矮个子
-{FLAVOR}如果你要去和脉冲黄桃一起吃饭聚会，给你个小提示，吃饭的时候别埋头玩手机。
+{FLAVOR}Si vas a salir a comer con P.E. Melocotonético, te doy un pequeño consejo: no te pases la comida mirando el móvil.
 
 [EMPEA_DESCRIPTION_HEADER]
-脉冲黄桃一旦启动会使整片区域的所有机器设备失灵。
+Al activarse, provocará un fallo en todas las máquinas de la zona.
 
 [EMPEA_PLANTFOOD]
-能量豆无效果。
+No tiene efecto de Nutrientes
 
 [EMPEA_TOOLTIP]
-使区域内所有设备失灵。
+Al activarse, provocará un fallo en toda máquina.
 
 [EMPEA_PRODUCT_SHORT_DESC]
-使区域内所有设备失灵
+Provoca un fallo en todas las máquinas de la zona.
 
 [EMPEA_PLANTFOOD_DESCRIPTION]
 
@@ -14885,22 +14885,21 @@ LV.
 
 
 [HOLONUT]
-全息坚果
+Nuez Infinita
 
 [HOLONUT_DESCRIPTION]
-{KEYWORD}Características：{STAT}蓝色植物
-{KEYWORD}Características：{STAT}一段时间后会自我修复
-
-{FLAVOR}作为一枚年轻的坚果，他花了太多时间在两面镜子之间思考人生了。
+{KEYWORD}Características：{STAT}planta azul
+{KEYWORD}Especial：{STAT}se repara con el tiempo
+{FLAVOR}De joven, un poco chiflado, pasaba demasiado tiempo parado entre dos espejos, reflexionando sobre su vida.
 
 [HOLONUT_DESCRIPTION_HEADER]
-虽然全息坚果比坚果弱，但是他们可以慢慢自我治疗。
+Aunque es más débil que una Nuez, puede curarse poco a poco por sí mismo.
 
 [HOLONUT_PLANTFOOD]
-能量豆无效果。
+Crea un escudo enfrente suyo que abarca todas las líneas y no permite pasar ni siquiera zombis voladores
 
 [HOLONUT_TOOLTIP]
-每隔一段时间可以重生。
+Protege a tus plantas y se cura cada cierto tiempo
 
 [LASER_BEAN]
 Frijol Láser
@@ -14920,21 +14919,21 @@ Dispara un potente rayo que arrasa con todos los zombis de una fila
 Dispara lásers para acabar con todos los zombis de una fila
 
 [MAGNIFYINGGRASS]
-棱镜草
+Hierba Lupa
 
 [MAGNIFYINGGRASS_DESCRIPTION]
-{KEYWORD}Características：{STAT}点击消耗一个阳光进行一次攻击
-{KEYWORD}Características：{STAT}白色植物
-{FLAVOR}棱镜草知道如何运用隐藏在彩虹中的无穷能量。在他冷峻的面孔下，驱动五彩缤纷的辐射对抗僵尸大军使他获得巨大的享受与满足。
+{KEYWORD}Efecto：{STAT}al pulsar, consume un sol para realizar el ataque
+{KEYWORD}Características：{STAT}planta blanca
+{FLAVOR}Sabe cómo aprovechar la energía infinita que se esconde en el arcoíris. Bajo su rostro impasible, le produce un enorme placer y satisfacción impulsar la radiante luz multicolor para hacer frente al ejército de zombis.
 
 [MAGNIFYINGGRASS_DESCRIPTION_HEADER]
-棱镜草可以将阳光聚焦成一团色彩斑斓的辐射攻击波。
+Concentra la luz solar en proyectiles radiantes y multicolores.
 
 [MAGNIFYINGGRASS_PLANTFOOD]
-能量豆无效果。
+Lanza un potente rayo arcoíris que quema a los zombis
 
 [MAGNIFYINGGRASS_TOOLTIP]
-点击后使用阳光发射辐射攻击波。
+Al pulsarla, lanza un proyectil solar.
 
 [CITRON]
 充能柚子
@@ -29134,7 +29133,7 @@ Periodo Heian
 Bosque Encantado
 
 [ATLANTIS]
-La Atlántida
+Atlántida
 
 [MODERN_DANGER_ROOM_NAME]
 危房高速
@@ -86942,7 +86941,7 @@ Desbloqueada
  
 
 [ALM_BEACH]
-Playa la gran ola
+Playa la Gran Ola
 
  
 
@@ -86957,7 +86956,7 @@ Edad Oscura
  
 
 [ALM_DINO]
-Pantano Jurásico
+Pantano del Jurásico
 
  
 
@@ -86967,32 +86966,32 @@ Antiguo Egipto
  
 
 [ALM_EIGHTIES]
-Vueltacasete de neón
+Vueltacasete de Neón
 
  
 
 [ALM_FUTURE]
-Futuro lejano
+Futuro Lejano
 
  
 
 [ALM_ICEAGE]
-Cuevas congeladas
+Cuevas Congeladas
 
  
 
 [ALM_LOSTCITY]
-Ciudad perdida
+Ciudad Perdida
 
  
 
 [ALM_MODERN]
-Tiempos modernos
+Tiempos Modernos
 
  
 
 [ALM_PIRATE]
-Mares piratas
+Mares Piratas
 
  
 
@@ -103445,7 +103444,7 @@ PIÑATA 派对
  
 
 [MAGNIFYINGGRASS_PLANTFOOD]
-能量豆无效果。
+Lanza un potente rayo arcoíris que quema a los zombis
 
  
 
@@ -115032,44 +115031,28 @@ Tienda
  
 
 [product_6_name]
-金币礼包150000
-
- 
+金币礼包150000 
 
 [product_6_short_description]
 金币礼包150000
 
- 
-
 [product_7_description]
 制造一颗能量豆。
-
- 
 
 [product_7_name]
 植物——能量花
 
- 
-
 [product_7_short_description]
 能量花
-
- 
 
 [product_8_description]
 点燃一整排的僵尸。
 
- 
-
 [product_8_name]
 植物——火爆辣椒
 
- 
-
 [product_8_short_description]
 火爆辣椒
-
- 
 
 [product_9_description]
 复制一张植物卡片
@@ -115100,5 +115083,713 @@ Haz clic en "Actividad de primavera" en la esquina inferior izquierda. ¡Te espe
 
 [消耗钻石抽抱枕]
 ¡Hasta el 25 de octubre, por cada 100 diamantes que gastes podrás participar en un sorteo de juguetes exclusivos del tercer aniversario!
+
+[STARCHALLENGE_25_BEACH_FINALE_NAME]
+Playa de la Gran Ola - Día Final
+
+[STARCHALLENGE_25_COWBOY_FINALE_NAME]
+Salvaje Oeste - Día Final
+
+[STARCHALLENGE_25_LOSTCITY_FINALE_NAME]
+Ciudad Perdida - Día Final
+
+[STARCHALLENGE_25_LOSTCITY_FINALE_NAME1]
+Ciudad Perdida - Día Final
+
+[STARCHALLENGE_25_PIRATE_FINALE_NAME]
+Mares Piratas - Día Final
+
+[STARCHALLENGE_BARREL_POWDER_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis usando toneles explosivos
+
+[STARCHALLENGE_BARREL_POWDER_ZOMBIE_KILL_NAME]
+Toneles explosivos
+
+[STARCHALLENGE_BEACH_CONVEYOR]
+Sobrevive al ataque zombi en la Playa de la Gran Ola con las plantas de la cinta transportadora
+
+[STARCHALLENGE_BEACH_CONVEYOR_NAME]
+Entrega especial
+
+[STARCHALLENGE_BEACH_FINALE]
+Sobrevive a un ataque masivo en Playa de la Gran Ola
+
+[STARCHALLENGE_BEACH_FINALE_NAME]
+Playa de la Gran Ola - Día Final
+
+[STARCHALLENGE_BESIEGE]
+Pon obstáculos y plantas para evitar que los zombis lleguen a la línea de meta
+
+[STARCHALLENGE_BESIEGE_NAME]
+Asedio
+
+[STARCHALLENGE_BESIEGN]
+Pon obstáculos y plantas para evitar que los zombis se roben tus piezas
+
+[STARCHALLENGE_BESIEGN_NAME]
+Asedio
+
+[STARCHALLENGE_BLOW_BARREL_ZOMBIE_DESC]
+Usa a Trebolador para expulsar a {COUNT} zombis que salen de toneles
+
+[STARCHALLENGE_BLOW_BARREL_ZOMBIE_NAME]
+Intrusos fugitivos
+
+[STARCHALLENGE_BLOW_ZOMBIE]
+Expulsa a {COUNT} zombis del patio
+
+[STARCHALLENGE_BLOW_ZOMBIE_NAME]
+Volando zombis
+
+[STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis que hayan sido potenciados por Casillas especiales
+
+[STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_NAME]
+Casillas malditas
+
+[STARCHALLENGE_BULLET_SYMBOL]
+•
+
+[STARCHALLENGE_CAMEL_MINIGAME]
+Combina símbolos para destruir a los zombis
+
+[STARCHALLENGE_CAMEL_MINIGAME_NAME]
+Memoria de momia
+
+[STARCHALLENGE_CANNON_MINIGAME]
+Alcanza la puntuación objetivo
+
+[STARCHALLENGE_CANNON_MINIGAME_NAME]
+Cañones fuera
+
+[STARCHALLENGE_CARD_GAME_TURN_PASS]
+Gana {COUNT} rondas
+
+[STARCHALLENGE_CARD_GAME_TURN_PASS_NAME]
+Estratega maestro
+
+[STARCHALLENGE_CHALLENGE_HEADER_DOUBLE]
+Para ganar esta estrella:
+
+[STARCHALLENGE_CHALLENGE_HEADER_MULTIPLE]
+Para ganar esta estrella:
+
+[STARCHALLENGE_CHALLENGE_HEADER_SINGLE]
+Para ganar esta estrella:
+
+[STARCHALLENGE_CONVEYORBELT]
+Sobrevive al ataque zombi con las plantas de la cinta transportadora
+
+[STARCHALLENGE_CORRAL_MINIGAME]
+¡Sobrevive al ataque zombi!
+
+[STARCHALLENGE_CORRAL_MINIGAME_NAME]
+Ésto no es un O.K . Corral
+
+[STARCHALLENGE_COWBOY_FINALE]
+Sobrevive a un ataque masivo en el Salvaje Oeste
+
+[STARCHALLENGE_COWBOY_FINALE_NAME]
+Salvaje Oeste - Día Final
+
+[STARCHALLENGE_DARK_CONVEYOR]
+Sobrevive al ataque zombi en la Edad Oscura con las plantas de la cinta transportadora
+
+[STARCHALLENGE_DARK_CONVEYOR_NAME]
+Entrega especial
+
+[STARCHALLENGE_DARK_FINALE]
+Sobrevive un ataque masivo en la Edad Oscura
+
+[STARCHALLENGE_DARK_FINALE_NAME]
+Edad Oscura - Noche Final
+
+[STARCHALLENGE_DEFAULT_DEFEAT_ZOMBIES]
+¡Derrota a los zombis!
+
+[STARCHALLENGE_DEFEAT_X_CURES]
+Rompe el escudo de oro del Maestro Qigong {NUMBER} veces
+
+[STARCHALLENGE_DEFEAT_X_KOONGFU_MONKS]
+Derrota {NUMBER} Shaolines monje
+
+[STARCHALLENGE_DEFEAT_X_KOONGFU_ROCKET]
+Derrota {NUMBER} Zombiditos tigre
+
+[STARCHALLENGE_DEFEAT_X_PUMPKIN_HOUSE_GHOST]
+Derrota al Rey calabaza {NUMBER} veces
+
+[STARCHALLENGE_DEFEAT_X_PVZ1ZOMBIES]
+Derrota a {NUMBER} zombis clásicos
+
+[STARCHALLENGE_DEFEAT_X_SKYCITY_BASICS]
+Derrota {NUMBER} Zombis piloto
+
+[STARCHALLENGE_DEFEAT_X_TERRACOTTA]
+Derrota {NUMBER} Guerreros de terracota
+
+[STARCHALLENGE_DESTROY_X_ARMRACKS]
+Destruye {GRID_ITEMS} estantes de armas
+
+[STARCHALLENGE_DEVIL]
+Derrota al Zomboss cabeza de pólvora
+
+[STARCHALLENGE_DINO_FINALE]
+Sobrevive a un ataque masivo en Pantano del Jurásico
+
+[STARCHALLENGE_DISABLEPLANT]
+No puedes usar plantas del tipo: {TYPE}
+
+[STARCHALLENGE_DISABLEPLANT_NAME]
+Plantas prohibidas
+
+[STARCHALLENGE_EGYPT_FINALE]
+Sobrevive a un ataque masivo en el Antiguo Egipto
+
+[STARCHALLENGE_EGYPT_FINALE_NAME]
+Antiguo Egipto - Día Final
+
+[STARCHALLENGE_EIGHTIES_FINALE]
+Sobrevive un ataque masivo en la Vueltacasete de Neón
+
+[STARCHALLENGE_ELIMINATE]
+Combina esferas y protege tus plantas
+
+[STARCHALLENGE_ELIMINATE_NAME]
+Unión verde
+
+[STARCHALLENGE_EVIL]
+Comanda un ejército zombi y derrota a todas las plantas
+
+[STARCHALLENGE_EVILSHROOMS]
+Sobrevive mientras las pociones malignas potencian a los zombis
+
+[STARCHALLENGE_EVILSHROOMS_A_NAME]
+Alquimia oscura - I
+
+[STARCHALLENGE_EVILSHROOMS_B_NAME]
+Alquimia oscura - II
+
+[STARCHALLENGE_EVILSHROOMS_C_NAME]
+Alquimia oscura - III
+
+[STARCHALLENGE_EVILSHROOMS_NAME]
+Alquimia oscura
+
+[STARCHALLENGE_EVIL_NAME]
+Doctor del mal
+
+[STARCHALLENGE_FILL_ROW_WITH_PLANTS]
+¡Llena una fila horizontal con plantas!
+
+[STARCHALLENGE_FIRECRACKER_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis usando petardos
+
+[STARCHALLENGE_FIRECRACKER_ZOMBIE_KILL_NAME]
+Poder explosivo
+
+[STARCHALLENGE_FIREWORKS_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis usando fuegos artificiales
+
+[STARCHALLENGE_FIREWORKS_ZOMBIE_KILL_NAME]
+Pirotecnia asesina
+
+[STARCHALLENGE_FISH]
+Derriba zombis a cañonazos.  Alcanza la puntuación objetivo para ganar
+
+[STARCHALLENGE_FISH_NAME]
+Cacería de zombis
+
+[STARCHALLENGE_FLAMELADY_DEFEAT_X_ZOMBIES]
+Derrota a {NUMBER} zombis con Reina Flor de Fuego
+
+[STARCHALLENGE_FUTURE_CONVEYOR]
+Sobrevive al ataque zombi en el Futuro lejano con las plantas de la cinta transportadora
+
+[STARCHALLENGE_FUTURE_FINALE]
+Sobrevive a un ataque masivo en el Futuro lejano
+
+[STARCHALLENGE_FUTURE_FINALE_NAME]
+Futuro Lejano - Día Final
+
+[STARCHALLENGE_GUACODILE]
+Evita que Guacadrilo choque con los obstáculos y sobrevive al ataque zombi
+
+[STARCHALLENGE_GUACODILE_NAME]
+Guacadrilo voraz
+
+[STARCHALLENGE_HELICONIAGUNNER_DEFEAT_X_ZOMBIES]
+Derrota a {NUMBER} zombis con Heliconia Militar
+
+[STARCHALLENGE_HIDDEN]
+Consulta las novedades de esta actualización
+
+[STARCHALLENGE_HIDDEN_NAME]
+Novedades
+
+[STARCHALLENGE_HYPNOSHROOM]
+Utiliza Hipnosetas para derrotar a los zombis
+
+[STARCHALLENGE_HYPNOSHROOM_NAME]
+A toda hipnosis
+
+[STARCHALLENGE_ICEAGA_FINALE]
+Sobrevive un ataque masivo en el Festival Invernal
+
+[STARCHALLENGE_ICEAGA_FINALE_NAME]
+Festival Invernal - Día Final
+
+[STARCHALLENGE_ICEAGE_FINALE]
+Sobrevive a un ataque masivo en las Cuevas congeladas
+
+[STARCHALLENGE_KILL_ZOMBIES_IN_TIME]
+Acaba con {ZOMBIES} zombis en {TIME} segundos
+
+[STARCHALLENGE_KILL_ZOMBIES_IN_TIME_NAME]
+Acaba con los zombis a tiempo
+
+[STARCHALLENGE_KONGFU_BLACK_HOLE]
+Planea tu defensa y destruye a los zombis mientras luchas contra agujeros negros
+
+[STARCHALLENGE_KONGFU_BLACK_HOLE_NAME]
+Batallón negro
+
+[STARCHALLENGE_KONGFU_BOMB]
+Sobrevive al ataque zombi evitando que todos los barriles exploten
+
+[STARCHALLENGE_KONGFU_BOMB_NAME]
+No enciendas la mecha
+
+[STARCHALLENGE_KONGFU_BRONZE]
+Derrota a los zombis de bronce
+
+[STARCHALLENGE_KONGFU_BRONZE_NAME]
+Terror de bronce
+
+[STARCHALLENGE_KONGFU_CONVEYOR_BELT]
+Sobrevive al ataque zombi en la Dinastía del Kung Fu con las plantas de la cinta transportadora
+
+[STARCHALLENGE_KONGFU_CONVEYOR_BELT_NAME]
+Entrega especial
+
+[STARCHALLENGE_KONGFU_FINALE]
+Sobrevive a un ataque masivo en la Dinastía del Kung Fu
+
+[STARCHALLENGE_KONGFU_FINALE_NAME]
+Dinastía del Kung Fu - Día Final
+
+[STARCHALLENGE_LASTSTAND]
+¡Planea tu defensa y destruye a los zombis!
+
+[STARCHALLENGE_LASTSTAND_MINIGAME]
+¡Planea tu defensa y destruye a los zombis!
+
+[STARCHALLENGE_LASTSTAND_MINIGAME_NAME]
+El último batallón
+
+[STARCHALLENGE_LASTSTAND_NAME]
+El último batallón
+
+[STARCHALLENGE_LAVAGUAVA_DEFEAT_X_ZOMBIES]
+Derrota a {NUMBER} zombis con Guayalava
+
+[STARCHALLENGE_LAWN_MOWER_WARNING]
+No utilices ninguna cortadora de césped para completar el objetivo
+
+[STARCHALLENGE_LOSTCITY_BOSS]
+Sobrevive a un ataque masivo en la Ciudad Perdida y derrota al Zombot Góndola Aerostática
+
+[STARCHALLENGE_LOSTCITY_BOSS_NAME]
+Ciudad Perdida - Día Final
+
+[STARCHALLENGE_LOSTCITY_CONVEYOR]
+Sobrevive al ataque zombi en la Ciudad Perdida con las plantas de la cinta transportadora
+
+[STARCHALLENGE_LOSTCITY_CONVEYOR_NAME]
+Entrega especial
+
+[STARCHALLENGE_LOSTCITY_FINALE]
+Sobrevive a un ataque masivo en la Ciudad Perdida
+
+[STARCHALLENGE_LOSTCITY_FINALE_NAME]
+Ciudad Perdida - Día Final
+
+[STARCHALLENGE_LOSTCITY_GOLDROAD]
+Planta en el espacio limitado y sobrevive al ataque zombi
+
+[STARCHALLENGE_LOSTCITY_GOLDROAD_NAME]
+Unsodded
+
+[STARCHALLENGE_LOSTCITY_LASTSTAND]
+¡Planea tu defensa y destruye a los zombis de la Ciudad perdida!
+
+[STARCHALLENGE_LOSTCITY_LASTSTAND_NAME]
+El último batallón
+
+[STARCHALLENGE_LOSTCITY_RAIN]
+Sobrevive al ataque zombi bajo la oscuridad de una tormenta
+
+[STARCHALLENGE_LOSTCITY_RAIN_NAME]
+Noche de tormenta
+
+[STARCHALLENGE_LOSTCITY_VASEBREAKER]
+Rompe los jarrones y derrota a los zombis de la Ciudad Perdida
+
+[STARCHALLENGE_LOSTCITY_VASEBREAKER_NAME]
+Rompejarrones perdido
+
+[STARCHALLENGE_MASTER_THE_CONVEYOR]
+Sobrevive al ataque zombi con las plantas de la cinta transportadora
+
+[STARCHALLENGE_MASTER_THE_CONVEYOR_NAME]
+Entrega especial
+
+[STARCHALLENGE_MAZE_STATUE]
+Memoriza y encuentra a todos los zombis ocultos entre las estatuas
+
+[STARCHALLENGE_MAZE_STATUE_NAME]
+Buscazombis
+
+[STARCHALLENGE_MODERN_FINALE]
+Sobrevive un ataque masivo en los Tiempos Modernos
+
+[STARCHALLENGE_MOLD_MINIGAME]
+Sobrevive sin plantar en las colonias de moho de Dave
+
+[STARCHALLENGE_MOLD_MINIGAME_NAME]
+Colonias de moho
+
+[STARCHALLENGE_MOSTLY_PRESET_PLANTS]
+Sobrevive al ataque zombi con la mayor parte de las plantas que elegimos por ti
+
+[STARCHALLENGE_MOSTLY_PRESET_SMALLGAME]
+Combina las esferas de poder para derrotar a los zombis usando la mayoría de las plantas preseleccionadas
+
+[STARCHALLENGE_NINJAJUMP]
+Esquiva los obstáculos y ayuda al Zombidito Ninja a alcanzar la meta
+
+[STARCHALLENGE_NINJAJUMP_NAME]
+Aventuras ninja
+
+[STARCHALLENGE_NO_STAR_DESC]
+Completa el nivel para desbloquearla
+
+[STARCHALLENGE_OAKSHOOTER]
+Protege a Roble Arquero y alcanza la puntuación objetivo acertando a los zombis
+
+[STARCHALLENGE_OAKSHOOTER_NAME]
+Cuestión de puntería
+
+[STARCHALLENGE_PAOKU]
+Sobrevive y alcanza la puntuación objetivo
+
+[STARCHALLENGE_PIRATE_FINALE]
+Sobrevive a un ataque masivo en los Mares Piratas
+
+[STARCHALLENGE_PIRATE_FINALE_NAME]
+Mares Piratas - Día Final
+
+[STARCHALLENGE_PLANTFOOD_NONUSE]
+No uses Nutrientes en este nivel.
+
+[STARCHALLENGE_PLANTFOOD_NONUSE_NAME]
+Contra los Nutrientes
+
+[STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
+Si utilizas Nutrientes en este nivel no obtendrás la estrella, ¿seguro que quieres utilizarlos?
+
+[STARCHALLENGE_PLANTFOOD_NONUSE_TIP_PVZ1]
+Si utilizas Nutrientes del espacio-tiempo en este nivel no alcanzarás el objetivo, ¿seguro que quieres utilizarlos?
+
+[STARCHALLENGE_PLANTFOOD_USED]
+¡Gasta {COUNT} o menos Nutrientes!
+
+[STARCHALLENGE_PLANTS_AT_ONCE]
+Nunca tengas más de {COUNT} plantas a la vez
+
+[STARCHALLENGE_PLANTS_AT_ONCE_NAME]
+Plantas simultáneas
+
+[STARCHALLENGE_PLANTS_LOST]
+¡No pierdas más de {COUNT} plantas!
+
+[STARCHALLENGE_PLANTS_LOST_NAME]
+Plantas perdidas
+
+[STARCHALLENGE_PLANTS_LOST_SINGLE]
+No pierdas más de {COUNT} planta (s)
+
+[STARCHALLENGE_PLANTS_PLANTED]
+¡Planta {COUNT} plantas o menos!
+
+[STARCHALLENGE_PLANTS_PLANTED_NAME]
+Plantas plantadas
+
+[STARCHALLENGE_PLANT_BEFORE_LINE]
+Sobrevive sin plantar en las colonias de moho de Dave
+
+[STARCHALLENGE_PLANT_BEFORE_LINE_NAME]
+Colonia de moho
+
+[STARCHALLENGE_PLANT_FREEZE]
+Nunca tengas más de {COUNT} plantas de hielo a la vez
+
+[STARCHALLENGE_PLANT_FREEZE_NAME]
+Plantas simultáneas (hielo)
+
+[STARCHALLENGE_PLANT_SURVIVE]
+Sobrevive con {COUNT} plantas o más
+
+[STARCHALLENGE_PLANT_SURVIVE_NAME]
+Supervivencia vegetal
+
+[STARCHALLENGE_POOYAN]
+Sobrevive esquivando zombis y proyectiles. Derrota a los enemigos para alcanzar la puntuación objetivo
+
+[STARCHALLENGE_POOYAN_NAME]
+Combate aéreo
+
+[STARCHALLENGE_POTION_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis que hayan sido potenciados por Pociones
+
+[STARCHALLENGE_POTION_ZOMBIE_KILL_NAME]
+Alquimistas
+
+[STARCHALLENGE_POWERUP_DEMO]
+Sobrevive usando Potenciadores
+
+[STARCHALLENGE_POWERUP_DEMO_NAME]
+Prueba de Potenciadores
+
+[STARCHALLENGE_PRESET_PLANTS]
+Sobrevive el ataque zombi con las plantas que te dan
+
+[STARCHALLENGE_PRESET_PLANTS_NAME]
+Listos para la acción
+
+[STARCHALLENGE_PROTECTTHEGRIDITEM]
+No rompas lápidas en este nivel
+
+[STARCHALLENGE_PROTECTTHEGRIDITEM_NAME]
+Protector de lápidas
+
+[STARCHALLENGE_PROTECT_PLANT]
+Protege a las plantas que estén en peligro
+
+[STARCHALLENGE_PROTECT_PLANTS_BY_PROTECTER_SHIELD_DESC]
+Protege {COUNT} plantas del Escudo electromagnético
+
+[STARCHALLENGE_PROTECT_PLANTS_BY_PROTECTER_SHIELD_NAME]
+Polos opuestos
+
+[STARCHALLENGE_PROTECT_PLANT_NAME]
+Defensores de semillas
+
+[STARCHALLENGE_PROTECT_THE_GRIDITEM]
+No rompas lápidas en este nivel
+
+[STARCHALLENGE_PROTECT_THE_PLANT]
+Sobrevive y protege las plantas en peligro
+
+[STARCHALLENGE_PROTECT_THE_PLANT_NAME]
+Salvad nuestras semillas
+
+[STARCHALLENGE_PROTECT_THE_PUFFSHROOMS]
+Sobrevive y mantén a las Setas desesporadas con vida
+
+[STARCHALLENGE_PVZ1KLOTSKI_NAME]
+Tráfico alocado
+
+[STARCHALLENGE_PVZ1ZOMBIE_NUM]
+Derrota a 25 Zombiditos de Pera Zombidita
+
+[STARCHALLENGE_RENAI_FINALE]
+Sobrevive un ataque masivo en la Edad Renacentista
+
+[STARCHALLENGE_RENAI_FINALE_NAME]
+Edad Renacentista - Día Final
+
+[STARCHALLENGE_RETAIN_BOMBS]
+Evita que los barriles de pólvora exploten
+
+[STARCHALLENGE_RETAIN_BOMBS_NAME]
+De mecha corta
+
+[STARCHALLENGE_RETAIN_MOWERS]
+Sobrevive sin cortadoras de césped
+
+[STARCHALLENGE_RETAIN_MOWERS_NAME]
+Mantener cortadoras
+
+[STARCHALLENGE_RIFT_LASTSTAND]
+¡Planta previamente con soles limitados y sobrevive al ataque zombi!
+
+[STARCHALLENGE_RIFT_NORMAL]
+¡Sobrevive al ataque zombi!
+
+[STARCHALLENGE_RIFT_VASEBREAKER]
+Rompe todos los jarrones y sobrevive
+
+[STARCHALLENGE_RIVERCROSSING]
+Esquiva obstáculos y haz que los dodos crucen el rio
+
+[STARCHALLENGE_RIVERCROSSING_NAME]
+Cruce glacial
+
+[STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis que estén siendo arrastrados por tormentas de arena
+
+[STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_NAME]
+Cazadores de tormentas
+
+[STARCHALLENGE_SCORE_TO_BEAT]
+Puntuación que batir: {NUMBER}
+
+[STARCHALLENGE_SEEDRAIN]
+Sobrevive al ataque zombi con las semillas que caen del cielo
+
+[STARCHALLENGE_SEEDRAIN_NAME]
+Llueven semillas
+
+[STARCHALLENGE_SINGLE]
+Protege a tu planta y sobrevive al ataque zombi
+
+[STARCHALLENGE_SINGLE_NAME]
+Todos para uno
+
+[STARCHALLENGE_SKYCITY]
+Sobrevive un ataque masivo en la Ciudad Aérea
+
+[STARCHALLENGE_SKYCITY_FINALE]
+Sobrevive a un ataque masivo en la Ciudad Aérea
+
+[STARCHALLENGE_SKYCITY_NAME]
+Ciudad Aérea - Día Final
+
+[STARCHALLENGE_SPEND_SUN_HOLDOUT]
+No gastes soles durante {COUNT} segundos
+
+[STARCHALLENGE_SPEND_SUN_HOLDOUT_NAME]
+Sol sin usar
+
+[STARCHALLENGE_STEAM_FINALE]
+Sobrevive a un ataque masivo en la Edad del Vapor
+
+[STARCHALLENGE_STEAM_FINALE_NAME]
+Edad del Vapor - Día Final
+
+[STARCHALLENGE_SUNBOMBS]
+Sobrevive mientras caen Bombas solares
+
+[STARCHALLENGE_SUNBOMBS_NAME]
+Bombas solares
+
+[STARCHALLENGE_SUNREDUCED]
+La producción solar se reduce en un {COUNT} %
+
+[STARCHALLENGE_SUNREDUCED_NAME]
+Sequía solar
+
+[STARCHALLENGE_SUN_PRODUCED]
+Produce al menos {COUNT} soles
+
+[STARCHALLENGE_SUN_PRODUCED_NAME]
+Sol producido
+
+[STARCHALLENGE_SUN_USED]
+No gastes más de {COUNT} soles
+
+[STARCHALLENGE_SUN_USED_NAME]
+Sol usado
+
+[STARCHALLENGE_SURVIVE_LEVEL_TIME]
+¡Sobrevive durante {TIME} minutos!
+
+[STARCHALLENGE_TAB_STAR_0]
+Estrella 0
+
+[STARCHALLENGE_TAB_STAR_1]
+Primera estrella
+
+[STARCHALLENGE_TAB_STAR_2]
+Segunda estrella
+
+[STARCHALLENGE_TAB_STAR_3]
+Tercera estrella
+
+[STARCHALLENGE_TARGET_SCORE]
+Derrota zombis para ganar puntos. Consigue una puntuación más alta que la de tu oponente para ganar.
+
+[STARCHALLENGE_TARGET_SCORE_BONUS_PLANTS]
+Bonificación de planta + x{NUMBER}
+
+[STARCHALLENGE_TARGET_SCORE_FAILURE]
+No llegaste a la puntuación objetivo:
+
+[STARCHALLENGE_TARGET_SCORE_NAME]
+¡Supera la puntuación objetivo!
+
+[STARCHALLENGE_TARGET_SCORE_PLAYER_SCORE]
+Tu puntuación: {NUMBER}
+
+[STARCHALLENGE_TENT_ZOMBIE_KILL_DESC]
+Derrota a {COUNT} zombis que salen de Tiendas de campaña
+
+[STARCHALLENGE_THREEPIGS]
+Evita que los zombis se lleven a los cerditos
+
+[STARCHALLENGE_THREEPIGS_NAME]
+Teatro del terror
+
+[STARCHALLENGE_TITLE]
+Desafío estelar
+
+[STARCHALLENGE_TOMBSTONES]
+Las tumbas extra complican tu plantado
+
+[STARCHALLENGE_TOMBSTONES_NAME]
+Tumbas
+
+[STARCHALLENGE_TRAINING]
+Inflige tanto daño como puedas en 30 segundos
+
+[STARCHALLENGE_UNFREEZE_PLANTS_DESC]
+Descongela {COUNT} plantas
+
+[STARCHALLENGE_UNFREEZE_PLANTS_NAME]
+Rompiendo el hielo
+
+[STARCHALLENGE_VASEBREAKER]
+Rompe los jarrones y derrota a los zombis
+
+[STARCHALLENGE_VASEBREAKER_NAME]
+Rompejarrones
+
+[STARCHALLENGE_YETI_DEMO]
+Resiste las invasiones zombis y consigue nuevas plantas
+
+[STARCHALLENGE_YETI_DEMO_NAME]
+Tesoro de Yetis
+
+[STARCHALLENGE_ZOMBIESPEED]
+La velocidad de los zombis aumenta un {COUNT} %
+
+[STARCHALLENGE_ZOMBIESPEED_NAME]
+Zombis veloces
+
+[STARCHALLENGE_ZOMBIES_ONSCREEN]
+¡Ten {COUNT} zombis o más en el patio!
+
+[STARCHALLENGE_ZOMBIE_DISTANCE]
+No dejes que los zombis pisen las flores
+
+[STARCHALLENGE_ZOMBIE_DISTANCE_NAME]
+Cama de flores
+
+[STARCHALLENGE_ZOMBOSS_BATTLE]
+¡Derrota a Dr. Zombi y su invento mecánico!
+
+[STARCHALLENGE_ZOMBOSS_BATTLE_NAME]
+¡Batalla contra Dr. Zombi!
 
 [PVZ2_CHINESE_END]
