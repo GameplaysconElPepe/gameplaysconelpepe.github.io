@@ -1198,7 +1198,7 @@ Planta Carnívora
 Atrae a tres zombis y se los traga de un solo bocado, y luego escupe hacia delante un gas capaz de hacer retroceder a los zombis.
 
 [CHOMPER_TOOLTIP]
-Cómete a los zombis, pero tienes que masticarlos durante un rato.
+Come zombis, pero es vulnerable mientras los mastica.
 
 [SWEETPOTATO_PLANTFOOD]
 Se cura y atrae a los zombis a su línea.
@@ -2553,74 +2553,74 @@ El modo de ventana solo funciona si el escritorio está configurado en un modo d
 Si quieres ejecutar el juego en modo de ventana, primero debes salir del juego y configurar el escritorio en un modo de color de 16 o 32 bits.
 
 [JALAPENO]
-火爆辣椒
+Jalapeño
 
 [JALAPENO_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}Características：{STAT}红色植物、面恶心善、满腹怒火
-{FLAVOR}在白天他是火爆辣椒，夜晚他将变身成为超级英雄———缝纫侠。他的绝招是打蝴蝶结。
+{KEYWORD}Uso：{STAT}único, instantáneo
+{KEYWORD}Características：{STAT}planta roja, lleno de ira
+{FLAVOR}Durante el día, soy Jalapeño, un chile normal con una vida normal, pero en mí hay algo que nadie sabe, es mi secreto. Jalapeño soy de día pero de noche soy una máquina de coser andante. Mi especialidad son las corbatas.
 
 [JALAPENO_DESCRIPTION_HEADER]
-火爆辣椒可以摧毁一整条线上的僵尸。
+Puede acabar con todos los zombis de una fila.
 
 [JALAPENO_PLANTFOOD]
-能量豆无效果。
+No tiene efecto de Nutrientes
 
 [JALAPENO_TOOLTIP]
-烧光一整行的僵尸。
+Puede quemar todos los zombis de una fila.
 
 [GLOOMBARA]
-幽潭婆罗
+Infradumbara
 
 [GLOOMBARA_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}幽潭婆罗是个重度“氛围感”爱好者，“打僵尸能不能赢另说，但出场特效必须唯美！”为了这20秒的专属滤镜，她甚至专门去报了一个影视后期特效速成班。
+{KEYWORD}Uso：{STAT}único e inmediato
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Es una gran amante de la "atmósfera": "Que pueda ganar o no a los zombis es otra cuestión, ¡pero los efectos especiales de mi entrada en escena tienen que ser preciosos!". Para conseguir ese filtro exclusivo de 20 segundos, incluso se matriculó en un curso intensivo de efectos especiales para cine y televisión.
 
 [GLOOMBARA_DESCRIPTION_HEADER]
-开启灵界大门，强化灵界植物并用锁链束缚全场灵体僵尸。
+Potencia las plantas espirituales y ata con cadenas a todos los zombis espirituales del patio.
 
 [GLOOMBARA_PLANTFOOD]
-此植物无能量豆大招。
+No tiene efecto de Nutrientes
 
 [GLOOMBARA_TOOLTIP]
-开启灵界大门，强化灵界植物并用锁链束缚全场灵体僵尸。
+Potencia plantas espirituales y ata a todos los zombis espirituales del patio.
 
 [GLOOMBARA_SKILL_LEVEL1]
-通灵法术
+Atadura Espiritual
 
 [GLOOMBARA_SKILL_LEVEL1_DES]
-锁链束缚僵尸持续时间增加至8.5秒。
+La duración de la inmovilización de los zombis con cadenas aumenta a 8,5 segundos.
 
 [GLOOMBARA_SKILL_LEVEL2]
-通灵秘术
+Encadenamiento Espiritual
 
 [GLOOMBARA_SKILL_LEVEL2_DES]
-锁链束缚僵尸持续时间增加至10秒。
+La duración de la inmovilización de los zombis con cadenas aumenta a 10 segundos.
 
 [GLOOMBARA_PRODUCT_SHORT_DESC]
-开启灵界大门，强化灵界植物并用锁链束缚全场灵体僵尸。
+Potencia plantas espirituales y ata a todos los zombis espirituales del patio.
 
 [GLOOMBARA_NEW_SKILL_LEVEL1_DES]
-种植后，立刻展开灵界环境，持续20秒，同时召唤锁链束缚全场的灵体僵尸7秒
+Tras plantarla, se activa inmediatamente un entorno espiritual que dura 20 segundos y, al mismo tiempo, invoca cadenas que inmovilizan a todos los zombis espirituales del patio durante 7 segundos.
 
 [GLOOMBARA_NEW_SKILL_LEVEL2_DES]
-锁链束缚僵尸持续时间增加至8.5秒。
+La duración de la inmovilización de los zombis con cadenas aumenta a 8,5 segundos.
 
 [GLOOMBARA_NEW_SKILL_LEVEL3_DES]
-锁链束缚僵尸持续时间增加至10秒。
+La duración de la inmovilización de los zombis con cadenas aumenta a 10 segundos.
 
 [GLOOMBARA_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+No tiene efecto de Nutrientes
 
 [GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+No tiene efecto de Nutrientes
 
 [JUMP_TO_COLLECTIONS_VIEW]
-跳至宝物界面
+VER COLECCIÓN
 
 [JUMP_TO_MACHINE_VIEW]
-跳至道具界面
+VER ACCESORIOS
 
 [KERNELPULT]
 Lanzamaíz
@@ -2662,23 +2662,23 @@ Lanza granos de maíz y mantequilla que paraliza zombis
 放弃挑战？
 
 [LEAVE_GAME_BODY]
-你确定要退出这一关卡吗？
-这样做将丢失当前关卡的进度。
+¿Estás seguro de querer salir de este nivel?
+Si lo haces, perderás el progreso de este nivel.
 
 [LEAVE_WORLDCUP_GAME_BODY]
-是否确认放弃比赛？
-放弃后门票将被消耗，并重新从第一关开始。
+¿Confirmas que quieres abandonar la partida?
+Si abandonas, se consumirá tu entrada y volverás a empezar desde la primera fase.
 
 [LEAVE_GAME_BODY_ARENAEDIT]
-你确定要退出这一关卡吗？
-若退出关卡，布置的植物不会被保存。
+¿Estás seguro de que quieres salir de este nivel?
+Si sales del nivel, las plantas que hayas colocado no se guardarán.
 
 [LEAVE_MAUSOLEUM_GAME_BODY]
-是否确认放弃比赛？
-放弃后失败本轮挑战，并重新从第一关开始。
+¿Deseas confirmar que abandonas la partida?
+Si abandonas, perderás el desafío de esta fase y volverás a empezar desde la primera.
 
 [LEAVE_MAUSOLEUM_ENDLESS_PROGRESS]
-当前进度:{NUM}关
+Progreso actual:{NUM}niveles
 
 [LEAVE_MAUSOLEUM_ENDLESS_MAX_PROGRESS]
 最长连胜:{NUM}关
@@ -4342,22 +4342,22 @@ Planta dos clones preparados en casillas aleatorias del patio.
 Explota al contacto. Una vez colocado, tarda tiempo en activarse.
 
 [POWERLILY]
-能量花
+Lirio Poderoso
 
 [POWERLILY_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}Características：{STAT}制造一颗能量豆
+{KEYWORD}Uso：{STAT}único e inmediato
+{KEYWORD}Características：{STAT}fabrica nutrientes
 
-{FLAVOR}从小到大，能量花成长的每一步都是三好学生的范儿，她一直致力于为广大的植物同胞们带来满满的正能量。
+{FLAVOR}Desde pequeña, Lirio Poderoso ha sido una alumna ejemplar que se esfuerza al máximo por transmitir energía positiva a sus compañeras plantas.
 
 [POWERLILY_DESCRIPTION_HEADER]
-能量花可以凭空制造一颗能量豆。
+Crea Nutrientes extra
 
 [POWERLILY_PLANTFOOD]
-能量豆无效果。
+No tiene efecto de Nutrientes
 
 [POWERLILY_TOOLTIP]
-制造一颗能量豆。
+Crea Nutrientes extra
 
 [POWERLILY_PLANTFOOD_DESCRIPTION]
  
@@ -6846,59 +6846,146 @@ Genera una armadura metálica, aumentando enormemente la defensa de Nuez.
 [WALLNUT_TOOLTIP]
 Bloquea zombis y protege las plantas de atrás.
 
+[WARNING_BASSRAIN]
+¡Metalero en el escenario!
+
+[WARNING_BEGHOULED_SWAP]
+¡CAMBIAR!
+
+[WARNING_BLACK_HOLE_TIP]
+¡Agujero negro!
+
+[WARNING_BREAK]
+¡ROMPE!
+
+[WARNING_BUNGEE_TIP]
+¡Colgaos cayendo!
+
 [WARNING_CAMELMINIGAME_1]
-准备…
+Preparados...
 
 [WARNING_CAMELMINIGAME_2]
-开始…
+Listos...
 
 [WARNING_CAMELMINIGAME_3]
-开火！
+¡A COMBINAR!
 
 [WARNING_CANNONMINIGAME_1]
-准备…
+Preparados...
 
 [WARNING_CANNONMINIGAME_2]
-开始…
+Listos...
 
 [WARNING_CANNONMINIGAME_3]
-开火！
+¡FUEGO!
 
-[WARNING_RIVERCROSSING_1]
-好！
+[WARNING_DINO_RUN]
+¡Estampida de dinosaurios!
 
-[WARNING_RIVERCROSSING_2]
-准备…
+[WARNING_DINO_TREAD]
+¡Pisada gigante!
 
-[WARNING_RIVERCROSSING_3]
-开始！
+[WARNING_EGGS]
+¡HUEVOS!
+
+[WARNING_EXCOLDSTORM]
+¡Frente frío!
+
+[WARNING_FAIRY_TALE_FOG_TIP]
+¡Neblina abrumadora!
+
+[WARNING_FAIRY_TALE_WIND_TIP]
+¡Viento mágico!
 
 [WARNING_FINAL_WAVE]
 OLEADA FINAL
 
-[WARNING_RAIDINGPARTY]
-海盗登船了！
+[WARNING_FISH_WAVE_TIP]
+¡Cardumen!
 
-[WARNING_SANDSTORM]
-沙尘暴！
+[WARNING_GRAVESTONE_SPAWN]
+¡Nigromancia!
 
 [WARNING_HAMSTER_BALLS]
-仓鼠球僵尸来袭！
+¡PELEA DE HÁMSTERS!
 
 [WARNING_HEIAN_WIND]
-风即将降临！
+¡Tifón caótico!
+
+[WARNING_HOTDOGS]
+¡Perritos calientes!
+
+[WARNING_JETPACKRAIN]
+¡Ataque propulsado!
+
+[WARNING_LAST_STAND_1]
+¡Prepara tus defensas!
+
+[WARNING_LEPRACHAUNS]
+¡Leprechauns!
+
+[WARNING_LOD]
+¡Protege tu casa!
+
+[WARNING_LOOKOUT]
+¡Cuidado!
+
+[WARNING_LOW_TIDE]
+¡Marea baja!
+
+[WARNING_MECHRAIN]
+¡Asalto mecha!
+
+[WARNING_NINJA_AMBUSH]
+¡Emboscada ninja!
+
+[WARNING_PARACHUTERAIN]
+¡Lluvia de paracaídas!
+
+[WARNING_RAIDINGPARTY]
+¡Incursión!
 
 [WARNING_RENAI_NIGHT_1]
-黑夜即将降临！
+¡Se acerca la noche!
 
 [WARNING_RENAI_NIGHT_2]
-请做好准备…
+Se está oscureciendo...
 
 [WARNING_RENAI_NIGHT_3]
-开始！
+¡Ya es de noche!
+
+[WARNING_RIVERCROSSING_1]
+Preparados...
+
+[WARNING_RIVERCROSSING_2]
+Listos...
+
+[WARNING_RIVERCROSSING_3]
+¡EMPIEZA!
+
+[WARNING_SANDSTORM]
+¡Tormenta de arena!
+
+[WARNING_SANTA_TIP]
+¡Santa Claus llegó a la ciudad!
+
+[WARNING_SAPSPAWN]
+¡Savia!
+
+[WARNING_SNOWSTORM]
+¡Tormenta de nieve!
+
+[WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
+¡Cachalotes al acecho!
+
+[WARNING_SPERM_WHALE_BACKGROUND_DESC_2]
+¡Ya vienen!
+
+[WARNING_SPIDERRAIN]
+¡Enjambre de robots!
 
 [WARNING_STANDARD_1]
-En sus marcas...
+Preparados...
 
 [WARNING_STANDARD_2]
 Listos...
@@ -6907,77 +6994,65 @@ Listos...
 ¡A PLANTAR!
 
 [WARNING_THUNDER_TIP]
-雷云风暴来袭！
-
-[WARNING_PARACHUTERAIN]
-空投注意！空投注意！
-
-[WARNING_GRAVESTONE_SPAWN]
-小心，墓碑松动了！
-
-[WARNING_FAIRY_TALE_WIND_TIP]
-起风了！
-
-[WARNING_FAIRY_TALE_FOG_TIP]
-起雾了！
+¡Tormenta eléctrica!
 
 [WARNING_TIDE_WAVE_TIP]
-洋流出现了！
+¡Corriente marina!
 
-[WARNING_FISH_WAVE_TIP]
-敌人正在逼近！
+[WARNING_WITCH_APPEAR_DESC]
+¡Apareció una bruja!
 
-[WARNING_BLACK_HOLE_TIP]
-黑洞要吸植物了！
+[WARNING_ZCORPDROP]
+¡Refuerzos ZCorp!
 
 [WELCOME_USER_NAME_2]
-你好，%s!
+¡Hola, %s!
 
 [WEST_CHALLENGE_MINIGAME_A_NAME]
-围栏之战-第1天
+Este no es un O.K. Corral - I
 
 [WEST_CHALLENGE_MINIGAME_B_NAME]
-围栏之战-第2天
+Este no es un O.K. Corral - II
 
 [WEST_CHALLENGE_MINIGAME_C_NAME]
-围栏之战-第3天
+Este no es un O.K. Corral - III
 
 [WEST_LEVEL_NAME]
 Salvaje Oeste - Día {LEVEL_NUMBER}
 
 [WHO_ARE_YOU]
-你是谁？
+INTRODUCE TU NOMBRE
 
 [WINTERMELON]
-冰西瓜投手
+Melonpulta Congelada
 
 [WINTERMELON_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}1/2倍速
-{KEYWORD}范围：{STAT}抛掷
-{KEYWORD}Características：{STAT}受伤的僵尸也被冰冻
-{KEYWORD}Características：{STAT}蓝色植物
-{FLAVOR}你可能在这部伟大的纪录片中会认出冰西瓜的富有磁性的声音，比如“这上面很冷”“冰冻重击”还有“冲浪的因纽特人”。
+{KEYWORD}Velocidad de lanzamiento：{STAT}baja
+{KEYWORD}Alcance：{STAT}el del lanzamiento
+{KEYWORD}Efecto：{STAT}los zombis atacados también quedan congelados
+{KEYWORD}Características：{STAT}planta azul
+{FLAVOR}Es posible que reconozcas la cautivadora voz de Melonpulta Congelada en magníficos documentales como "Aquí arriba hace mucho frío", "Golpe helado" o "Los esquimales que practican surf".
 
 [WINTERMELON_DESCRIPTION_HEADER]
-冰西瓜投手能造成范围性的伤害并让僵尸减速。
+Inflige daño de área y ralentiza a los zombis.
 
 [WINTERMELON_PLANTFOOD]
-发射重型冰西瓜并打击草坪上的所有僵尸。
+Lanza sandías congeladas gigantes y acaba con todos los zombis del césped.
 
 [WINTERMELON_TOOLTIP]
-重重打击成群的僵尸，并减慢它们的速度。
+Lanza sandías congeladas, inflige daño de área y ralentiza a los zombis.
 
 [WORLD_MAP_MENU_BUTTON]
-菜单
+MENÚ
 
 [WORLD_MAP_SOCIAL_BUTTON]
-好友
+AMIGOS
 
 [WORLD_MAP_STORE_BUTTON]
-商店
+TIENDA
 
 [DANGERROOM_TRAINING_RECORD_LEVEL]
-记录{NUMBER}关
+Entrenamiento - Nivel {NUMBER}
 
 [WORLD_NAME_COMING_SOON]
 Próximamente...
@@ -11968,75 +12043,75 @@ Características：
 传送带
 
 [ADVICE_BAMBOO_ON_RAIL]
-该植物不能种在矿车上
+No puede plantarse en un vagón minero.
 
 [BAMBOO]
-竹笋
+Brote de Bambú
 
 [BAMBOO_DESCRIPTION]
-{KEYWORD}Características：{STAT}绿色植物、矮个子
-{FLAVOR}竹笋从土行孙那里习得土遁功夫，又经过不懈努力，终于获得“钻头工程学院”学士称号。
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Aprendió la técnica de la evasión terrestre de su maestro y, tras un esfuerzo incansable, finalmente obtuvo el título de licenciado en la "Escuela de Ingeniería de Perforación".
 
 [BAMBOO_DESCRIPTION_HEADER]
-在地底移动，并对上方的僵尸造成穿刺伤害。
+Se desplaza bajo tierra e inflige daño perforante a los zombis que se encuentran encima.
 
 [BAMBOO_PLANTFOOD]
-蓄气于钻头之上，发动强力的穿刺攻击，击飞敌人
+Acumula energía, lanza un potente ataque perforador y derriba al enemigo.
 
 [BAMBOO_TOOLTIP]
-在地面上来回移动，对经过的僵尸造成两次伤害。
+Se desplaza bajo tierra e inflige daño perforante a los zombis de arriba.
 
 [PEACH]
-仙桃
+Durazno Celestial
 
 [PEACH_DESCRIPTION]
-{KEYWORD}恢复生命值量：{STAT}中等
-{KEYWORD}Características：{STAT}红色植物、矮个子
-{FLAVOR}仙桃的简历上写着自己本是王母娘娘的御用蟠桃，被贬下凡后做了战地医生。
+{KEYWORD}Curación：{STAT}media
+{KEYWORD}Características：{STAT}planta rosada, pequeña
+{FLAVOR}En su currículum se lee que, en un principio, estuvo al servicio de la Emperatriz celestial, pero que, tras ser desterrada al mundo terrenal, se convirtió en médico de guerra.
 
 [PEACH_DESCRIPTION_HEADER]
-能医治周围的植物，恢复他们的生命值。
+Cura a las plantas de su alrededor en un área de 3x3.
 
 [PEACH_PLANTFOOD]
-产生无敌护盾，保护周围的植物免于伤害
+Todas las plantas que la rodean en un área de 3x3 serán temporalmente invulnerables.
 
 [PEACH_TOOLTIP]
-能恢复周围植物的生命值。
+Cura a las plantas de su alrededor en un área de 3x3.
 
 [TURNIP]
-白萝卜
+Rábano Blanco
 
 [TURNIP_DESCRIPTION]
-{KEYWORD}Características：{STAT}白色植物
-{FLAVOR}白萝卜学了很多年气功，但他一直都只会一招：纹丝不动。
+{KEYWORD}Características：{STAT}planta blanca
+{FLAVOR}Lleva muchos años practicando Qigong, pero solo sabe hacer una cosa: quedarse completamente inmóvil.
 
 [TURNIP_DESCRIPTION_HEADER]
-稳固地立在地上，抵抗气功僵尸的法术和时空黑洞的吞噬。
+Permanece firme sobre el suelo, resistiendo a los hechizos de los Zombis Qigong y a la absorción de los agujeros negros
 
 [TURNIP_PLANTFOOD]
-变化出更多白萝卜。
+Crea un clon suyo
 
 [TURNIP_TOOLTIP]
-稳固地立在地上，抵抗气功僵尸的法术和时空黑洞的吞噬。
+Permanece firme sobre el suelo, resistiendo todo tipo de atracción
 
 [FIREGOURD]
-火葫芦
+Calabaza de Fuego
 
 [FIREGOURD_DESCRIPTION]
-{KEYWORD}用法：{STAT}点击喷火
-{KEYWORD}范围：{STAT}直线
-{KEYWORD}Especial:{STAT}蓄力时间越长，喷出的火焰越强，专克兵器架
-{KEYWORD}Características：{STAT}黄色植物、满腹怒火
-{FLAVOR}火葫芦原先只是个杂技班里的小配角，自从上了僵尸战场后，他才发现自己真正的价值。
+{KEYWORD}Uso：{STAT}al pulsarlo lanza fuego
+{KEYWORD}Alcance：{STAT}línea recta
+{KEYWORD}Especial:{STAT}cuanto más tiempo se cargue, más potente será la llama que lanza; es especialmente eficaz contra los soportes de armas.
+{KEYWORD}Características：{STAT}planta naranja, iracunda
+{FLAVOR}Calabaza de Fuego no era más que un actor secundario en una compañía de espectáculos circenses, pero desde que llegó al campo de batalla, ha descubierto su verdadero valor.
 
 [FIREGOURD_DESCRIPTION_HEADER]
-火葫芦蓄力后能朝前方吐火，造成持续火焰伤害，对付木制的兵器架特别有效。
+Tras acumular potencia, Calabaza de Fuego puede lanzar fuego continuo que resulta especialmente eficaz contra los soportes de armas.
 
 [FIREGOURD_PLANTFOOD]
-朝前方一整行喷吐火焰
+Lanza una ráfaga de llamas hacia delante
 
 [FIREGOURD_TOOLTIP]
-点击后可以喷火并休息，休息时间越长，喷出火焰越强
+Púlsalo para lanzar fuego; mientras más descanse, más potente será su llama.
 
 [LOTUS]
 水仙花
@@ -14936,99 +15011,100 @@ Lanza un potente rayo arcoíris que quema a los zombis
 Al pulsarla, lanza un proyectil solar.
 
 [CITRON]
-充能柚子
+Pomelo
 
 [CITRON_DESCRIPTION]
-{KEYWORD}Características：{STAT}橙色植物、十万伏特
-{FLAVOR}“厚积而薄发”是充能柚子座右铭，少年老成的性格让人觉得他渊博，稳重。有人问他成功的秘诀时，他指了指他家那台大屏等离子电视机。
+{KEYWORD}Características：{STAT}planta naranja
+{FLAVOR}"Acumular experiencia para darlo todo en el momento oportuno" es el lema de Pomelo; su madurez prematura da la impresión de que es un joven culto y sensato. Cuando alguien le preguntó cuál era el secreto de su éxito, señaló el televisor de plasma de pantalla grande que tenía en casa.
 
 [CITRON_DESCRIPTION_HEADER]
-充能柚子可以发射等离子炮。
+Dispara bolas de plasma
 
 [CITRON_TOOLTIP]
-发射等离子炮。
+Dispara bolas de plasma
 
 [POWERPLANT]
-瓷砖萝卜
+Rábano Casillero
 
 [SUPER_POWERPLANT]
-瓷砖萝卜
+Rábano Casillero
 
 [POWERPLANT_DESCRIPTION]
-{KEYWORD}Características：{STAT}紫色植物
-{FLAVOR}瓷砖萝卜常常标榜自己是井字游戏冠军。但大家却觉得，他这么说只是为了缓解突然蹲下在地板上画一些圈圈叉叉的尴尬。
+{KEYWORD}Características：{STAT}planta morada
+{FLAVOR}Rábano Casillero suele presumir de ser el campeón del tres en raya. Sin embargo, todos piensan que solo lo dice para disimular la incomodidad de agacharse de repente para dibujar equis y círculos.
 
 [POWERPLANT_DESCRIPTION_HEADER]
-瓷砖萝卜可以建立强化瓷砖，以供玩家种植植物。
+Permite crear casillas poderosas en las que los jugadores pueden plantar.
 
 
 [SUPER_POWERPLANT_HEAD_ID_25330]
-独角瓷砖
+Rábano unicornio
 
 [SUPER_POWERPLANT_HEAD_DES_ID_25330]
-戴上后，可以改变瓷砖萝卜的生成的瓷砖图案。
+A quienes consiguieron el Disfraz exclusivo de Rábano Casillero
 
 [CARROTLAUNCHER]
-胡萝卜导弹车
+Zanahortillería
 
 [CARROTLAUNCHER_DESCRIPTION_HEADER]
-胡萝卜导弹车可以发射胡萝卜飞弹，对前方僵尸造成大威力伤害。
+Dispara misiles zanahoria que infligen un daño considerable a los zombis que se encuentran delante.
 
 [CARROTLAUNCHER_DESCRIPTION]
-{KEYWORD}范围：{STAT}弧线弹道
-{KEYWORD}Características：{STAT}单格溅射
-{KEYWORD}Características：{STAT}橙色植物、武器家族
-{FLAVOR}胡萝卜在少年时代是机器人动画的狂热爱好者，他的房间摆满了各种机器人模型，他玩过几乎每一款机器人题材的电子游戏，他甚至尝试过在自己身上纹上一些代表某些机器人的纹身。当他成为一名科学家后，他开始疯狂地研究如何将太阳能作为机器人的动力来源……后来他把自己的研究成果应用在了自己身上。于是有人叫他胡萝卜导弹车，但是他更愿意称呼自己为柯博文。
+{KEYWORD}Alcance：{STAT}lanzamiento parabólico
+{KEYWORD}Especial：{STAT}inflige daño por salpicadura en una casilla
+{KEYWORD}Características：{STAT}planta naranja, militar
+{FLAVOR}De joven era un apasionado de los dibujos animados de robots: su habitación estaba repleta de maquetas de todo tipo de robots y había jugado a casi todos los videojuegos de robots. Cuando se convirtió en científico, comenzó a investigar con ahínco cómo utilizar la energía solar como fuente de energía para los robots... y más tarde aplicó los resultados de su investigación a sí mismo. Por eso, algunos lo llaman "Zanahortillería", pero él prefiere llamarse Optimus Prime.
 
 [CARROTLAUNCHER_TOOLTIP]
-发射胡萝卜飞弹，对前方僵尸造成大威力伤害。
+Dispara misiles zanahoria que infligen mucho daño a los zombis.
 
 [DANDELION]
-蒲公英
+Diente de León
 
 [DANDELION_DESCRIPTION_HEADER]
-蒲公英可以发射威力强大的绒球，轰炸前方的敌人。
+Lanza potentes bombas voladoras para acabar a los enemigos que tiene delante.
 
 [DANDELION_DESCRIPTION]
-{KEYWORD}范围：{STAT}单格伤害
-{KEYWORD}Características：{STAT}白色植物
-{FLAVOR}蒲公英曾经是一个普通的文艺青年，没事的时候他喜欢躺在大树下看书，以及在看书的间隙中仰望天空。他的梦想是成为一名翱翔在蓝天下的飞行员，于是当他长大以后，他成为了一名机场联络员……是的，您没有看错，因为长年不正确的看书姿势导致他的视力下降得厉害，他没能通过飞行员体检！
+{KEYWORD}Alcance：{STAT}el de las bombas
+{KEYWORD}Características：{STAT}planta blanca
+{FLAVOR}Diente de león era un joven bohemio como cualquier otro; en sus ratos libres le gustaba tumbarse bajo un gran árbol a leer y, entre lectura y lectura, contemplar el cielo. Su sueño era convertirse en piloto y surcar los cielos, así que, cuando creció, se hizo coordinador de aeropuerto... Sí, no has leído mal: debido a que durante años había leído en una postura incorrecta, su vista se había deteriorado tanto que no superó el examen médico para pilotos.
 
 [DANDELION_TOOLTIP]
-发射绒球，对前方敌人造成大威力伤害。
+Lanza bombas voladoras para acabar a los enemigos que tiene delante.
+
 [DANDELION_SKILL1_LEVEL5]
-大号炸弹
+Bomba Gigante
 
 [DANDELION_SKILL1_LEVEL5_DES]
-蒲公英在普通攻击时有30%概率投放一颗更大的炸弹，对僵尸的伤害提升。
+Tiene un 30 % de probabilidad de lanzar una bomba más grande al realizar un ataque normal, lo que aumenta el daño infligido a los zombis.
 
 [BROCCOLI]
-大力花菜
+Brócoli Musculoso
 
 [BROCCOLI_DESCRIPTION_HEADER]
-大力花菜可以挥动僵尸攻击前后方。
+Agita y golpea contra el suelo a los zombis. 
 
 [BROCCOLI_DESCRIPTION]
-{KEYWORD}范围：{STAT}前后单格
-{KEYWORD}Características：{STAT}绿色植物、武艺高强
-{FLAVOR}大力花菜曾经梦想着成为一位超级英雄，就像他经常看的漫画中的那些英雄一样。为此他拒绝了可爱的番茄妹妹的告白，参加了学校的柔道社，上学在学校苦练功夫，放学去学校背后的小巷子里匡扶正义……终于有一天，他收到了学校的留级通知书。
+{KEYWORD}Alcance：{STAT}una casilla frente a él
+{KEYWORD}Características：{STAT}planta verde, luchador
+{FLAVOR}Brócoli Musculoso soñaba con convertirse en un superhéroe, igual que los de los cómics que solía leer. Para ello, rechazó la declaración de amor de la linda Tomate-chan, se apuntó al club de judo del colegio, entrenaba sin descanso durante las clases y, al salir del colegio, se dedicaba a defender la justicia en el callejón que había detrás del centro... Hasta que, un día, recibió la notificación de que había suspendido el curso.
 
 [BROCCOLI_TOOLTIP]
-抓住僵尸，挥动它攻击前后方。
+Agita y golpea contra el suelo a los zombis. 
 
 [PAMEGRANATE]
-机枪石榴
+Granatralladora
 
 [PAMEGRANATE_DESCRIPTION_HEADER]
-机枪石榴可以扫射前方范围的僵尸。
+Granatralladora dispara en ráfagas a los zombis frente a él en un área de 3x2
 
 [PAMEGRANATE_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方扇形
-{KEYWORD}Características：{STAT}橙色植物、武器家族、龅牙小子
-{FLAVOR}石榴在去图书馆偷看校花的时候无意中看了一本叫《论石榴的1000种吃法》的书，书的扉页上写着一句影响了他一生的话：无论如何吃，石榴籽都是要被吐掉的。后来他参了军，成了一名枪法奇烂的机枪手，又后来他退了伍，成了一名每天磕着瓜子晒晒太阳的房东。再后来？你没看到对面那个张开大嘴向你们乱喷口水的家伙吗？
+{KEYWORD}Alcance：{STAT}frente a él en un área de 3x2
+{KEYWORD}Características：{STAT}planta naranja, militar, necesita ortodoncia
+{FLAVOR}Cuando Granatralladora fue a la biblioteca a espiar a la chica más guapa de la escuela, leyó por casualidad un libro titulado "1000 maneras de comer granadas". En la portada había una cita que le cambió la vida: "No importa cómo la comas, las semillas de granada siempre se escupen". Luego se alistó en el ejército y se convirtió en ametrallador con una puntería extrañamente mala. Después se licenció y se convirtió en un casero que comía semillas y tomaba el sol todos los días. ¿Que luego qué pasó? ¿No ves a ese tipo de allá que abrió la boca para escupirte?
 
 [PAMEGRANATE_TOOLTIP]
-扫射前方扇形范围的僵尸。
+Granatralladora dispara en ráfagas a los zombis frente a él en un área de 3x2
 
 [CHOMPER_DESCRIPTION_HEADER]
 Devora a los zombis que tiene delante, pero mientras los digiere es vulnerable a sus ataques.
@@ -15039,18 +15115,18 @@ Devora a los zombis que tiene delante, pero mientras los digiere es vulnerable a
 {FLAVOR}Todo el mundo aprecia lo que hace, ya que su gran apetito les ha salvado en muchas ocasiones. Pero, sinceramente, sus amigos consideran que comer zombis es algo muy grosero. ¡Y ni  hablar de su aliento! Hasta ahora no entiende por qué le regalaban mentas, y nadie se atreve a decirle la verdad.
 
 [SWEETPOTATO]
-甜薯
+Boniato
 
 [SWEETPOTATO_DESCRIPTION_HEADER]
-甜薯可以吸引附近的僵尸并阻挡他们前进。
+Atrae a los zombis cercanos y bloquea su paso.
 
 [SWEETPOTATO_DESCRIPTION]
-{KEYWORD}Especial:{STAT}不能吸引背后的僵尸
+{KEYWORD}Especial:{STAT}no puede atraer a zombis de atrás
 
-{FLAVOR}甜薯就像她看起来那样甜。她最喜欢的动物是独角兽。按她的原话说她最喜欢的颜色则是“彩虹的所有颜色”。当她写字母“i”的时候，她喜欢把点画成一颗心的形状。坦白来讲，对别人来说她的甜度简直无法忍受。但是对她来讲，这只是刚刚好而已。
+{FLAVOR}Boniato es tan dulce como parece. Su animal favorito es el unicornio. Según sus propias palabras, su color favorito es "todos los colores del arcoíris". Cuando escribe la letra "i", le gusta dibujar el punto en forma de corazón. A decir verdad, para los demás su dulzura resulta casi insoportable. Pero para él, es justo lo que necesita.
 
 [POWERPLANT_TOOLTIP]
-建立强化瓷砖。
+Coloca casillas poderosas
 
 [POWERTILE_TUTORIAL_1]
 给豌豆射手吃能量豆
@@ -15107,24 +15183,24 @@ Devora a los zombis que tiene delante, pero mientras los digiere es vulnerable a
 {SAY:crazydave}前进，魅惑菇们！
 
 [STARFRUIT]
-星星果
+Frustrella
 
 [STARFRUIT_DESCRIPTION]
-{KEYWORD}范围：{STAT}向五个方向开火
-{KEYWORD}Características：{STAT}黄色植物、矮个子
-{FLAVOR}他是个来自小城镇的水果，来到大城市找到了未来之路。他最喜欢的交通方式是：传送带，螺旋桨直升机，和火箭。哇欧～～
+{KEYWORD}Alcance：{STAT}dispara en cinco direcciones
+{KEYWORD}Características：{STAT}planta amarilla, bajita
+{FLAVOR}"¡Caramba!", masculla Frustrella. "Fui al dentista el otro día y me dijo que tenía cuatro cavidades. ¡Y solo tengo un diente! ¿Cuatro cavidades y un solo diente? ¿Pero como puede ser?".
 
 [STARFRUIT_DESCRIPTION_HEADER]
-星星果可以向五个方向发射小星星。
+Frustrella puede lanzar estrellas en cinco direcciones.
 
 [STARFRUIT_PLANTFOOD]
-能量豆无效果。
+Dispara diez estrellas gigantes en cinco direcciones
 
 [STARFRUIT_TOOLTIP]
-向五个方向发射小星星。
+Lanza estrellas en cinco direcciones.
 
 [WORLD_PREVIEW_DISCLAIMER]
-内容包一旦购买可以多用户享用！
+¡Una vez comprado, el pack de contenido puede ser compartido con varios usuarios!
 
 [ZOMBIE_RUSH_CURRENT_CREDIT]
 本局积分: {NUMBER}
@@ -15133,7 +15209,7 @@ Devora a los zombis que tiene delante, pero mientras los digiere es vulnerable a
 历史最高积分: {NUMBER}  
 
 [ZEN_GARDEN]
-休闲花园
+Jardín Zen
 
 [ZEN_GARDEN_BEE_TUTORIAL_USE_BEE]
 点选一个植物，蜜蜂会加速它的成长！
@@ -16108,31 +16184,31 @@ Futuro Lejano
 不断提供更多阳光。
 
 [PUFFSHROOM]
-小喷菇
+Seta Desesporada
 
 [PUFFSHROOM_DESCRIPTION_HEADER]
-小喷菇射程很近并只能持续一段时间。
+El alcance de Seta desesporada es muy corto y solo dura un rato.
 
 [PUFFSHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT} 存活时间有限
-{KEYWORD}Características：{STAT}紫色植物、蘑菇家族、矮个子
-{FLAVOR}小喷菇对所有最新的网络时尚无所不知。他沉溺在“菇博”，“菇信”和“美菇秀秀”中不能自拔。但是有时候他还是会想念草坪网友聚会,那种纯朴简单的友情一去不返。
+{KEYWORD}Debilidad：{STAT}dura muy poco
+{KEYWORD}Características：{STAT}planta morada, reino fungi, pequeña
+{FLAVOR}Está al tanto de todas las últimas tendencias en Internet. Está totalmente enganchado a "Hongoblog", "Setenger" y "Fungsapp". Sin embargo, a veces echa de menos las quedadas de los usuarios de "Grasscord", ya que amistades sencillas y sinceras no quedan muchas.
 
 [PUFFSHROOM_TOOLTIP]
-近程射手，可持续一定时间
+Dispara a corta distancia, con una duración limitada
 
 [FUMESHROOM]
-大喷菇
+Humoseta
 
 [FUMESHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}紫色植物、蘑菇家族
-{FLAVOR}“我是一个充满自信,无所不能的蘑菇，”大喷菇如是说道，“但是有时候，当我吃下能量豆，我听到有植物在窃窃私语。他们居然叫我‘气球菇’!他们根本不知道这有多伤人!”
+{KEYWORD}Características：{STAT}planta morada, reino fungi
+{FLAVOR}"Soy un hongo lleno de confianza y capaz de todo", repite Humoseta, "pero a veces, cuando me como un Nutriente, oigo a las plantas cuchichear. ¡Me llaman "Globoseta"! ¡No tienen ni idea de lo mucho que me duele!".
 
 [FUMESHROOM_TOOLTIP]
-喷射有害气体，可对指定区域的所有僵尸造成伤害。
+Emite gases tóxicos que causan daño a todos los zombis de un área.
 
 [FUMESHROOM_DESCRIPTION_HEADER]
-大喷菇喷射的有害气体可对前方一定区域的所有僵尸造成伤害。
+Los gases nocivos que expulsa Humoseta causan daño a todos los zombis de una zona determinada delante de él.
 
 [SUNBEAN]
 阳光豆
