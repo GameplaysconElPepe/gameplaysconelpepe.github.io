@@ -16170,18 +16170,18 @@ Futuro Lejano
 从黑暗时代，毁灭所有的东西。
 
 [SUNSHROOM]
-阳光菇
+Seta Solar
 
 [SUNSHROOM_DESCRIPTION]
-{KEYWORD}生产阳光：{STAT}开始少量，之后正常，最后大量。
-{KEYWORD}Características：{STAT}黄色植物、蘑菇家族、无尽阳光
-{FLAVOR}众所周知，阳光菇拥有迷人的微笑和开朗的性格，但老实讲，即便是他也有过黑暗的日子。身处黑暗还得把东西一直照亮实属不易。
+{KEYWORD}Producción solar：{STAT}empieza con poco, luego normal y, por último, produce una cantidad grande.
+{KEYWORD}Características：{STAT}planta amarilla, reino fungi, produce soles
+{FLAVOR}Como todo el mundo sabe, Seta Solar tiene una sonrisa encantadora y un carácter alegre, pero, sinceramente, incluso él ha pasado por momentos difíciles. No es nada fácil estar en la oscuridad y tener que seguir iluminando todo a tu alrededor.
 
 [SUNSHROOM_DESCRIPTION_HEADER]
-阳光菇可以生产阳光，并且随着它的成长，单次获得的阳光会不断增加。
+Produce soles, y a medida que crece, la cantidad de soles que produce va aumentando.
 
 [SUNSHROOM_TOOLTIP]
-不断提供更多阳光。
+Produce soles, y a medida que crece, los soles que produce van aumentando.
 
 [PUFFSHROOM]
 Seta Desesporada
@@ -16211,128 +16211,128 @@ Emite gases tóxicos que causan daño a todos los zombis de un área.
 Los gases nocivos que expulsa Humoseta causan daño a todos los zombis de una zona determinada delante de él.
 
 [SUNBEAN]
-阳光豆
+Frijol Solar
 
 [SUNBEAN_DESCRIPTION]
-{KEYWORD}Características：{STAT}黄色植物、无尽阳光
-{FLAVOR}作为豆子兄弟里的老大哥，阳光豆总觉得他的弟弟妹妹们不靠谱。巴豆总是很粗俗，激光豆太前卫，弹簧豆就是个懒虫。尽管如此，他依然深爱着他的家人们。
+{KEYWORD}Características：{STAT}planta amarilla, produce soles
+{FLAVOR}Como hermano mayor de los hermanos Frijol, Frijol Solar siempre piensa que sus hermanos y hermanas no son de fiar. Frijol es muy grosero, Frijol Láser es demasiado vanguardista y Frijuelle es un vago. A pesar de todo, sigue queriendo mucho a su familia.
 
 [SUNBEAN_DESCRIPTION_HEADER]
-阳光豆用阳光来影响僵尸。当一个僵尸吃掉它后受到伤害时就会产生阳光。
+Cuando un zombi se lo come, recibe daño y genera luz solar.
 
 [SUNBEAN_TOOLTIP]
-吃掉它的僵尸一旦受伤害就会掉落阳光。
+Cuando un zombi se lo come, recibe daño y genera luz solar.
 
 [STORE_PRODUCT_AVATAR_SUNBEAN]
-降低阳光消耗25
+Reduce su costo solar un 25 %
 
 [STORE_PRODUCT_AVATAR_SUNBEAN_TITLE]
-阳光豆装扮
+Disfraz de Frijol Solar
 
 [MAGNETSHROOM]
-磁力菇
+Magnetoseta
 
 [MAGNETSHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}移除僵尸们所有的金属物品
-{KEYWORD}Características：{STAT}红色植物、蘑菇家族
-{FLAVOR}虽然磁力菇外形奇特，但是对找女朋友完全没有影响。可真谈了恋爱却都维持不长，每个姑娘都因为同一个理由和他分手:太粘人。
+{KEYWORD}Especial：{STAT}roba los objetos metálicos de los zombis
+{KEYWORD}Características：{STAT}planta roja, reino fungi
+{FLAVOR}Aunque Magnetoseta tiene un aspecto peculiar, eso no le impide encontrar novia. Sin embargo, cuando empieza una relación, esta no dura mucho, ya que todas las chicas rompen con él por la misma razón: es demasiado dependiente.
 
 [MAGNETSHROOM_DESCRIPTION_HEADER]
-吸走铁桶、铁盔或其它金属物品。
+Atrae los objetos metálicos de los zombis.
 
 [MAGNETSHROOM_TOOLTIP]
-吸走铁桶、头盔或其它金属物品。
+Atrae los objetos metálicos de los zombis.
 
 [HYPNOSHROOM]
-魅惑菇
+Hipnoseta
 
 [HYPNOSHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}让一只僵尸为你作战
-{KEYWORD}Características：{STAT}蘑菇家族
-{FLAVOR}魅惑菇认为说服僵尸为植物而战毫无挑战。但是他还没说服过任何一只僵尸鸡。“会有那么一天的，”他说，“一定会有那一天的。”
+{KEYWORD}Especial：{STAT}hace que un zombi luche por ti
+{KEYWORD}Características：{STAT}reino fungi
+{FLAVOR}A Hipnoseta le parece que convencer a los zombis para que luchen por las plantas no supone ningún reto. Sin embargo, aún no ha conseguido convencer a ningún pollo zombi. "Ya llegará ese día", dice, "seguro que llegará".
 
 [HYPNOSHROOM_DESCRIPTION_HEADER]
-当僵尸吃下魅惑菇后，他将会掉转方向为你作战。
+Cuando el zombi se coma a Hipnoseta, cambiará de bando y luchará de tu lado.
 
 [HYPNOSHROOM_TOOLTIP]
-让一只僵尸为你作战。
+Al comerla, los zombis cambiarán de bando y lucharán de tu lado.
 
 [PEANUT]
-花生射手
+Cacahuete
 
 [PEANUT_DESCRIPTION]
-{KEYWORD}Características：{STAT}褐色植物、攻守兼备
-{FLAVOR}花生射手知道有些人对他挺"过敏"。他试着了解他们的顾虑,并且给予对方足够的空间。即便如此,他仍然会情不自禁地怀念以前的时光-回到那个人人爱花生的时代。
+{KEYWORD}Características：{STAT}planta marrón, combina ataque y defensa
+{FLAVOR}Sabe que hay gente a la que le "cae mal". Intenta comprender sus preocupaciones y les da el espacio que necesitan. Aun así, no puede evitar echar de menos los viejos tiempos, cuando a todo el mundo le encantaban los cacahuetes.
 
 [PEANUT_DESCRIPTION_HEADER]
-花生射手可以阻挡僵尸的前进并可以喷射花生米。
+Puede detener el avance de los zombis y lanzar maní.
 
 [PEANUT_TOOLTIP]
-喷射花生米攻击并阻止僵尸前进。
+Puede detener el avance de los zombis y lanzar maní.
 
 [STREETLAMP]
-路灯花
+Planterna
 
 [STREETLAMP_DESCRIPTION]
-{FLAVOR}路灯花蔑视科学，他就这样。其他植物吸收光能排出氧气，路灯花却吸收黑暗发出灯光。路灯花曾就此坦言：“我不说什么‘巫术魔法’之类的东西，我只使用'黑暗原力'这个词，我只是……我认为我已经说得够多的了。”
+{FLAVOR}Planterna se burla de la ciencia; así es ella. Mientras que otras plantas absorben luz y expulsan oxígeno, ella absorbe la oscuridad y emite luz. Planterna llegó a confesar abiertamente: "No hablo de cosas como "brujería" o "magia"; solo utilizo el término "fuerza oscura"... Creo que ya he dicho suficiente".
 
 [STREETLAMP_DESCRIPTION_HEADER]
-路灯花可以驱散迷雾并且看到隐形状态的盗贼僵尸。
+Disipa la niebla y permite ver a los zombis invisibles.
 
 [STREETLAMP_TOOLTIP]
-驱散迷雾并发现隐形的僵尸。
+Disipa la niebla y permite ver a los zombis invisibles.
 
 [COFFEEBEAN]
-咖啡豆
+Grano de Café
 
 [COFFEEBEAN_DESCRIPTION]
-{KEYWORD}Características：{STAT}矮个子
-{FLAVOR}“伙计伙计，快起来看上帝啊！”咖啡豆每次都喜欢用这句他最喜欢的电影台词来叫别人起床。还真别说，这法儿挺有效的，至少他的小伙伴每次睁眼都能看到一个鸟人的身影。
+{KEYWORD}Características：{STAT}pequeño
+{FLAVOR}"¡Eh, amigos, levantaos rápido y mirad a Dios!". A Grano de Café le encanta usar esta frase, su réplica favorita de una película, para despertar a los demás. Y la verdad es que funciona de maravilla: al menos, cada vez que sus amigos abren los ojos, ven la silueta de un ángel.
 
 [COFFEEBEAN_DESCRIPTION_HEADER]
-咖啡豆可以唤醒范围内沉睡的植物并为他们增加少许攻击力。
+Despierta a las plantas que se encuentran dormidas en un radio determinado y aumenta ligeramente su poder de ataque.
 
 [COFFEEBEAN_TOOLTIP]
-唤醒植物并增加少许攻击力。
+Despiertan a las plantas dormidas y aumenta ligeramente su poder de ataque.
 
 [OAKSHOOTER]
-橡木弓手
+Roble Arquero
 
 [OAKSHOOTER_DESCRIPTION]
-{KEYWORD}Características：{STAT}褐色植物
-{FLAVOR}橡木弓手从小打碎了无数邻居家的窗户玻璃才练到了如今的境界，为此他没有少挨老爸的巴掌。他有一个随身携带的日记，最后一页上写着：“僵尸膝盖：998/10000。”
+{KEYWORD}Características：{STAT}planta marrón
+{FLAVOR}Perfeccionó su técnica destrozando innumerables ventanas vecinas en su juventud, y, de hecho, su padre nunca se lo tomó bien. En la última página de su diario personal aparece la inscripción "Rodillas de zombi: 998/10000".
 
 [OAKSHOOTER_DESCRIPTION_HEADER]
-橡木弓手可以发射强力的箭矢攻击前方的僵尸。
+Dispara flechas poderosas contra los zombis que se encuentran delante.
 
 [OAKSHOOTER_TOOLTIP]
-攻击前方的僵尸。
+Dispara flechas poderosas contra los zombis que se encuentran delante.
 
 [ICESHROOM]
-寒冰菇
+Crioseta
 
 [ICESHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}蓝色植物、老当益壮、蘑菇家族、神秘法师
-{FLAVOR}寒冰菇最讨厌冬天，因为他睡觉的时候根本暖和不起来，最可怕的是每当他早上起床都会看到壁炉里结着厚厚的一层冰棱，这个时候他就会无比羡慕他的同胞兄弟烈焰菇。
+{KEYWORD}Características：{STAT}planta azul, reino fungi, mago
+{FLAVOR}Aunque no lo creas, a Crioseta le disgusta mucho el invierno, porque cuando duerme no consigue entrar en calor; lo peor es que cada mañana, al levantarse, ve una gruesa capa de escarcha en la chimenea, y en esos momentos envidia muchísimo a su hermano, Piroseta.
 
 [ICESHROOM_DESCRIPTION_HEADER]
-寒冰菇可以随着自身的成长释放越来越强大的法术攻击前方的僵尸。
+A medida que crece, Crioseta libera hechizos cada vez más poderosos contra los zombis que se encuentran delante.
 
 [ICESHROOM_TOOLTIP]
-可以随着自身的成长释放越来越强大的法术攻击前方的僵尸。
+A medida que crece, libera hechizos congelantes cada vez más poderosos.
 
 [FIRESHROOM]
-烈焰菇
+Piroseta
 
 [FIRESHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}橙色植物、红色植物、老当益壮、蘑菇家族、神秘法师
-{FLAVOR}烈焰菇最讨厌夏天，因为他练习法术的时候会因为太热而流太多的汗。更倒霉的是他家的空调老因为温度太高而坏掉，每当此时他就会无比羡慕他的同胞兄弟寒冰菇。
+{KEYWORD}Características：{STAT}planta naranja, reino fungi, mago
+{FLAVOR}Irónicamente, a Piroseta le disgusta mucho el verano, porque cuando practica sus hechizos suda demasiado debido al calor. Para colmo, el aire acondicionado de su casa se estropea a menudo por las altas temperaturas, y cada vez que eso ocurre envidia muchísimo a su hermano, Crioseta.
 
 [FIRESHROOM_DESCRIPTION_HEADER]
-烈焰菇可以随着自身的成长释放越来越强大的法术攻击前方的僵尸。
+A medida que crece, Piroseta libera hechizos cada vez más poderosos contra los zombis que se encuentran delante.
 
 [FIRESHROOM_TOOLTIP]
-可以随着自身的成长释放越来越强大的法术攻击前方的僵尸。
+A medida que crece, libera hechizos de fuego cada vez más poderosos.
 
 [DARK_LEVEL_NAME]
 Edad Oscura - Noche {LEVEL_NUMBER}
