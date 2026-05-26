@@ -4112,26 +4112,26 @@ MENÚ
 [OPENING_BROWSER]
 正在打开浏览器
 
-[OPTIONS_3D_ACCELERATION]
-3D加速
-
 [OPTIONS_FULL_SCREEN]
-全屏幕显示
+Pantalla completa
 
 [OPTIONS_MUSIC_LABEL]
-音乐
-
-[OPTIONS_SOUNDFX]
-音效
+Música
 
 [OPTIONS_SKIPANIMS]
-跳过结算动画
+Omitir animaciones
+
+[OPTIONS_SOUNDFX]
+Efectos
 
 [OPTIONS_ZOMBIE_STARTRUSHONSCREEN]
-僵尸场外加速
+Acelerar oleadas
+
+[OR]
+o
 
 [OPTIONS_SKIP_SPEEDCHANGE_EFFECT]
-跳过加速闪光
+Turbo sin efectos
 
 [OUT_OF_CONTENT_CONFIRM]
 现在下载
@@ -12095,17 +12095,17 @@ Crea un clon suyo
 Permanece firme sobre el suelo, resistiendo todo tipo de atracción
 
 [FIREGOURD]
-Calabaza de Fuego
+Calabaza Flamígera
 
 [FIREGOURD_DESCRIPTION]
 {KEYWORD}Uso：{STAT}al pulsarlo lanza fuego
 {KEYWORD}Alcance：{STAT}línea recta
 {KEYWORD}Especial:{STAT}cuanto más tiempo se cargue, más potente será la llama que lanza; es especialmente eficaz contra los soportes de armas.
 {KEYWORD}Características：{STAT}planta naranja, iracunda
-{FLAVOR}Calabaza de Fuego no era más que un actor secundario en una compañía de espectáculos circenses, pero desde que llegó al campo de batalla, ha descubierto su verdadero valor.
+{FLAVOR}Calabaza Flamígera no era más que un actor secundario en una compañía de espectáculos circenses, pero desde que llegó al campo de batalla, ha descubierto su verdadero valor.
 
 [FIREGOURD_DESCRIPTION_HEADER]
-Tras acumular potencia, Calabaza de Fuego puede lanzar fuego continuo que resulta especialmente eficaz contra los soportes de armas.
+Tras acumular potencia, Calabaza Flamígera puede lanzar fuego continuo que resulta especialmente eficaz contra los soportes de armas.
 
 [FIREGOURD_PLANTFOOD]
 Lanza una ráfaga de llamas hacia delante
@@ -15122,7 +15122,6 @@ Atrae a los zombis cercanos y bloquea su paso.
 
 [SWEETPOTATO_DESCRIPTION]
 {KEYWORD}Especial:{STAT}no puede atraer a zombis de atrás
-
 {FLAVOR}Boniato es tan dulce como parece. Su animal favorito es el unicornio. Según sus propias palabras, su color favorito es "todos los colores del arcoíris". Cuando escribe la letra "i", le gusta dibujar el punto en forma de corazón. A decir verdad, para los demás su dulzura resulta casi insoportable. Pero para él, es justo lo que necesita.
 
 [POWERPLANT_TOOLTIP]
@@ -16296,7 +16295,7 @@ Despierta a las plantas que se encuentran dormidas en un radio determinado y aum
 Despiertan a las plantas dormidas y aumenta ligeramente su poder de ataque.
 
 [OAKSHOOTER]
-Roble Arquero
+Tronco Ballestero
 
 [OAKSHOOTER_DESCRIPTION]
 {KEYWORD}Características：{STAT}planta marrón
@@ -17394,20 +17393,20 @@ Playa de la Gran Ola
 Playa de la Gran Ola - Día {LEVEL_NUMBER}
 
 [BANANA]
-香蕉火箭炮
+Lanzaplátanos
 
 [BANANA_DESCRIPTION]
-{KEYWORD}用法：{STAT} 点住香蕉，拖动到轰炸目标上
-{KEYWORD}范围：{STAT}草坪全范围
-{KEYWORD}Características：{STAT}影响范围造成小面积爆炸
-{KEYWORD}Características：{STAT}黄色植物
-{FLAVOR}尽量不抱成见看人是很重要的。成见往往办错事。而且也会伤害到别人。不过坦白地讲…香蕉火箭炮完全单纯就是香蕉而已。
+{KEYWORD}Uso：{STAT}mantén pulsado y arrastra la mira hacia el objetivo
+{KEYWORD}Alcance：{STAT}todo el patio
+{KEYWORD}Especial：{STAT}el impacto provoca una pequeña explosión
+{KEYWORD}Características：{STAT}planta amarilla
+{FLAVOR}Es muy importante intentar juzgar a las personas sin prejuicios. Los prejuicios suelen llevar a cometer errores. Además, pueden herir a los demás. Aunque, sinceramente... Lanzaplátanos no es más que un simple plátano.
 
 [BANANA_DESCRIPTION_HEADER]
-香蕉火箭炮可以发射香蕉炮弹到草坪任意格子上。
+Puede disparar plátanos a cualquier casilla del patio.
 
 [BANANA_TOOLTIP]
-点击香蕉，然后点一个格子，就会发射香蕉炮弹
+Mantenlo pulsado y arrastra la mira hacia el objetivo para lanzar el plátano
 
 [SHADOWSHROOM]
 毒影菇
@@ -17745,149 +17744,148 @@ Playa de la Gran Ola - Día {LEVEL_NUMBER}
 爆炸坚果装扮
 
 [BOWLINGBULB]
-保龄泡泡
+Bulbo de Bolera
 
 [BOWLINGBULB_DESCRIPTION]
-{KEYWORD}伤害：{STAT}越大的泡泡伤害越强
-{KEYWORD}Características：{STAT}兄弟成群
-{FLAVOR}猜猜哪个队直到现在蝉联五次冠军？没错，就是保龄泡泡队。他们现在如日中天。你和你的队友以为可以有什么办法打败他们吗？呵呵，继续做梦去吧，伙计。
+{KEYWORD}Daño：{STAT}mientras más grande, más daño
+{KEYWORD}Características：{STAT}hermanitos
+{FLAVOR}¿Adivinas qué equipo lleva hasta ahora cinco títulos consecutivos? Exacto, el equipo Bulbo de Bolera. Ahora mismo están en la cima. ¿Tú y tus compañeros creen que hay alguna forma de derrotarlos? Je, je, sigue soñando, amigo.
 
 [BOWLINGBULB_DESCRIPTION_HEADER]
-保龄泡泡发射的泡泡可以弹射多个僵尸。
+Bulbo de Bolera puede golpear a varios zombis.
 
 [BOWLINGBULB_TOOLTIP]
-发出弹射泡泡弹射多个僵尸
+Se lanzan para golpear varios zombis.
 
 [GUACODILE]
-鳄梨
+Guacadrilo
 
 [GUACODILE_DESCRIPTION]
-{KEYWORD}用途：{STAT} 冲刺攻击后消失
-{KEYWORD}Características：{STAT}可以种植在水上
-{KEYWORD}Características：{STAT}绿色植物、伶牙俐齿、水生植物、矮个子
-{FLAVOR}问起鳄梨自己的事情，他就会呵呵道：“我曾经被类似熊夹子的陷阱夹过。我总是能吐射出令全场植物妒忌的强力精准，岩石般坚硬的子弹。呵呵，人们说我能在水上漂。我非常喜欢墨西哥辣味卷。”没错，这家伙是有点点飘飘然不过他知道自己在做什么。
+{KEYWORD}Debilidad：{STAT}desaparece luego de salir corriendo 
+{KEYWORD}Especial：{STAT}se puede plantar en el agua 
+{KEYWORD}Características：{STAT}planta verde, acúatica, chaparrita
+{FLAVOR}Cuando le preguntan por sí mismo, Guacadrilo se ríe entre dientes. "Me atraparon en una trampa que se parece a una trampa para osos. Siempre escupo balas duras como piedras con una precisión envidiada por todas las plantas del patio. Je je, dicen que puedo surfear sobre el agua. Me gustan mucho las enchiladas". Sí, el tipo es un poco confuso, pero sabe lo que hace.
 
 [GUACODILE_DESCRIPTION_HEADER]
-鳄梨可以远距离发射种子。当受到攻击时，他们会直线向前冲咬所有遇到的僵尸。
+Puede lanzar sus semillas a gran distancia. Cuando se le acerca un zombi, pega la carrera hacia adelante y pasa mordiendo.
 
 [GUACODILE_TOOLTIP]
-发射种子，受到攻击时，会直线向前冲咬所有遇到的僵尸。
+Lanza sus semillas. Si se le acerca un zombi, huye mordiendo
 
 [HOMINGTHISTLE]
-导向蓟
+Cardo Teledirigido
 
 [HOMINGTHISTLE_DESCRIPTION]
-{KEYWORD}范围：{STAT}草坪全范围
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}别奢望可以靠近导向蓟。那个时候他早已经盯上你了。他能看穿任何伪装。就好像带着激光枪一样…瞄准着你的灵魂。
+{KEYWORD}Alcance：{STAT}todo el patio
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}No te hagas ilusiones de poder acercarte a él. Para entonces, él ya te habrá puesto el ojo encima. Es capaz de ver más allá de cualquier disfraz. Es como si llevara una pistola láser... apuntando directamente a tu alma.
 
 [HOMINGTHISTLE_DESCRIPTION_HEADER]
-导向蓟会对离自己最近的目标发射跟踪弹。
+Cardo Teledirigido dispara misiles teledirigidos contra el objetivo más cercano.
 
 [HOMINGTHISTLE_TOOLTIP]
-攻击最靠左的目标
+Dispara misiles teledirigidos contra el objetivo más cercano.
 
 [LILYPAD]
-莲叶
+Nenúfar
 
 [LILYPAD_DESCRIPTION]
-{KEYWORD}用法：{STAT} 可以种植非水生植物
-{KEYWORD}Características：{STAT}绿色植物、水生植物、矮个子
-{FLAVOR}不太有人知道，原来莲叶超级喜欢广场舞。他一上场，就仿佛舞池里滑动的圆盘横扫全场。他特爱这种舞可以令自己突破极限，飘飘欲仙的感觉。
+{KEYWORD}Uso：{STAT}para plantar encima plantas no acúaticas
+{KEYWORD}Características：{STAT}planta verde, acúatica y plana
+{FLAVOR}Poca gente sabe que Nenúfar le encanta bailar en la pista. En cuanto sale, es como si un disco giratorio arrasara con todo a su paso. Le encanta esa sensación de estar en las nubes que le proporciona el baile, que le permite superar sus límites.
 
 [LILYPAD_DESCRIPTION_HEADER]
-莲叶可以让你在它上面种植非水生植物。
+Permite cultivar plantas no acuáticas encima suyo.
 
 [LILYPAD_TOOLTIP]
-可以将非水生植物种植在莲叶上
+Permite cultivar plantas no acuáticas encima suyo.
 
 [TANGLEKELP]
-缠绕水草
+Zampalga
 
 [TANGLEKELP_DESCRIPTION]
-{KEYWORD}Características：{STAT}绿色植物、水生植物
-{FLAVOR}缠绕水草喜欢沉思。他主攻哲学。如果拉着他喝上一杯草根啤酒，他就开始不停地讲尼采的“查拉图斯特拉如是说”，要么就是死磕康德的“纯理性批判”，听起来的确很高大上，不过有时你只不过想聊点轻松的话题，比如水底的温度是多少。
+{KEYWORD}Características：{STAT}planta verde, acuática
+{FLAVOR}A Zampalga le gusta reflexionar. Se dedica principalmente a la filosofía. Si la llevas a tomar una cerveza artesanal, no para de hablar de Kant o Sócrates. Suena muy intelectual, pero a veces uno solo quiere charlar de temas más ligeros, como la temperatura que hace en el fondo del agua.
 
 [TANGLEKELP_DESCRIPTION_HEADER]
-缠绕水草是一种可以把接近他的第一个僵尸拉进水中的水生植物。
+Arrastra al fondo del mar al primer zombi que se le acerque.
 
 [TANGLEKELP_TOOLTIP]
-能够把一只僵尸拖进水里的水生植物
+Arrastra al fondo del mar al primer zombi que se le acerque.
 
 [LEMON]
-强酸柠檬
+Limón Ácido
 
 [LEMON_DESCRIPTION]
-{KEYWORD}Características：{STAT}黄色植物
-{FLAVOR}别看柠檬喜欢玩水，他其实是个旱鸭子。虽然他跟人讲起小时候下水捉鱼的故事时总是一副信誓旦旦的样子，但是配合他现在的形象和身下那个萌萌的游泳圈一起看的话，这实在不是一件有说服力的事情。
+{KEYWORD}Características：{STAT}planta amarilla
+{FLAVOR}Aunque le encanta jugar con el agua, en realidad no sabe nadar. Aunque siempre habla con gran convicción y cuenta historias de cuando era pequeño y se metía en el agua a pescar, si lo vemos junto con su aspecto actual y ese adorable flotador que lleva puesto, la verdad es que no resulta nada convincente.
 
 [LEMON_DESCRIPTION_HEADER]
-强酸柠檬可以对铁制护甲造成额外的伤害。
+El jugo que dispara, que es un ácido fuerte, causa daño adicional a las armaduras de hierro.
 
 [LEMON_TOOLTIP]
-柠檬能够能够腐蚀铁制护甲。
+El jugo que dispara causa daño adicional a las armaduras de hierro.
 
 [LOTUSSHOWER]
-莲小蓬
+Vaina de Loto
 
 [LOTUSSHOWER_DESCRIPTION]
-{KEYWORD}Características：{STAT}绿色植物、水生植物
-{FLAVOR}莲小蓬是植物枪械爱好者俱乐部的成员，为了展现他的身份，他特意去做了一个左轮手枪的造型。对新造型非常满意的他决定去自己的哥哥莲叶那炫耀一番。出门的时候他无意中扫到电视里在播放功夫世界武僧僵尸入侵的消息，看了看那些个武僧的头顶，莲小蓬突然有种不想出门的感觉……
+{KEYWORD}Características：{STAT}planta verde, acuática
+{FLAVOR}Es miembro del Club Armas de Fuego de las Plantas. Para demostrar su identidad, se hizo un peinado con forma de revólver en la barbería. Satisfecho con su aspecto, decidió enseñárselo a su hermano mayor, Nenúfar. Justo cuando estaba a punto de salir de casa, vio por casualidad en la televisión la noticia de la invasión de los Zombis Monjes en el Mundo Kung Fu. Al ver la cabeza de esos zombis monjes, de repente ya no quiso salir...
 
 [LOTUSSHOWER_DESCRIPTION_HEADER]
-莲小蓬在水中比在陆地上拥有更强的战斗力。
+Tiene más poder de combate en el agua que en tierra firme.
 
 [LOTUSSHOWER_TOOLTIP]
-莲小蓬能够发射鱼雷攻击前方僵尸。
+Lanza proyectiles para atacar a los zombis que tiene delante.
 
 [CRACKER]
-竹员外
+Bambú Petardo
 
 [CRACKER_DESCRIPTION]
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}竹员外一个人住在烟花镇西边的一所大宅子里，别看他面相凶恶，其实他是一个喜欢小孩子的和善老头。每到过年的时候他都会给镇上的小孩子送鞭炮和烟花，希望他们能开开心心地过新年。而他最大的愿望，是希望他在远方学艺的孙子竹笋有一天能踩着鞭炮的碎屑敲响这座宅子的大门……
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Vive solo en una gran mansión situada al oeste de la ciudad. Aunque su aspecto sea severo, en realidad es un anciano bondadoso al que le encantan los niños. Cada vez que llegaba el Año Nuevo, regalaba petardos y fuegos artificiales a los niños del pueblo, con la esperanza de que pasaran unas felices fiestas. Y su mayor deseo era que su nieto, Brote de Bambú que está estudiando un oficio en un lugar lejano, pudiera algún día pisar los restos de los petardos y llamar a la puerta de aquella mansión...
 
 [CRACKER_DESCRIPTION_HEADER]
-竹员外能对接近的僵尸造成爆炸伤害。
+Inflige daño por explosión a los zombis que se le acercan.
 
 [CRACKER_TOOLTIP]
-竹员外能对接近的僵尸造成爆炸伤害。
+Explota a los zombis que se le acercan.
 
 [CRACKER_SKILL_LEVEL5]
-旋转烟花
+Regalo Pirotécnico
 
 [CRACKER_SKILL_LEVEL5_DES]
-有概率形成旋转烟花对周围敌方单位造成伤害。
+Después de que explote, caerán fuegos artificiales que dañarán zombis cercanos.
 
 [SAPFLING]
-树脂投手
+Lanzasavia
 
 [SAPFLING_DESCRIPTION]
-{KEYWORD}伤害说明: {STAT}无法造成伤害，但是会在地上留下树脂
-{KEYWORD}Características: {STAT}减缓经过树脂上的僵尸的移动速度
-
-{FLAVOR}看到树脂投手那强健的投臂你就会本能地相信他的厉害。他虽然还很年轻，但是所有人都觉得他是个很有天赋的“小学生”。一些著名的松果球队的预备队一直在注意他，认为他能成长为一名核心球员。当然，有人批评他总是投出一些黏糊糊的曲线球，认为这是一种犯规的行为。但是，他使用的可是纯天然无污染的树脂，我们翻遍了整本规则，也没有找到这是一种犯规行为的条目。
+{KEYWORD}Daño: {STAT}no causa daño, pero deja savia en el suelo
+{KEYWORD}Especial: {STAT}reduce la velocidad de movimiento de los zombis que pasan por encima de la savia
+{FLAVOR}Tienes que ver el brazo lanzador de Lanzasavia para creértelo. Puede que sea joven, pero todo el mundo está de acuerdo en que tiene mucho talento. Los ojeadores de los mejores equipos de piñabol llevan mucho tiempo siguiéndolo. Podría llegar a jugar en un grande. Sí, hay gente que lo desdeña por su bola ensalivada pegajosa. Pero la savia es natural, así que es legal.
 
 [SAPFLING_DESCRIPTION_HEADER]
-树脂投手能减速僵尸。
+Lanza savia que ralentiza a los zombis.
 
 [SAPFLING_TOOLTIP]
-树脂投手投出的树脂能够减速僵尸。
+Lanza savia que ralentiza a los zombis.
 
 [GHOSTPEPPER]
-幽灵辣椒
+Chile Fantasma
 
 [GHOSTPEPPER_DESCRIPTION]
-{KEYWORD}伤害说明: {STAT}对接近的僵尸造成持续伤害。
-{KEYWORD}Características: {STAT}生效后一段时间会自爆。
-{KEYWORD}Características：{STAT}白色植物、飞行植物、矮个子
-{FLAVOR}当你看着她的时候你可能不会认识她，幽灵辣椒去什么地方的时候并不会一直都套着她那张白色床单。她第一次套上床单还是在某一年的万圣节派对上，每个人都为此精心准备了装扮而她觉得装扮成一个古老的鬼魂会比较有意思。但是从那以后她跟床单之间似乎有了一种心有灵犀的感觉，如同陷入爱河一般。
+{KEYWORD}Daño: {STAT}continuo
+{KEYWORD}Debilidad: {STAT}se autodestruye tras un tiempo
+{KEYWORD}Características：{STAT}planta blanca, voladora, pequeña
+{FLAVOR}Quizá no lo sepas, pero Chile Fantasma no va siempre envuelta en su sábana blanca. La primera vez que se la puso fue en una fiesta de Halloween hace unos años; todo el mundo se había esforzado mucho en preparar su disfraz y a ella le pareció que disfrazarse de un fantasma antiguo sería más divertido. Pero desde entonces parece que entre ella y la sábana se ha creado una especie de conexión especial, como si se hubieran enamorado.
 
 [GHOSTPEPPER_DESCRIPTION_HEADER]
-幽灵辣椒能对接近的僵尸造成持续伤害。
+Inflige daño continuo a los zombis que se acercan.
 
 [GHOSTPEPPER_TOOLTIP]
-幽灵辣椒能够对接近的僵尸造成持续伤害。
+Inflige daño continuo a los zombis que se acercan.
 
 [ZOMBIE_BEACH]
 飞机头僵尸
@@ -20378,37 +20376,37 @@ Cuevas Congeladas - Día {LEVEL_NUMBER}
 恢复全血，然后对6格范围内的僵尸造成伤害并击退。
 
 [HURRIKALE]
-飓风甘蓝
+Huracol
 
 [HURRIKALE_DESCRIPTION_HEADER]
-飓风甘蓝吹出飓风将所有僵尸推出场外。
+Sopla con fuerza y congela zombis, haciéndolos retorceder.
 
 [HURRIKALE_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立刻生效
-{KEYWORD}Características：{STAT}向僵尸吹出飓风
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}可以说用“金刚无敌吹奏手”来形容飓风甘蓝真是一语中的。他是双年展爱乐乐团首席长号手。同时还精通小号，萨克斯和大号。但是，老兄，你应该看看他使用富鲁格号的演奏。哥们绝对是一绝~！
+{KEYWORD}Uso：{STAT}único, instantáneo
+{KEYWORD}Especial：{STAT}sopla viento congelante a los zombis
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Decir que Huracol es un "superfanfarrón" es la máxima expresión de la frase. Es el primer trombonista de la Orquesta Filarmónica Bienal, además de dominar la trompeta, el saxofón y la tuba. Pero, ¡madre mía!, deberías verlo tocar el fliscorno. ¡Es un auténtico maestro!
 
 [HURRIKALE_TOOLTIP]
-吹出将僵尸推至底线的飓风
+Sopla con fuerza y congela zombis, haciéndolos retorceder.
 
 [FIREPEASHOOTER]
-火焰豌豆射手
+Lanzaguisantes de Fuego
 
 [FIREPEASHOOTER_DESCRIPTION_HEADER]
-火焰豌豆射手喷射火焰豌豆。
+Dispara guisantes de fuego.
 
 [FIREPEASHOOTER_DESCRIPTION]
-{KEYWORD}Características：{STAT}对冰冻免疫
-{KEYWORD}Características：{STAT}冰释其附近的植物
-{KEYWORD}Características：{STAT}橙色植物、豌豆家族、浑身浴火、满腹怒火
-{FLAVOR}火焰豌豆射手清楚当她激动起来会是什么样子。但是和“喷火”打交道可不是闹着玩的，更重要的是，这是危险的工作。所以她闲暇时，总是对孩子们说用火安全。“我是受过专业训练的”，她解释说。“孩子们，别在家里玩火。”
+{KEYWORD}Especial：{STAT}inmune al frío
+{KEYWORD}Efecto：{STAT}derrite el hielo que congela plantas
+{KEYWORD}Características：{STAT}planta naranja, de fuego
+{FLAVOR}Lanzaguisantes de Fuego sabe perfectamente cómo se pone cuando se emociona. Pero lidiar con el "fuego" no es cosa de broma y, lo que es más importante, es un trabajo peligroso. Por eso, en su tiempo libre, siempre les habla a los niños sobre la seguridad con el fuego. "Tengo formación profesional", explica. "Niños, no juguéis con fuego en casa".
 
 [FIREPEASHOOTER_TOOLTIP]
-喷射火焰豌豆并冰释附近的植物
+Lanza guisantes de fuego y descongela las plantas cercanas
 
 [FIREPEASHOOTER_PLANTFOOD]
-向草坪发射出一条火墙，对所有在这条线上的僵尸造成伤害。
+Lanza guisantes de fuego y descongela las plantas cercanas
 
 [HOTPOTATO]
 烤马铃薯
@@ -115551,7 +115549,7 @@ Aventuras ninja
 Completa el nivel para desbloquearla
 
 [STARCHALLENGE_OAKSHOOTER]
-Protege a Roble Arquero y alcanza la puntuación objetivo acertando a los zombis
+Protege a Tronco Ballestero y alcanza la puntuación objetivo acertando a los zombis
 
 [STARCHALLENGE_OAKSHOOTER_NAME]
 Cuestión de puntería
