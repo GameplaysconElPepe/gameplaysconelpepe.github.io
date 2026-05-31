@@ -20307,73 +20307,73 @@ Cuevas Congeladas - Día {LEVEL_NUMBER}
 板栗小队
 
 [RAFFLESIA]
-大王花
+Rafflesia
 
 [RAFFLESIA_DESCRIPTION_HEADER]
-大王花可以攻击前方躲在后方的僵尸。
+Puede atacar a los zombis más lejanos.
 
 [RAFFLESIA_DESCRIPTION]
-{KEYWORD}Características：{STAT}攻击最后方的僵尸
-{KEYWORD}Características：{STAT}矮个子
-{FLAVOR}大王花是公园里最受孩子们欢迎的员工之一，每次他出现的地方总会被孩子们团团围住，大王花很享受这种感觉，“我吹泡泡的技术是最棒的！孩子们都很喜欢看我吹泡泡”每次他都这么向别人介绍自己。他不知道的是，别人在点头微笑的同时大多会感觉很疑惑：大王花不是负责卖气球的吗？
+{KEYWORD}Especial：{STAT}ataca a los zombis más lejanos
+{KEYWORD}Características：{STAT}planta chaparra
+{FLAVOR}Es uno de los empleados más queridos por los niños del parque; cada vez que aparece, los niños la rodean, y a ella le encanta esa sensación. "¡Soy la mejor haciendo burbujas! A los niños les encanta verme hacerlas", así es como se presenta siempre. Lo que no sabe es que, aunque la gente asiente y sonría, la mayoría se queda un poco desconcertada: ¿No está ella encargada de vender globos?, se preguntan.
 
 [RAFFLESIA_TOOLTIP]
-攻击躲在后方的僵尸。
+Dispara burbujas que atacan a los zombis más lejanos
 
 [RAFFLESIA_PLANTFOOD]
-发射5颗子弹，攻击每行最后面的僵尸。
+Ataca a 5 zombis aleatorios del patio.
 
 [ACORN]
-旋风橡果
+Torbellota
 
 [ACORN_DESCRIPTION_HEADER]
-旋风橡果可以攻击前方一排的僵尸，并击断海象僵尸的牙齿。
+Ataca a la fila de zombis que tiene delante y rompe los colmillos de Morsa Zombi.
 
 [ACORN_DESCRIPTION]
-{KEYWORD}Características：{STAT}攻击前方一排僵尸，并击断海象僵尸的牙齿。
-{KEYWORD}Características：{STAT}旋风家族、龅牙小子
-{FLAVOR}旋风橡果非常喜欢运动。他曾经与回旋镖竞争过植物运动会飞盘表演赛的冠军，可惜后者用一手四方飞盘的技术打败了他。为了能在下一届运动会中能有出彩表现，他开始疯狂练习跑步，他对自己拥有玩飞盘的经验感觉信心满满：他已经可以利用旋转跑出最快的起步速度——副作用是冲出一段距离之后会回旋回来。
+{KEYWORD}Efecto：{STAT}ataca a la fila de zombis que tiene delante y rompe los colmillos de Morsa Zombi.
+{KEYWORD}Características：{STAT}planta tornado, pequeña
+{FLAVOR} Le encanta el deporte. Una vez compitió contra Flor Bumerán por el título de campeón en la prueba de frisbee de los Juegos Deportivos Vegetales, pero, por desgracia, este último le ganó gracias a su técnica de lanzar cuatro frisbees a la vez. Con el fin de destacar en la próxima edición de los Juegos, empezó a entrenar a fondo para correr, y se sentía muy seguro gracias a su experiencia con el frisbee: ya era capaz de aprovechar el giro para alcanzar la máxima velocidad en la salida, aunque el efecto secundario era que, tras recorrer una cierta distancia, daba media vuelta y regresaba.
 
 [ACORN_TOOLTIP]
-攻击前方的僵尸，并能击断海象僵尸的牙齿。
+Ataca a los zombis que tiene delante y rompe los colmillos de Morsa Zombi.
 
 [ACORN_PLANTFOOD]
-挂起一阵旋风，对前方的僵尸造成巨大的伤害。
+Se envuelve en un torbellino e inflige un daño enorme a los zombis que se encuentran delante.
 
 [STUNION]
-眩晕洋葱
+Cebolla Aturdidora
 
 [STUNION_DESCRIPTION_HEADER]
-眩晕洋葱可以呼出令草坪上身边的僵尸眩晕的气团
+Expulsa una nube de gas que aturde a los zombis que se encuentran cerca
 
 [STUNION_DESCRIPTION]
-{KEYWORD}用法：{STAT} 一次性使用，一旦僵尸靠近就会激活
-{KEYWORD}Características：{STAT}眩晕身边的僵尸
-{KEYWORD}Características：{STAT}橙色植物、矮个子
-{FLAVOR}哦，当然，每个人都知道眩晕洋葱作为战士以他强大的气团在战场上驰骋多年。但他可远不止这点本事。他是一个多才多艺的钢琴家。他会说五种流利的语言。哎呀，他在业余时间还是青葱年少组织的组长。这位老兄层次很多哦。来吧，一层层剥开，你就会看到。
+{KEYWORD}Uso：{STAT}único, se activa al acercarse un zombi
+{KEYWORD}Efecto：{STAT}aturde a los zombis
+{KEYWORD}Características：{STAT}planta naranja, pequeña
+{FLAVOR}Claro, todo el mundo sabe que Cebolla Aturdidora lleva años arrasando en el campo de batalla como guerrera gracias a su poderosa aura. Pero es mucho más que eso. Es una pianista polifacética. Habla cinco idiomas con fluidez. Y, además, en su tiempo libre es líder de la organización "Juventud Verde". Como te imaginas, tiene muchas capas. Vamos, ve descubriéndola poco a poco y lo verás.
 
 [STUNION_TOOLTIP]
-令草坪上身边的僵尸眩晕
+Expulsa una nube de gas que aturde a los zombis que se encuentran cerca
 
 [STUNION_PLANTFOOD]
-可以立刻向右侧三列草坪呼出一大朵眩晕气团。
+Lanza una ráfaga de gas en un área de 3x4, aturdiendo a todos los zombis que se encuentren en ese espacio durante 18 segundos.
 
 [CHARDGUARD]
-甜菜护卫
+Guardacelga
 
 [CHARDGUARD_DESCRIPTION_HEADER]
-甜菜护卫是防守反击型植物，可以将僵尸击退。
+Es una planta defensiva y de contraataque capaz de hacer retroceder a los zombis.
 
 [CHARDGUARD_DESCRIPTION]
-{KEYWORD}Características：{STAT}击退僵尸3次
-{KEYWORD}Características：{STAT}橙色植物
-{FLAVOR}你也许还记得WWF里(世界蔬叶摔角大赛)甜菜护卫的闪光时代。当时他获得“男仔中的男仔”金腰带，那真的是嗨翻全场，万众瞩目！他的动作！他的战风！他的气势！大家爱死他了。那个时候他确实是人气明星。当然，那也已经是之前的事情了。但是如今如果你仔细观察，当甜菜护卫和僵尸战斗的时候，你会看到他使用的正是看家招式-摔跤动作。称之为“一击入魂”的秘技-真是百用百中。
+{KEYWORD}Efecto：{STAT}retrocede hasta 3 zombis
+{KEYWORD}Características：{STAT}planta naranja
+{FLAVOR}Quizá recuerdes la época dorada de Guardacelga en la WWF (Organización Mundial de Lucha Libre Vegetal). Cuando ganó el cinturón de "El más macho de los machos"... ¡eso sí que fue una locura, con todo el mundo pendiente de él! ¡Sus movimientos! ¡Su estilo de lucha! ¡Su carisma! Todo el mundo lo adoraba. En aquella época era, sin duda, una estrella muy popular. Por supuesto, eso ya es cosa del pasado. Pero hoy en día, si te fijas bien, cuando lucha contra un zombi, verás que utiliza precisamente su movimiento estrella: una técnica de lucha libre. Se trata de una técnica secreta llamada "Empujón al más allá", nunca falla.
 
 [CHARDGUARD_TOOLTIP]
-拦截僵尸并将其击退
+Detiene a los zombis y los hace retroceder
 
 [CHARDGUARD_PLANTFOOD]
-恢复全血，然后对6格范围内的僵尸造成伤害并击退。
+Recupera todas las hojas y, a continuación, inflige daño y repele a los zombis en un radio de 6 casillas.
 
 [HURRIKALE]
 Huracol
@@ -22027,7 +22027,7 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 因PvP将于近期关闭，星币购买入口已关闭
 
 [SKYCITY]
-天空之城
+Ciudad Aérea
 
 [UPGRADE_CANNON_1]
 普通火炮
@@ -22066,21 +22066,21 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 大招将僵尸聚在一起后不再散开。
 
 [DOUBLESAMARA]
-旋涡枇杷
+Remoliníspero
 
 [DOUBLESAMARA_DESCRIPTION_HEADER]
-旋涡枇杷可以发动旋风将僵尸拉扯到一起。
+Genera un remolino que atrae a los zombis.
 
 [DOUBLESAMARA_DESCRIPTION]
-{KEYWORD}Características：{STAT}产生旋风拉扯僵尸，能将在天空中的僵尸拉下去。
-{KEYWORD}Características：{STAT}黄色植物、旋风家族
-{FLAVOR}梦想成为芭蕾舞演员的旋涡枇杷有一项绝活：她可以在原地旋转很多圈。“我觉得我一定能成为这个世界上最伟大的芭蕾舞演员，但是没有人愿意聘请我，我不理解为什么会这样。”旋涡枇杷沮丧地说，顺便吞下了一大口冰激凌。
+{KEYWORD}Especial：{STAT}genera un remolino que atrae a los zombis y es capaz de derribar a los que estén en el aire.
+{KEYWORD}Características：{STAT}planta amarilla, voladora
+{FLAVOR}Remoliníspero, que sueña con bailar ballet, tiene un don especial: es capaz de dar muchas vueltas sobre sí mismo sin moverse del sitio. "Creo que sin duda podré convertirme en el mejor bailarín de ballet del mundo, pero nadie quiere contratarme, y no entiendo por qué", dijo con desánimo, mientras se llevaba un gran bocado de helado a la boca.
 
 [DOUBLESAMARA_TOOLTIP]
-产生旋风将僵尸拉到一起一小段时间。
+Genera un remolino que atrae zombis y derriba a los que estén en el aire.
 
 [DOUBLESAMARA_PLANTFOOD]
-将僵尸拉到一起一段时间。
+Atrae a los zombis durante algún tiempo
 
 [ASPARAGUS_PRODUCT_SHORT_DESC]
 芦笋战机能攻击前方及左右两行的僵尸。
@@ -22107,62 +22107,62 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 大招攻击时能击退目标。
 
 [ASPARAGUS]
-芦笋战机
+Sargento Espárrago
 
 [ASPARAGUS_DESCRIPTION_HEADER]
-芦笋战机可以攻击前方及左右两行的僵尸。
+Ataca a los zombis que se encuentren delante y en las dos filas laterales.
 
 [ASPARAGUS_DESCRIPTION]
-{KEYWORD}Características：{STAT}能攻击前方及左右两行的目标
-{KEYWORD}Características：{STAT}绿色植物、武器家族、飞行植物
-{FLAVOR}芦笋享有“蔬菜之王”的美称，然而它却并不以此为傲。从小热爱研究各类热兵器的它只有在战场上才能实现自己的价值。“我只希望大家能够记住战场上热血的我！”芦笋认真地说道。
+{KEYWORD}Especial：{STAT}ataca a los zombis que se encuentren delante y en las dos filas laterales.
+{KEYWORD}Características：{STAT}planta verde, voladora
+{FLAVOR}Sargento Espárrago goza de la reputación de ser "el rey de las verduras", pero no se enorgullece de ello. Apasionado desde pequeño por el estudio de todo tipo de armas de fuego, es en el campo de batalla donde puede demostrar su valía. "¡Solo espero que todos me recuerden por mi espíritu de lucha en el campo de batalla!", afirma con seriedad.
 
 [ASPARAGUS_TOOLTIP]
-攻击前方及左右两行的僵尸。
+Ataca a los zombis que se encuentren delante y en las dos filas laterales
 
 [ASPARAGUS_PLANTFOOD]
-扫射前方的僵尸，造成大量伤害。
+Dispara ráfagas contra los zombis de su delante y causa un daño considerable.
 
 [ANTHURIUM_PRODUCT_SHORT_DESC]
-电离红掌能吸收闪电并攻击前方僵尸。
+Absorbe cargas eléctricas y ataca a los zombis que tiene delante.
 
 [ANTHURIUM_AVATAR_NAME]
-红掌装扮
+Disfraz de Antenurio
 
 [STORE_PRODUCT_AVATAR_ANTHURIUM_TITLE]
-红掌装扮
+Disfraz de Antenurio
 
 [ANTHURIUM_SKILL_LEVEL1]
-蓄能
+Reserva de Energía
 
 [ANTHURIUM_SKILL_LEVEL1_DES]
-使电离红掌有8%概率发动强闪电攻击
+Aumenta en un 8 % la probabilidad de lanzar un rayo potente
 
 [ANTHURIUM_SKILL_LEVEL2]
-高能闪电
+Batería Cargada
 
 [ANTHURIUM_SKILL_LEVEL2_DES]
-使蓄能的触发概率提升100%
+Aumenta en un 100% la probabilidad de lanzar un rayo potente
 
 [STORE_PRODUCT_AVATAR_ANTHURIUM]
-大招能弹射到附近的僵尸。
+Su habilidad especial puede rebotar y alcanzar a zombis cercanos.
 
 [ANTHURIUM]
-电离红掌
+Antenurio
 
 [ANTHURIUM_DESCRIPTION_HEADER]
-电离红掌能吸收闪电并攻击前方僵尸。
+Absorbe rayos y ataca a los zombis que tiene delante.
 
 [ANTHURIUM_DESCRIPTION]
-{KEYWORD}Características：{STAT}吸收周围植物身上的闪电效果
-{KEYWORD}Características：{STAT}红色植物、十万伏特、双胞兄弟
-{FLAVOR}不要为电离红掌中和正负电荷的能力而感到惊讶，看看兄弟俩全部都是满分的物理试卷你就明白了。但是它俩却始终无法理解对方的想法，比如在选择戴什么颜色的领带、在看纪录片还是电视剧、在去印度餐厅还是中餐厅约会这样的问题上。不过他们也明白，缺了对方，他们谁也不是操纵闪电的天才。
+{KEYWORD}Especial：{STAT}absorbe las cargas de las plantas cercanas
+{KEYWORD}Características：{STAT}planta roja, 100 mil voltios, hermanitos
+{FLAVOR}No te sorprendas por la capacidad de su antera para ionizar las cargas positivas y negativas; lo entenderás cuando veas que los dos hermanos sacan siempre sobresaliente en los exámenes de Física. Sin embargo, nunca logran entenderse mutuamente, por ejemplo, a la hora de decidir qué color de corbata ponerse, si ver un documental o una serie de televisión, o si ir a un restaurante indio o chino para una cita. No obstante, también son conscientes de que, sin el otro, ninguno de los dos sería un genio capaz de controlar los rayos.
 
 [ANTHURIUM_TOOLTIP]
-电离红掌能吸收闪电并攻击前方僵尸。
+Absorbe cargas eléctricas y ataca a los zombis que tiene delante
 
 [ANTHURIUM_PLANTFOOD]
-发动闪电攻击场内的僵尸。
+Lanza un rayo fulminante contra los zombis que tiene delante.
 
 [HORSEBEAN_PRODUCT_SHORT_DESC]
 蚕豆突击队能发动蚕豆突击队员攻击周围的僵尸。
@@ -22195,21 +22195,21 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 大招使间隔变短。
 
 [HORSEBEAN]
-蚕豆突击队
+Comando Haba
 
 [HORSEBEAN_DESCRIPTION_HEADER]
-蚕豆突击队能发动突击队员攻击周围的僵尸。
+Se lanzan al ataque contra los zombis que los rodean.
 
 [HORSEBEAN_DESCRIPTION]
-{KEYWORD}Características：{STAT}发动蚕豆突击战士攻击一定范围内的僵尸
-{KEYWORD}Características：{STAT}绿色植物、飞行植物、兄弟成群
-{FLAVOR}蚕豆们在飞行学校学习的时候获得了“最佳飞行员”的称号，毕业后，他们迫不及待地组成了一支飞行队。尽管蚕豆们常常吹嘘自己的飞行技术，不过大家似乎都不太敢踏上他们颠簸的母舰。
+{KEYWORD}Especial：{STAT}se lanzan al ataque contra los zombis que los rodean en un radio determinado
+{KEYWORD}Características：{STAT}planta verde, voladora, hermanitos
+{FLAVOR}Mientras estudiaban en la escuela de aviación, obtuvieron el título de "Mejor Piloto" y, tras graduarse, no pudieron esperar para formar una flota aérea. Aunque suelen presumir de sus habilidades de vuelo, parece que nadie se atreve a subir a su inestable nave nodriza.
 
 [HORSEBEAN_TOOLTIP]
-蚕豆突击队能发动蚕豆突击队员攻击周围的僵尸。
+Se lanzan al ataque contra los zombis que los rodean
 
 [HORSEBEAN_PLANTFOOD]
-发动大量突击队员攻击场上的目标。
+Lanza a un gran número de asaltantes contra los objetivos que se encuentran en el campo
 
 [WINTERSWEET_PRODUCT_SHORT_DESC]
 梅小美发射的花朵攻击在命中前方敌人后会再次散射
@@ -22265,20 +22265,20 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 大招可以使定身的时间延长
 
 [SAUCER]
-飞碟瓜
+Calabaza Voladora No Identificada
 
 [SAUCER_DESCRIPTION_HEADER]
-飞碟瓜能发出光线捕捉接近的僵尸
+Abduce al primer zombi que baña con su luz y aturde al resto
 
 [SAUCER_DESCRIPTION]
-{KEYWORD}Características：{STAT}黄色植物、飞行植物、外星人
-{FLAVOR}大家总是误把飞碟瓜当做外星生物，但是大家慢慢发现，它只不过是因为过于内向而不敢融入大家。不过，千万不要惹飞碟瓜生气，被它的光照到可不是一件轻松的事情。
+{KEYWORD}Características：{STAT}planta amarilla, voladora, extraterrestre
+{FLAVOR}La gente suele confundirla con un ser extraterrestre, pero poco a poco se va descubriendo que, en realidad, solo es demasiado tímida como para atreverse a integrarse en el grupo. Eso sí, no hay que enfadarla, porque estar bajo su luz no es nada agradable.
 
 [SAUCER_TOOLTIP]
-飞碟瓜能发出光线捕捉接近的僵尸
+Abduce al primer zombi que baña con su luz y aturde al resto
 
 [SAUCER_PLANTFOOD]
-大招可以使场上的僵尸暂时无法移动。
+Aturde temporalmente a todos los zombis en el campo de batalla.
 
 [SAUCER_SKILL_LEVEL1]
 捕捉光线
@@ -22305,62 +22305,62 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 大招时场上所有产生阳光的植物会立即生成一次阳光。
 
 [GROUNDCHERRY]
-灯笼草
+Cereza Farolillo
 
 [GROUNDCHERRY_DESCRIPTION_HEADER]
-灯笼草能发现隐形状态下的僵尸
+Vuelve a los zombis invisibles visibles, permitiendo que las plantas los ataquen
 
 [GROUNDCHERRY_DESCRIPTION]
-{KEYWORD}Características：{STAT}持续一段时间且不能被攻击
-{KEYWORD}Características：{STAT}红色植物、飞行植物
-{FLAVOR}灯笼草很快就与火炬树桩和火龙草成了形影不离的好朋友，他们自称为“火焰三剑客”。不过夏威夷风情酒廊似乎不太敢招待他们三个，老板可不愿意再看见烧焦的酒桌。
+{KEYWORD}Especial：{STAT}tiene tiempo de duración limitado aunque es invulnerable
+{KEYWORD}Características：{STAT}planta roja, voladora
+{FLAVOR}No tardó en hacerse muy amiga de Plantorcha y Bocadragón y nombrarse "Los tres mosqueteros en llamas". Sin embargo, el bar hawaiano no parece muy dispuesto a acogerlos a los tres, ya que el dueño no quiere volver a ver mesas chamuscadas.
 
 [GROUNDCHERRY_TOOLTIP]
-灯笼草能发现隐形状态下的僵尸
+Vuelve a los zombis invisibles visibles, aunque no disipa la niebla
 
 [GROUNDCHERRY_PLANTFOOD]
-大招可以使短时间内场上所有隐形僵尸现行。
+Vuelve visibles a todos los zombis del campo de batalla
 
 [PINEAPPLE_PRODUCT_SHORT_DESC]
-菠萝可以阻挡僵尸前进并有机会反弹远程子弹。
+Impide que los zombis avancen y desvía proyectiles mientras gira
 
 [PINEAPPLE_AVATAR_NAME]
-菠萝装扮
+Disfraz de Rotopiña
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE_TITLE]
-菠萝装扮
+Disfraz de Rotopiña
 
 [PINEAPPLE_SKILL_LEVEL1]
-快速旋转
+Giro Rápido
 
 [PINEAPPLE_SKILL_LEVEL1_DES]
-使菠萝发动旋转反弹的间隔缩短20%。
+Reduce en un 20 % el intervalo entre giros
 
 [PINEAPPLE_SKILL_LEVEL2]
-旋转强化
+Helicóptero
 
 [PINEAPPLE_SKILL_LEVEL2_DES]
-使快速旋转的效果提升100%。
+Reduce en un 100% el intervalo entre giros
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE]
-大招可以使子弹朝多个方向反弹。
+Permite que su habilidad especial rebote proyectiles en varias direcciones
 
 [PINEAPPLE]
-旋转菠萝
+Rotopiña
 
 [PINEAPPLE_DESCRIPTION_HEADER]
-旋转菠萝可以阻挡僵尸前进，并通过旋转自身反弹远程子弹。
+Impide que los zombis avancen y desvía proyectiles mediante sus giros
 
 [PINEAPPLE_DESCRIPTION]
-{KEYWORD}Características：{STAT}旋转时可以反弹子弹
-{KEYWORD}Características：{STAT}黄色植物、旋风家族、飞行植物
-{FLAVOR}为了满足飞上天空的梦想，菠萝从小时候看过的动画片中寻得了灵感：他把头上的叶子改造成了竹蜻蜓并希望自己能在天空中自由的翱翔。如我们所见的一样，这个异想天开的点子居然成功了！不过副作用也很明显：他不得不每隔一段时间跟着旋转一下以抵消一部分叶子旋转带来的压力。
+{KEYWORD}Características：{STAT}al girar, desvía proyectiles
+{KEYWORD}Características：{STAT}planta amarilla, giratoria, voladora
+{FLAVOR}Para hacer realidad su sueño de volar, Rotopiña se inspiró en los dibujos animados que veía de pequeño: transformó las hojas de su cabeza en una hélice y esperó poder volar libremente por el cielo. Como ya habrás notado, ¡esta idea descabellada resultó ser todo un éxito! (No intentar en casa). Sin embargo, los efectos secundarios son evidentes: tiene que girar de vez en cuando para contrarrestar parte de la presión que genera el giro de sus hojas.
 
 [PINEAPPLE_TOOLTIP]
-菠萝可以阻挡僵尸前进并有机会反弹远程子弹。
+Impide que los zombis avancen y desvía proyectiles mientras gira
 
 [PINEAPPLE_PLANTFOOD]
-吸收附近的子弹并反弹攻击前方的僵尸。
+Desvía los proyectiles hacia los zombis cercanos
 
 [ELECTRICBLUEBERRY_PRODUCT_SHORT_DESC]
 电击蓝莓会对一定范围内的僵尸造成巨大的伤害。
@@ -22687,21 +22687,21 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 提升菠萝蜜果实的生命值
 
 [JACKFRUIT]
-菠萝蜜
+Yaca Rodante
 
 [JACKFRUIT_DESCRIPTION_HEADER]
-菠萝蜜滚动攻击前方一行的僵尸，并能堵住向导僵尸打开的地道口。
+Ataca a los zombis rodando y puede bloquear la entrada del túnel que abre el Zombi Guía.
 
 [JACKFRUIT_DESCRIPTION]
-{KEYWORD}Características：{STAT}堵住向导僵尸打开的地道口。
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}菠萝蜜是天竺流行乐的忠实粉丝，他最爱做的事情就是唱着“多冷个隆冬，多冷个隆冬，多冷个隆冬哒哒哒~”的天竺神曲不断往前翻滚。
+{KEYWORD}Especial：{STAT}bloquea la entrada del túnel que abre el Zombi Guía.
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Aunque no lo escuches, el siempre está cantando mientras gira sin cesar. Aunque dé un millón de vueltas no se marea, tranquilamente podría ser astronauta y superar todas las pruebas.
 
 [JACKFRUIT_TOOLTIP]
-滚动攻击前方一行的僵尸，并能堵住向导僵尸打开的地道口。
+Ataca rodando y puede bloquear la entrada del túnel que abre el Zombi Guía
 
 [JACKFRUIT_PLANTFOOD]
-无
+No tiene efecto de Nutrientes
 
 [JACKFRUIT_PLANTFOOD_DESCRIPTION]
  
@@ -23409,119 +23409,121 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 有25%概率使僵尸眩晕
 
 [STALLIA]
-大丽菊
+Paralia
 
 [STALLIA_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，当僵尸靠近时才会生效。
-{KEYWORD}Características：{STAT} 使附近的僵尸减速
-{KEYWORD}Características：{STAT}紫色植物
-
-{FLAVOR}“现代这个世界生活速度太快，”大丽菊说。“人们需要放慢节奏，品味一些孢子”
+{KEYWORD}Uso：{STAT}único, se activa al acercarse un zombi
+{KEYWORD}Especial：{STAT}ralentiza a los zombis cercanos
+{KEYWORD}Características：{STAT}planta morada
+{FLAVOR}"En el mundo actual, la vida va demasiado rápido", dice Paralia. "La gente necesita bajar el ritmo y saborear un poco más las cosas".
 
 [STALLIA_DESCRIPTION_HEADER]
-大丽菊喷出使附近的僵尸减速的香雾
+Expulsa una niebla aromática que ralentiza a los zombis cercanos
 
 [STALLIA_TOOLTIP]
-使附近的僵尸减速
+Expulsa una niebla aromática que ralentiza a los zombis cercanos
 
 [STALLIA_PLANTFOOD]
-喷出大量香雾，使屏幕内的僵尸减速
+Lanza una gran nube de humo perfumado que ralentiza a todos los zombis durante 18 segundos
 
 [AKEE_PRODUCT_SHORT_DESC]
-阿.开.木.木.抛射出可以在僵尸之间弹射的炮弹。
+Lanza proyectiles que rebotan en los zombis.
 
 [AKEE_AVATAR_NAME]
-阿.开.木.木.装扮
+Disfraz de A.K.E.E.
 
 [STORE_PRODUCT_AVATAR_AKEE]
-大招的子弹有概率变为爆炸子弹或冰冻子弹
+Las semillas que dispara tienen una probabilidad de convertirse en balas explosivas o balas congelantes.
 
 [STORE_PRODUCT_AVATAR_AKEE_TITLE]
-阿.开.木.木.装扮
+Disfraz de A.K.E.E.
 
 [AKEE_SKILL_LEVEL1]
-弹性强化
+Munición
 
 [AKEE_SKILL_LEVEL1_DES]
-子弹弹射次数+1
+Aumenta en 1 el número de disparos.
 
 [AKEE_SKILL_LEVEL2]
-分裂弹
+Multiplicación
 
 [AKEE_SKILL_LEVEL2_DES]
-有25%概率发射大子弹，击中目标后分裂为三个小子弹
+Tiene un 25 % de probabilidad de disparar un proyectil grande que, al impactar en el objetivo, se divide en tres proyectiles pequeños.
 
 [AKEE]
-阿.开.木.木.
+A.K.E.E.
 
 [AKEE_DESCRIPTION]
-{KEYWORD}Características：{STAT}橙色植物
-{FLAVOR}阿门 开丹 木汗 木德 实际上一直在为自己的简称-阿.开.木.木.寻找另外一个不同的全称扩展名。因为当我们认真看看这些字，“开丹”实在说不通阿。
+{KEYWORD}Características：{STAT}planta naranja
+{FLAVOR}Autónoma Katapultadora Eyectomática de Emisión está buscando un acrónimo distinto de A.K.E.E. porque, siendo sinceros, "Katapultadora" es demasiado artificial.
 
 [AKEE_DESCRIPTION_HEADER]
-阿.开.木.木.抛射出可以在僵尸之间弹射的炮弹。
+Lanza proyectiles que rebotan en los zombis.
 
 [AKEE_TOOLTIP]
-抛射出可以在僵尸之间弹射的炮弹。
+Lanza proyectiles que rebotan en los zombis
 
 [AKEE_PLANTFOOD]
-抛射数颗大型子弹，在僵尸之间弹射并造成伤害。
+Lanza varias semillas de gran tamaño que rebotan entre los zombis y les infligen daño.
 
 [GOLDLEAF]
-黄金叶
+Hoja Dorada
 
 [GOLDLEAF_DESCRIPTION]
-{KEYWORD}Características：{STAT}黄色植物
-{FLAVOR}"即使开始投入一点点,你也能收获巨大阳光", 黄金叶说。她是太阳能市场的死忠粉丝。
+{KEYWORD}Características：{STAT}planta amarilla
+{FLAVOR}"Con una pequeña inversión, puedes cosechar grandes beneficios", afirma Hoja Dorada. Es una ferviente defensora de los mercados solares.
 
 [GOLDLEAF_DESCRIPTION_HEADER]
-黄金叶在所种植的格子上建立黄金格子
+Crea una casilla dorada en la casilla donde es plantada
 
 [GOLDLEAF_TOOLTIP]
-在所种植的格子上建立黄金格子
+Crea una casilla dorada en la casilla donde es plantada
+
+[GOLDLEAF_PLANTFOOD]
+No tiene efecto de Nutrientes
 
 [GOLDLEAF_PLANTS_ON_OTHERTILE]
-黄金叶不能种植在特殊瓷砖上
+No puede plantarse en casillas especiales
 
 [REDSTINGER_PRODUCT_SHORT_DESC]
-红针花靠近大本营时火力全开发射子弹，远离老家则会提升防御性。
+Dispara a toda potencia cerca de la casa, y se recoje mientras más lejos esté.
 
 [REDSTINGER_AVATAR_NAME]
-红针花装扮
+Disfraz de Aguijón Rojo
 
 [STORE_PRODUCT_AVATAR_REDSTINGER]
-大招可以发射两条旋转的能量光线，伤害增加。
+Su habilidad especial lanza dos rayos, lo que aumenta el daño.
 
 [STORE_PRODUCT_AVATAR_REDSTINGER_TITLE]
-红针花装扮
+Disfraz de Aguijón Rojo
 
 [REDSTINGER_SKILL_LEVEL1]
-潜能爆发
+Formas Potenciadas
 
 [REDSTINGER_SKILL_LEVEL1_DES]
-攻击形态时，连续攻击可以增加攻速；防御形态时，死亡后发生一次能量爆炸，对僵尸造成伤害。
+En su Forma Ataque, los ataques consecutivos aumentan su velocidad; en su Forma Defensa, al morir produce una explosión que inflige daño a los zombis.
 
 [REDSTINGER_SKILL_LEVEL2]
-双倍潜能
+Formas Reponteciadas
 
 [REDSTINGER_SKILL_LEVEL2_DES]
-潜能爆发的增加攻速效果提升100%，并提升能量爆炸的伤害。
+Aumenta el efecto de su Forma Ataque en un 100% y aumenta el daño de su Forma Defensa.
 
 [REDSTINGER]
-红针花
+Aguijón Rojo
 
 [REDSTINGER_DESCRIPTION]
-{KEYWORD}Características：{STAT}红色植物
-{FLAVOR}对于红针花来说灵活柔韧性是极其重要的关键。“我确确实实每天早上都作拉伸练习，”他说。“这对精神与肉体时刻保持灵敏反应十分重要。”
+{KEYWORD}Características：{STAT}planta roja
+{FLAVOR}Para Aguijón Rojo, la flexibilidad y la agilidad son fundamentales. "La verdad es que hago ejercicios de estiramiento todas las mañanas", afirma. "Es muy importante para mantener la mente y el cuerpo siempre en forma".
 
 [REDSTINGER_DESCRIPTION_HEADER]
-红针花靠近大本营时火力全开发射子弹，远离老家则会提升防御性。
+Dispara a toda potencia cuando está cerca de la casa, y se esconde a medida que se aleja de ella.
 
 [REDSTINGER_TOOLTIP]
-靠近大本营时火力全开发射子弹，远离老家则会提升防御性。
+Dispara a toda potencia cerca de la casa, y se recoje mientras más lejos esté.
 
 [REDSTINGER_PLANTFOOD]
-发射一条能量光线攻击前方一行范围内的僵尸。
+Dispara un rayo que ataca a los zombis situados en línea recta delante.
 
 [LAVAGUAVA_PRODUCT_SHORT_DESC]
 岩浆番石榴会喷射岩浆,并生成一个岩浆坑对僵尸造成伤害。
@@ -23563,24 +23565,23 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 岩浆番石榴
 
 [LAVAGUAVA]
-岩浆番石榴
+Guayalava
 
 [LAVAGUAVA_DESCRIPTION]
-{KEYWORD}用法: {STAT}单次使用，接触后触发效果
-{KEYWORD}Características: {STAT}喷射岩浆, 对周围的僵尸造成伤害
-{KEYWORD}Características: {STAT}在它所在的格子生成一个岩浆坑。
-{KEYWORD}Características：{STAT}绿色植物、满腹怒火
- 
-{FLAVOR}岩浆番石榴皱着眉头压抑着愤怒。它尝试保持冷静。 它是那么的努力，但当僵尸对他得寸进尺时，他就不能忍了。
+{KEYWORD}Uso: {STAT}único, se activa al contacto
+{KEYWORD}Efecto: {STAT}emana lava y causa daño a los zombis que hay alrededor
+{KEYWORD}Especial: {STAT}crea un charco en la casilla en la que se encuentra
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}Frunció el ceño para contener su ira. Intentó mantener la calma. Se esforzó mucho, pero cuando el zombi se pasó de la raya, ya no pudo aguantarlo más.
 
 [LAVAGUAVA_DESCRIPTION_HEADER]
-岩浆番石榴会喷射岩浆,并生成一个岩浆坑对僵尸造成伤害。
+Emana lava dañando a los zombis que lo rodean y deja una casilla ardiente
 
 [LAVAGUAVA_TOOLTIP]
-喷射岩浆，之后生成一个滚烫的岩浆坑
+Emana lava dañando a los zombis que lo rodean y deja una casilla ardiente
 
 [LAVAGUAVA_PLANTFOOD]
-使前方一直线的地面爆裂，裂痕中的岩浆对范围内僵尸造成持续伤害。
+Hace que el suelo se resquebraje en línea recta hacia delante, y el magma de las grietas inflige daño continuo a los zombis que se encuentren en el área.
 
 [TOADSTOOL_PRODUCT_SHORT_DESC]
 金蟾菇能吞下整个的僵尸, 然后产生阳光。
@@ -23622,22 +23623,22 @@ Lanza una gran cantidad de pimientos explosivos contra objetivos aleatorios en e
 金蟾菇
 
 [TOADSTOOL]
-金蟾菇
+Hongo
 
 [TOADSTOOL_DESCRIPTION]
-{KEYWORD}弱点: {STAT}在咀嚼僵尸时相当的脆弱。
-{KEYWORD}Características：{STAT}黄色植物
+{KEYWORD}Debilidad: {STAT}es vulnerable mientras mastica zombis.
+{KEYWORD}Características：{STAT}planta amarilla
 
-{FLAVOR}金蟾菇不喜欢傻站着。“我把所有我想做的事都记在小本子上，并总把小本子放在我能看到的地方这样我就能时刻保持动力”她说。每当有工作需要完成，她总能第一个跳出来。
+{FLAVOR}No le gusta quedarse de brazos cruzados. "Anoto todo lo que quiero hacer en una libretita y la tengo siempre a la vista para mantener la motivación en todo momento", dice. (Nota del autor: Con qué manos me pregunto yo). Cada vez que hay que hacer algo, es siempre el primero en ofrecerse.
 
 [TOADSTOOL_DESCRIPTION_HEADER]
-金蟾菇能吞下整个的僵尸, 然后产生阳光。
+Hongo es capaz de tragarse zombis enteros y, a continuación, generar soles.
 
 [TOADSTOOL_TOOLTIP]
-吞下整个的僵尸, 然后产生阳光。
+Se traga zombis enteros y, a continuación, genera soles
 
 [TOADSTOOL_PLANTFOOD]
-连续吞吃4个僵尸并产出阳光
+Devora 4 zombis seguidos y produce soles
 
 [NARRATIVE_LOSTCITY_1_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}哇噢！欢迎来到丛林！
