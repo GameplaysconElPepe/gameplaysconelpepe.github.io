@@ -4885,7 +4885,7 @@ Aviso
 Para conseguir las estrellas en este nivel es necesario usar plantas aéreas. ¿Seguro que quieres intentar superarlo sin usar ninguna?
 
 [SEEDBANK_PLANT_LOCKED]
-{PlantName} puede usarse en este nivel
+{PlantName} NO puede usarse en este nivel
 
 [SEEDBANK_PLANT_LOCKED_TEMPORARILY]
 Completa {LevelName} y desbloquea el uso de {PlantName} en este nivel.
