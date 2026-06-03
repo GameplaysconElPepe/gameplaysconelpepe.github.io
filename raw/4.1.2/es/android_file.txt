@@ -17409,100 +17409,79 @@ Puede disparar plátanos a cualquier casilla del patio.
 Mantenlo pulsado y arrastra la mira hacia el objetivo para lanzar el plátano
 
 [SHADOWSHROOM]
-毒影菇
+Sombraseta
 
 [SHADOWSHROOM_TOOLTIP]
-使僵尸中毒持续受到伤害
+Envenena a los zombis que la comen, causando daño constantemente hasta derrotarlos
 
 [SHADOWSHROOM_SKILL_LEVEL1]
-死亡轰退
+Empuje Postmuerte
 
 [SHADOWSHROOM_SKILL_LEVEL1_DES]
-有10%概率在死亡后，可以击退该位置中所有敌方目标一格子距离。
+Existe un 10% de probabilidad de que, tras morir, empuje a todos los enemigos de esa posición una casilla hacia atrás.
 
 [SHADOWSHROOM_SKILL_LEVEL2]
-毒影之怒
+Empuje Fúrico
 
 [SHADOWSHROOM_SKILL_LEVEL2_DES]
-使技能死亡轰退的效果提升100%
+Existe un 100% de probabilidad de que, tras morir, se empuje a todos los enemigos de esa posición una casilla hacia atrás.
 
 [STORE_PRODUCT_AVATAR_SHADOWSHROOM]
-可以对僵尸造成中毒效果并且减速
+Envenena y ralentiza a los zombis
 
 [STORE_PRODUCT_AVATAR_SHADOWSHROOM_TITLE]
-毒影装扮
+Disfraz de Sombraseta
 
 [SHADOWSHROOM_DESCRIPTION_HEADER]
-让中毒僵尸死后中毒传染其他僵尸
+Envenena a los zombis que la comen, causando daño constante hasta derrotarlos
 
 [SHADOWSHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}让中毒僵尸死后中毒传染其他僵尸
-{KEYWORD}Características：{STAT}蓝色植物，紫色植物，蘑菇家族，暗影家族
-{FLAVOR}尽管它是一种有毒且不容易食用的真菌，但它仍然是一种完美的选择
-
-
-
-
-
-
-
-
-
-
+{KEYWORD}Especial：{STAT}los zombis envenenados pueden infectar otros zombis
+{KEYWORD}Características：{STAT} planta azul, planta morada, reino fungi, sombría.
+{FLAVOR}Los zombis que sobreviven a un bocado de ésta seta opinan que, a pesar de ser venenosa y muy difícil de comer, es todo un manjar. Aunque al tratar de probar un segundo bocado...
 
 [CAULIPOWER]
-超能花菜
+Colipoder
 
 [CAULIPOWER_TOOLTIP]
-魅惑随机的僵尸
+Hipnotiza zombis para que luchen de tu lado
 
 [CAULIPOWER_SKILL_LEVEL1]
-极速建造
+Recarga Rápida
 
 [CAULIPOWER_SKILL_LEVEL1_DES]
-使超能花菜的建造时间缩减25%
+Reduce el tiempo de recarga de Colipoder en un 25%
 
 [CAULIPOWER_SKILL_LEVEL2]
-超能急速
+Recarga Ultrarrápida
 
 [CAULIPOWER_SKILL_LEVEL2_DES]
-使急速建造的效果提升50%
+Reduce el tiempo de recarga de Colipoder en un 50%
 
 [CAULIPOWER_SKILL_LEVEL5]
-终极魅惑
+Hipnosis Definitiva
 
 [CAULIPOWER_SKILL_LEVEL5_DES]
-可以魅惑超高阶僵尸，并且立即恢复休眠时间。
+Puede hipnotizar a zombis de nivel muy alto y finalizar inmediatamente el tiempo de recarga del ataque.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER]
-大招可以多投掷一个僵尸
+Lanza un zombi aleatorio más.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER_TITLE]
-超能花菜装扮
+Disfraz de Colipoder
 
 [CAULIPOWER_DESCRIPTION_HEADER]
-向敌人发射魅惑光线
+Hipnotiza zombis para que luchen de tu lado
 
 [CAULIPOWER_DESCRIPTION]
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR}超能花菜眼睛因痛苦而旋转。他只是想为他的小说写一个大结局，但他担心他的表弟不会理解。
-
-
-
-
-
-
-
-
-
-
-
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}A Colipoder le giran los ojos de dolor. Solo quiere escribir un gran final para su novela, pero le preocupa que su primo no lo entienda.
 
 [DUSKLOBBER]
- 幽暮投手
+幽暮投手
  
 [DUSKLOBBER_TOOLTIP]
- 朝敌人抛射致命花瓣
+朝敌人抛射致命花瓣
 
 [DUSKLOBBER_SKILL_LEVEL1]
 荆棘晕眩
@@ -17535,26 +17514,6 @@ Mantenlo pulsado y arrastra la mira hacia el objetivo para lanzar el plátano
 {KEYWORD}Características：{STAT}暗影状态下可以攻击距离变为3行
 {KEYWORD}Características：{STAT}绿色植物，蓝色植物，矮个子，暗影家族
 {FLAVOR}很容易就能看到薄暮投手，但这只是因为她受过广泛的训练，而且真的喜欢抛物线。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [BLOOMINGHEARTS]
 铃儿草投手
@@ -17589,159 +17548,130 @@ Mantenlo pulsado y arrastra la mira hacia el objetivo para lanzar el plátano
 {KEYWORD}Características：{STAT}红色植物，充满爱心，矮个子
 {FLAVOR}铃儿草投手喜欢僵尸。她从她的伙伴那里得到了一些谣言，但她立场坚定。她喜欢僵尸，不为此道歉。
 
-
-
-
-
-
-
-
-
 [NIGHTSHADE]
-夜影龙葵
+Solanácea
 
 [NIGHTSHADE_TOOLTIP]
-它会使用叶子来击打僵尸
+Utiliza sus hojas para golpear a los zombis
 
 [NIGHTSHADE_SKILL_LEVEL1]
-夜影再生
+Recrecimiento
 [NIGHTSHADE_SKILL_LEVEL1_DES]
-使植物叶子恢复速度提升
-
+Aumentar la velocidad de recuperación de sus hojas
 
 [NIGHTSHADE_SKILL_LEVEL2]
-快速生长
+Crecimiento Rápido
 
 [NIGHTSHADE_SKILL_LEVEL2_DES]
-使快速生长效果提升100%
+Aumentar aún más la velocidad de recuperación de sus hojas
 
 [STORE_PRODUCT_AVATAR_NIGHTSHADE]
-形成巨型叶子对僵尸造成巨大伤害
+Lanza sus 3 hojas gigantes a la vez con el efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_NIGHTSHADE_TITLE]
-夜影装扮
+Disfraz de Solanácea
 
 [NIGHTSHADE_DESCRIPTION_HEADER]
-在暗影状态下的时候，会用力投掷和重新长出树叶
+Cuando se encuentra en modo sombra, lanza con fuerza y le vuelven a crecer sus hojas
 
 [NIGHTSHADE_DESCRIPTION]
-{KEYWORD}Características：{STAT}在暗影状态下的时候，会用力投掷和重新长出树叶
-{KEYWORD}Características：{STAT}蓝色植物，紫色植物，暗影一族
-{FLAVOR}对于茄属植物来说，攻击是一种责任和特权。他来自一长串热情的追踪者，他的家人包括三名国王、四名大使和一名总统。
-
-
-
-
-
-
-
-
-
-
+{KEYWORD}Especial：{STAT}cuando se encuentra en modo sombra, lanza con fuerza y le vuelven a crecer sus hojas
+{KEYWORD}Características：{STAT}planta azul, planta morada, sombría
+{FLAVOR}Para Solanácea, atacar es una responsabilidad y un privilegio. Proviene de una larga estirpe de apasionados conquistadores, y entre sus antepasados se cuentan tres reyes, cuatro embajadores y un presidente.
 
 [MOONFLOWER]
-月光花
+Flor Lunar
 
 [MOONFLOWER_TOOLTIP]
-为你提供更多阳光
+Produce soles y potencia plantas sombrías
 
 [MOONFLOWER_SKILL_LEVEL1]
-月之恩赐
+Regalo Lunar
 
 [MOONFLOWER_SKILL_LEVEL1_DES]
-有10%概率暗影处放置暗影植物立即获得25的阳光
+10% de probabilidad de que, al colocar una planta sombría en una zona de sombra, se obtengan inmediatamente 25 soles.
 
 [MOONFLOWER_SKILL_LEVEL2]
-月神赐福
+Bendición Lunar
 
 [MOONFLOWER_SKILL_LEVEL2_DES]
-使技能月之恩赐的效果提升100%
+100% de probabilidad de que, al colocar una planta sombría en una zona de sombra, se obtengan inmediatamente 25 soles.
 
 [STORE_PRODUCT_AVATAR_MOONFLOWER]
-可以在3x3范围形成防御之墙保护在其范围内所有植物
+Forma un muro defensivo en un área de 3x3 para proteger a todas las plantas que se encuentren dentro de él.
 
 [STORE_PRODUCT_AVATAR_MOONFLOWER_TITLE]
-月光装扮
+Disfraz de Flor Lunar
 
 [MOONFLOWER_DESCRIPTION_HEADER]
-月光散发出一种光芒，可以使邻近的影子植物产生能量
+Emite un resplandor capaz de potenciar plantas sombrías cercana
 
 [MOONFLOWER_DESCRIPTION]
-
-
-{KEYWORD}Características：{STAT}月光散发出一种光芒，可以使邻近的影子植物产生能量
-{KEYWORD}Características：{STAT}蓝色植物，紫色植物，暗影一族，无尽阳光
-{FLAVOR}月光花是一个很厉害的合作者。她会与任何合作者之间达成很好的默契。
-
-
-
-
-
-
-
+{KEYWORD}Especial：{STAT}emite un resplandor capaz de potenciar plantas sombrías cercanas
+{KEYWORD}Características：{STAT}planta azul, planta morada, sombría, produce soles
+{FLAVOR}Flor Lunar es una colaboradora formidable. Logrará establecer un entendimiento tácito con cualquier colaborador.
 
 [GRIMROSE]
- 暗樱草
+Siniestrosa
  
 [GRIMROSE_TOOLTIP]
-把僵尸拉进土中
-
+Arrastra bajo tierra al zombi que tenga al frente
 
 [GRIMROSE_SKILL_LEVEL1]
- 不灭
+Inmortalidad
  
 [GRIMROSE_SKILL_LEVEL1_DES]
-有10%概率在秒杀僵尸后不消耗叶子
+10% de probabilidad de no desaparecer tras arrastrar un zombi bajo tierra
 
 [GRIMROSE_SKILL_LEVEL2]
-永垂
+Eternidad
 
 [GRIMROSE_SKILL_LEVEL2_DES]
-不灭的效果提升100%
+20% de probabilidad de no desaparecer tras arrastrar un zombi bajo tierra
 
 [STORE_PRODUCT_AVATAR_GRIMROSE]
-大招可以额外形成2个影子触手把僵尸拉进土中
+Su efecto de Nutriente ahora podrá arrastrar 2 zombis más
 
 [STORE_PRODUCT_AVATAR_GRIMROSE_TITLE]
-暗樱装扮
+Disfraz de Siniestrosa
 
 [GRIMROSE_DESCRIPTION_HEADER]
-暗影状态下可以拖动3个僵尸
+Al estar en modo sombra, puede arrastrar 3 zombis bajo tierra
 
 [GRIMROSE_DESCRIPTION]
-{KEYWORD}Características：{STAT}暗影状态下可以拖动3个僵尸
-{KEYWORD}Características：{STAT}绿色植物，紫色植物，暗影家族
-{FLAVOR}暗樱草说:僵尸最适合的位置就是在土里，所以我真的只是加快了这个过程而已。
+{KEYWORD}Especial：{STAT}al estar en modo sombra, puede arrastrar 3 zombis bajo tierra
+{KEYWORD}Características：{STAT}planta verde, planta morada, sombría
+{FLAVOR}Siniestrosa siempre dice: "El lugar más adecuado para los zombis es bajo tierra, así que simplemente acelero ese proceso".
 
 [GRIMROSE_SKILL_LEVEL5]
- 暗影爆破
+Explosión Sombría
  
 [GRIMROSE_SKILL_LEVEL5_DES]
-把僵尸拉进土中后，会在原地放出暗影爆炸，对当格范围内的僵尸造成大量伤害
+Tras arrastrar al zombi bajo tierra, se producirá una explosión en el mismo lugar, que infligirá una gran cantidad de daño a los zombis que se encuentren en el área.
 
 [EXPLODEONUT_SKILL_LEVEL1]
-爆破延续
+Explosión tras Explosión
 
 [EXPLODEONUT_SKILL_LEVEL2]
-爆破精通
+Legado Explosivo
 
 [EXPLODEONUT_SKILL_LEVEL5]
-空降爆破
+Bomba Áerea
 
 [EXPLODEONUT_SKILL_LEVEL1_DES]
-有10%概率爆炸时生成一个土豆地雷
+Hay un 10% de probabilidad de que, al explotar, genere una Papapúm.
 
 [EXPLODEONUT_SKILL_LEVEL2_DES]
-使爆破延续的效果提升100%
+Hay un 20% de probabilidad de que, al explotar, genere una Papapúm.
 
 [EXPLODEONUT_SKILL_LEVEL5_DES]
-爆炸坚果在血量降为0后，会飞到天上，并降落到随机1格具有僵尸的区域，发生爆炸。
+Cuando la vida de Explotonuez llega a 0, sale volandoy cae en una casilla aleatoria donde haya un zombi, donde explota.
 
 [STORE_PRODUCT_AVATAR_EXPLODEONUT]
-大招可以获得更加坚固的熔岩甲增加防御和爆炸伤害
+Permite obtener una armadura de lava más resistente al usar Nutrientes, lo que aumenta la defensa y el daño de las explosiones.
 
 [STORE_PRODUCT_AVATAR_EXPLODEONUT_TITLE]
-爆炸坚果装扮
+Disfraz de Explotonuez
 
 [BOWLINGBULB]
 Bulbo de Bolera
@@ -22265,7 +22195,7 @@ Lanza a un gran número de asaltantes contra los objetivos que se encuentran en 
 大招可以使定身的时间延长
 
 [SAUCER]
-Calabaza Voladora No Identificada
+ Calabaza Voladora No Identificada
 
 [SAUCER_DESCRIPTION_HEADER]
 Abduce al primer zombi que baña con su luz y aturde al resto
@@ -25829,21 +25759,21 @@ JUGAR
 请点确定再次验证，如再次验证失败，请稍后重新登录游戏领取商品。
 
 [MORNINGGLORY]
-喇叭花
+DJ Gloria Mañanera
 
 [MORNINGGLORY_DESCRIPTION]
-{KEYWORD}Características：{STAT}反弹僵尸发射的音波，进阶后喇叭花之间会合奏增加攻击力。
-{KEYWORD}Características：{STAT}绿色植物 紫色植物
-{FLAVOR}喇叭花一直饱受楼上装修的噪音打扰，他请教邻居DJ甜菜如何解决之后，立马下单买了一个MSR-7耳机。
+{KEYWORD}Especial：{STAT}desvía proyectiles sónicos
+{KEYWORD}Características：{STAT}planta verde, planta morada
+{FLAVOR}Llevaba mucho tiempo sufriendo el ruido de las obras de reforma en la planta de arriba. Tras preguntarle a su vecino, Remolacha Tremenda, cómo solucionar el problema, compró inmediatamente unos auriculares MSR-7.
 
 [MORNINGGLORY_DESCRIPTION_HEADER]
-发射音波攻击僵尸，并反弹僵尸发射的音波。
+Emite ondas sonoras para atacar a los zombis y desvía los proyectiles sónicos de estos.
 
 [MORNINGGLORY_PLANTFOOD]
-发射一个音障，阻挡一行僵尸前进并造成持续伤害。
+Produce una gran onda expansiva que repele a los zombis en un radio de 3 casillas y los daña continuamente, además de aturdirlos.
 
 [MORNINGGLORY_TOOLTIP]
-发射音波攻击僵尸，可反弹僵尸发射的音波。
+Emite ondas sonoras y desvía los proyectiles sónicos de los zombis
 
 [MORNINGGLORY_PRODUCT_SHORT_DESC]
 喇叭花会发射音波攻击僵尸，并反弹僵尸发射的音波。
@@ -26794,19 +26724,19 @@ JUGAR
 [BUY_NOW]
 马上购买
 [CACTUS]
-仙人掌
+Cactus
 
 [CACTUS_DESCRIPTION]
-{KEYWORD}Características： {STAT}隐藏自身，等僵尸靠近的时候会对他们造成地面伤害
-{KEYWORD}Características：{STAT}绿色植物、十万伏特、高个子
+{KEYWORD}Especial： {STAT}al acercarse un zombi, imita a la pinchohierba
+{KEYWORD}Características：{STAT}planta verde, alta
 
-{FLAVOR} 最近对仙人掌来说，情况发生了巨大变化。图书交易，电影，卡车表演什么的…她只想保持谦虚，跟平时一样发射尖刺就行了。
+{FLAVOR}Últimamente la vida de Cactus cambió. Contratos de libros, películas, apariciones en espectáculos... Intenta centrarse en seguir siendo humilde y en lanzar espinas como siempre.
 
 [CACTUS_DESCRIPTION_HEADER]
-仙人掌可以发射穿透性尖刺，对多个敌人造成伤害！
+Lanzar espinas penetrantes que causan daño a varios enemigos
 
 [CACTUS_TOOLTIP]
-发射穿透性尖刺，躲避地面伤害
+Lanzar espinas penetrantes que causan daño a varios enemigos
 [CATEGORY_4_DESCRIPTION]
 金币
 [CATEGORY_6_DESCRIPTION]
@@ -26823,18 +26753,18 @@ JUGAR
 礼包
 
 [CELERYSTALKER]
-潜伏芹菜
+Apio Furtivo
 
 [CELERYSTALKER_DESCRIPTION]
-{KEYWORD}Características： {STAT}等僵尸经过后，突然跳出来攻击
-{KEYWORD}Características：{STAT}绿色植物、矮个子
-{FLAVOR} 潜伏芹菜非常讨厌别人说他的攻击方式没特色。他觉得保持低调对植物来说更重要。
+{KEYWORD}Efecto： {STAT}cuando pasan los zombis, los golpea por la espalda
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}A Apio furtivo le ofende que se insinúe que su estilo de ataque es de mal gusto. Simplemente cree que la discreción es la mejor cualidad de un vegetal.
 
 [CELERYSTALKER_DESCRIPTION_HEADER]
-潜伏芹菜突然出现并从后面攻击僵尸。
+Espera hasta que pasan los zombis, luego sale y los golpea por la espalda.
 
 [CELERYSTALKER_TOOLTIP]
-突然出现并从后面攻击僵尸
+Espera hasta que pasen los zombis, luego sale y los golpea por la espalda
 [COIN_BALANCE_ALERT]
 金币不足
 [COLDSNAPDRAGON]
@@ -27814,19 +27744,19 @@ Pantano del Jurásico - Día {LEVEL_NUMBER}
 [ESCAPEROOT_TOOLTIP]
 发生爆炸，并且可以和其他植物交换位置
 [EXPLODEONUT]
-爆炸坚果
+Explotonuez
 
 [EXPLODEONUT_DESCRIPTION]
-{FLAVOR}“我唯一的遗憾，就是只有一颗装满了消化甘油的内心，这对草坪的保护远远不够。”爆炸坚果如是说。
+{FLAVOR}"Mi único pesar", dice Explotonuez, "es que solo tengo un centro masticable lleno de nitroglicerina para ofrecer en defensa de este césped".
 
 [EXPLODEONUT_DESCRIPTION_HEADER]
-爆炸坚果提供保护，如果外壳被吃掉，马上就会炸毁僵尸。
+Sirve como defensa, y al ser comida, explota
 
 [EXPLODEONUT_TOOLTIP]
-外壳被吃掉后爆炸
+Sirve como defensa, y al ser comida, explota
 
 [EXPLODEONUT_PRODUCT_SHORT_DESC]
-外壳被吃掉后爆炸
+Sirve como defensa, y al ser comida, explota
 
 [FACEBOOK_FRIENDS_ALREADY_LOGGED_IN]
 用户已登录FACEBOOK
@@ -28721,17 +28651,17 @@ Z钥匙
 {NUMBER}或 ^FF0000 观看1次广告 ^oldclr 刷新商店？（剩余 ^FF0000 {LEFT} ^oldclr 次）
 
 [GARLIC]
-大蒜
+Ajo
 
 [GARLIC_DESCRIPTION]
-{FLAVOR} 对抗僵尸的利器，也能抵挡住任何不慎游荡过来的吸血鬼。
-{KEYWORD}Características：{STAT}白色植物
+{FLAVOR}Un arma eficaz contra los zombis, capaz también de hacer frente a cualquier vampiro que se acerque por casualidad.
+{KEYWORD}Características：{STAT}planta blanca
 
 [GARLIC_DESCRIPTION_HEADER]
-大蒜能把僵尸引到别的路线上。
+El ajo puede desviar a los zombis hacia otra línea
 
 [GARLIC_TOOLTIP]
-把僵尸引到其它路线上
+Desvía a los zombis hacia otras líneas
 
 [GEMS_PURCHASE_CONFIRMATION]
 购买确认
@@ -28797,19 +28727,19 @@ Z钥匙
 开始
 
 [INTENSIVECARROT]
-复活萝卜
+Zanahoria Intensiva
 
 [INTENSIVECARROT_DESCRIPTION]
-{KEYWORD}用法： {STAT}一次性使用，立即生效
-{KEYWORD}Características：{STAT}红色植物
+{KEYWORD}Uso： {STAT}único, instántaneo
+{KEYWORD}Características：{STAT}planta naranja
 
-{FLAVOR}“我该怎样复活阵亡的植物呢？”复活萝卜问道。“简言之，就是用维生素。维生素加上魔法。”
+{FLAVOR}¿Cómo puedo resucitar a las plantas que han muerto?», preguntó Zanahoria Intensiva a la audiencia. "En pocas palabras, con vitaminas. Vitaminas y magia".
 
 [INTENSIVECARROT_DESCRIPTION_HEADER]
-复活萝卜能让被吃掉的植物活过来。
+Resucita plantas que ya han sido comidas
 
 [INTENSIVECARROT_TOOLTIP]
-让被吃掉的植物复活
+Resucita plantas que ya han sido comidas
 
 [JACKOLANTERN]
 杰克南瓜灯
@@ -31539,19 +31469,19 @@ Edad Renacentista - Día {LEVEL_NUMBER}
 [OR]
 或者
 [PERFUMESHROOM]
-香水蘑菇
+Seta Perfumada
 
 [PERFUMESHROOM_DESCRIPTION]
-{KEYWORD}用法： {STAT}对整条线上的恐龙有效
-{KEYWORD}Características：{STAT}紫色植物、蘑菇家族
+{KEYWORD}Uso： {STAT}enamora dinosaurios para que luchen contra los zombis
+{KEYWORD}Características：{STAT}planta morada, reino fungi
 
-{FLAVOR}香水蘑菇会放出纯净浓缩的爱情之雾。
+{FLAVOR}Seta Perfumada desprende una bruma de amor pura y concentrada.
 
 [PERFUMESHROOM_DESCRIPTION_HEADER]
-香水蘑菇可以迷惑恐龙来对抗僵尸。
+Setas Perfumada pueden enamorar a los dinosaurios para que luchen contra los zombis.
 
 [PERFUMESHROOM_TOOLTIP]
-迷惑恐龙攻击僵尸
+Enamora a los dinosaurios para que luchen contra los zombis.
 
 [STORE_PRODUCT_AVATAR_PERFUMESHROOM_TITLE]
 香水蘑菇装扮
@@ -31578,17 +31508,17 @@ Edad Renacentista - Día {LEVEL_NUMBER}
 正在下载……
 
 [PHATBEET]
-魔音甜菜
+Remolacha Tremenda
 
 [PHATBEET_DESCRIPTION]
-{KEYWORD}Características：{STAT}红色植物
-{FLAVOR}魔音甜菜拥有劲爆的节奏和韵律，还有令人沉迷的曲子，不过只有短短几秒。
+{KEYWORD}Características：{STAT}planta roja
+{FLAVOR}Si has escuchado su música, estarás de acuerdo que tiene un ritmo pegadizo y una melodía explosiva, y su letra, uff... ningún zombi puede criticarla.
 
 [PHATBEET_DESCRIPTION_HEADER]
-魔音甜菜每隔数秒都会弹奏造成伤害。
+Emite ondas que infligen daño cada pocos segundos.
 
 [PHATBEET_TOOLTIP]
-每隔数秒用弹奏造成伤害
+Golpea el suelo, emitiendo ondas que infligen daño cada pocos segundos
 [PINATA_PARTY_COSTUME_REWARD_TEXT]
 新的造型！
 
@@ -31715,64 +31645,64 @@ El viaje de {PLAYER} a la Edad Renacentista
 [PREVIEW_LEVEL_NAME]
 植物预览
 [PRIMALPEASHOOTER]
-原始豌豆射手
+Lanzaguisantes Primitivo
 
 [PRIMALPEASHOOTER_DESCRIPTION]
-{KEYWORD}Características： {STAT}原始豌豆射手偶尔能击退僵尸
-{KEYWORD}Características：{STAT}绿色植物、狂野生长、豌豆家族
+{KEYWORD}Especial： {STAT}puede hacer retroceder a los zombis a veces
+{KEYWORD}Características：{STAT}planta verde, salvaje
 
-{FLAVOR}原始豌豆射手也许很原始，但他依然参与了不少软件开发相关课程且表现优异。
+{FLAVOR}Puede que Lanzaguisantes Primitivo sea de la vieja escuela, pero ha participado en numerosos cursos relacionados con el desarrollo de software y ha obtenido excelentes resultados.
 
 [PRIMALPEASHOOTER_DESCRIPTION_HEADER]
-原始豌豆射手能够向僵尸发射重型眩晕豌豆。
+Dispara guisantes que en algunas ocasiones retroceden zombis
 
 [PRIMALPEASHOOTER_TOOLTIP]
-发射重型眩晕豌豆
+Dispara guisantes que en algunas ocasiones retroceden zombis
 
 [PRIMALPOTATOMINE]
-原始土豆地雷
+Papapúm Primitiva
 
 [PRIMALPOTATOMINE_DESCRIPTION]
-{KEYWORD}用法： {STAT}单次使用，延迟激活。
-{KEYWORD}范围： {STAT}周围所有区域
-{KEYWORD}Características：{STAT}褐色植物、狂野生长、武器家族、矮个子
+{KEYWORD}Uso： {STAT}único, tarda en activarse
+{KEYWORD}Alcance： {STAT}área de 3x3
+{KEYWORD}Características：{STAT}planta marrón, salvaje, chaparra
 
-{FLAVOR}原始土豆地雷并不觉得自己很原始。对他来说，他是最前沿的科技。谁知道呢？或许他真的是。
+{FLAVOR}No se considera a sí mismo primitivo. Para él, representa tecnología de vanguardia. ¿Quién sabe? Quizá realmente lo sea.
 
 [PRIMALPOTATOMINE_DESCRIPTION_HEADER]
-原始土豆地雷比普通土豆地雷要贵一些，但它们激活得非常快，而且会对大范围的敌人造成伤害。
+Es un poco más cara que Papapúm pero daña un área mayor
 
 [PRIMALPOTATOMINE_TOOLTIP]
-爆炸造成范围伤害。
+Es un poco más cara que Papapúm pero daña un área mayor
 
 [PRIMALSUNFLOWER]
-原始向日葵
+Girasol Primitiva
 
 [PRIMALSUNFLOWER_DESCRIPTION]
-{KEYWORD}日光产出： {STAT}大号太阳
-{KEYWORD}Características：{STAT}黄色植物、狂野生长、无尽阳光
+{KEYWORD}Producción solar： {STAT}grande
+{KEYWORD}Características：{STAT}planta amarilla, salvaje, produce soles
 
-{FLAVOR}原始向日葵刚来到日光产出行业，所以请对她耐心一点。她在阳光制造产业中不限量自助餐厅的早期试用者。
+{FLAVOR}Es nueva en el negocio de la producción solar, así que ten paciencia con ella. Es una de las primeras usuarias del servicio de buffet libre de la empresa de producción de energía solar.
 
 [PRIMALSUNFLOWER_DESCRIPTION_HEADER]
-原始向日葵会产出大号太阳，而不是普通太阳。
+Produce soles grandes en lugar de los normales
 
 [PRIMALSUNFLOWER_TOOLTIP]
-产出大号太阳。
+Produce soles grandes en lugar de los normales
 
 [PRIMALWALLNUT]
-原始坚果墙
+Nuez Primitiva
 
 [PRIMALWALLNUT_DESCRIPTION]
-{KEYWORD}Características：{STAT}褐色植物、狂野生长、高个子
+{KEYWORD}Características：{STAT}planta marrón, salvaje, alta
 
-{FLAVOR}“呼噜”，原始坚果墙说。“呼噜呼噜呼噜”，他继续说道。“哦库噜呼噜呼噜”，他总结道。一个非常有想法的坚果，那就是原始坚果墙。
+{FLAVOR}"Grrr", dice Nuez Primitiva. "Grrr, grrr, grrr", continúa exponiendo. "Auuuu, grr, grr, grrrrrr", concluye. Nuez Primitiva es todo un filósofo.
 
 [PRIMALWALLNUT_DESCRIPTION_HEADER]
-原始坚果墙有比传统的坚果墙价格要贵一些，但它们可以很快种好。
+Cuesta más que Nuez pero se puede plantar más rápido
 
 [PRIMALWALLNUT_TOOLTIP]
-可以快速种植并阻挡僵尸的墙。
+Cuesta más que Nuez pero se puede plantar más rápido
 [PRODUCT_131_DESCRIPTION]
 如此多的金币！
 
@@ -32693,17 +32623,17 @@ HTTPS://WWW.EA.COM/WWF
 新的花盆已经为幼苗准备好了！
 
 [SPORESHROOM]
-孢子菇
+Seta Esporada
 
 [SPORESHROOM_DESCRIPTION]
-{FLAVOR} “我最喜欢的算术方式？”孢子菇想。“我猜应该是，嗯，加法！等等，不……是乘法。”
-{KEYWORD}Características：{STAT}紫色植物、蘑菇家族
+{FLAVOR}"¿Mi operación matemática favorita?", se pregunta. "Supongo que... eh... ¡la suma! Espera, no... ¡la multiplicación!".
+{KEYWORD}Características：{STAT}planta morada, reino fungi
 
 [SPORESHROOM_DESCRIPTION_HEADER]
-孢子菇发射出的孢子能够从被打败的僵尸身上制造新的孢子菇。
+Lanza esporas que crean otras setas donde caen
 
 [SPORESHROOM_TOOLTIP]
-从被打败的僵尸身上制造新的孢子菇。
+Lanza esporas que crean otras setas donde caen
 [SPROUTS_STORE]
 幼苗
 
@@ -32800,19 +32730,19 @@ HTTPS://WWW.EA.COM/WWF
 强化选择
 
 [THYMEWARP]
-逆时草
+Tomillo Tiempillo
 
 [THYMEWARP_DESCRIPTION]
-{KEYWORD}用法： {STAT}一次性使用，立即生效
-{KEYWORD}Características： {STAT}被传送回去的僵尸也会回复生命。
-{KEYWORD}Características：{STAT}绿色植物
-{FLAVOR} “性能可的它其受接要需们我”逆时草说，“限局常非性向单的间时得觉直一我。”
+{KEYWORD}Uso： {STAT}único, instántaneo
+{KEYWORD}Debilidad： {STAT}los zombis que teletransporta también se curan 
+{KEYWORD}Características：{STAT}planta verde
+{FLAVOR}."sedadilibisop saveun a sonrirba euq someneT", dice Tomillo Tiempillo ,"senoicatimil sus aínet opmeit led dadilanoicceridinu al euq odasnep eh erpmeiS" [sic]
 
 [THYMEWARP_DESCRIPTION_HEADER]
-逆时草可以让时光倒流，把僵尸送回他们开始的地方。
+Regresa a todos los zombis a su punto de partida
 
 [THYMEWARP_TOOLTIP]
-把僵尸送回开始的地方。
+Regresa a todos los zombis a su punto de partida
 
 [TIME_TWIST_PINATA_PARTIES]
 时间扭曲彩罐派对开始！
@@ -35969,49 +35899,49 @@ x500更改名字
 请重新打开限时礼包界面来刷新
 
 [DRAGONROAR]
-龙吼草
+Dinohierba Rugiente
 
 [DRAGONROAR_DESCRIPTION]
-{KEYWORD}Características： {STAT}吃掉美味的僵尸，吐掉难吃的恐龙蛋。
+{KEYWORD}Especial： {STAT}se come a los zombis y escupe los huevos de dinosaurio
 {KEYWORD}Características：{STAT}绿色植物、铁齿铜牙
 
-{FLAVOR}龙吼草自小就嗓门大，所以在高中的时候就参加了学校的合唱团。然而过了没多久，他就因“种种原因”选择了退出。“我还是觉得他适合独唱，”喇叭花评价说，“毕竟对于合唱团来说，他一个人需要的安全距离也太大了些……”
+{FLAVOR}Es naturalmente ruidoso y se unió al coro en la preparatoria. No tardó mucho en renunciar por "varias razones". "Le conviene más cantar en solitario", comentó DJ Gloria MañaneraTT, "porque bueno... su voz es demasiado potente para un coro".
 
 [DRAGONROAR_DESCRIPTION_HEADER]
-龙吼草能把靠近的僵尸吃掉，并吐掉无法消化的恐龙蛋。
+Se come a los zombis cercanos y escupe los huevos de dinosaurio
 
 [DRAGONROAR_TOOLTIP]
-吃掉靠近的僵尸，吐掉恐龙蛋。
+Se come a los zombis cercanos y escupe los huevos de dinosaurio
 
 [BRAMBLE]
-胆小荆棘
+Manojo de Espinas
 
 [BRAMBLE_DESCRIPTION]
-{KEYWORD}Características： {STAT}抵挡雷龙踩踏
-{KEYWORD}Características：{STAT}褐色植物
+{KEYWORD}Características： {STAT}bloquea la pisada de un brontosaurio
+{KEYWORD}Características：{STAT}planta verde
 
-{FLAVOR}胆小荆棘毕生只专注一件大胆的事情，就是和雷龙的脚过不去。
+{FLAVOR}En toda su vida, solo ha logrado en una cosa valiente: ponerse a los pies de los brontosaurios.
 
 [BRAMBLE_DESCRIPTION_HEADER]
-胆小荆棘能够抵挡雷龙的踩踏。
+Bloquea los pisotones de los Brontosaurios
 
 [BRAMBLE_TOOLTIP]
-抵挡雷龙踩踏。
+Bloquea los pisotones de los Brontosaurios
 
 [DRAGONCANE]
-蔗师父
+Maestro Cañamiel
 
 [DRAGONCANE_DESCRIPTION]
-{KEYWORD}Características： {STAT}使用双蔗棍攻击多个僵尸
-{KEYWORD}Características：{STAT}紫色植物、武艺高强
+{KEYWORD}Especial： {STAT}ataca a los zombis con nunchakus de caña
+{KEYWORD}Características：{STAT}planta morada, maestro de las artes marciales
 
-{FLAVOR}蔗师父也是布鲁斯·李的狂热粉丝，为了表达对偶像的敬意，他自小就开始练习蔗拳道，并耍得一手好双蔗棍。模仿布鲁斯·李是他最爱做的事情，以至于现在说话只会“啊哒！啊哒！”地叫。
+{FLAVOR}Es un fanático acérrimo de Bruce Lee. Para demostrar su respeto hacia su ídolo, comenzó a practicar Kañarate desde joven y ahora maneja los nunchakus con gran destreza. Lo que más le gusta es imitar a Bruce Lee, hasta tal punto que ahora solo sabe decir sus más famosas frases.
 
 [DRAGONCANE_DESCRIPTION_HEADER]
-蔗师父能够使用双蔗棍攻击前方多个僵尸。
+Ataca a los zombis con sus nunchakus de caña
 
 [DRAGONCANE_TOOLTIP]
-使用双蔗棍攻击前方多个僵尸。
+Ataca a los zombis con sus nunchakus de caña
 
 [COBCANNON]
 玉米加农炮
