@@ -17478,75 +17478,75 @@ Hipnotiza zombis para que luchen de tu lado
 {FLAVOR}A Colipoder le giran los ojos de dolor. Solo quiere escribir un gran final para su novela, pero le preocupa que su primo no lo entienda.
 
 [DUSKLOBBER]
-幽暮投手
+Lanzadora Oscura
  
 [DUSKLOBBER_TOOLTIP]
-朝敌人抛射致命花瓣
+Arroja brotes explosivos contra los zombis
 
 [DUSKLOBBER_SKILL_LEVEL1]
-荆棘晕眩
+Aturdimiento Espinoso
 
 [DUSKLOBBER_SKILL_LEVEL1_DES]
-有10%概率子弹变成红球状，在击中敌方目标后散出花粉，使目标眩晕1.5秒。
+Hay un 10% de probabilidad de que el brote adquiera forma roja y, al impactar en el objetivo enemigo, esparza polen que lo aturde durante 1,5 segundos.
 
 [DUSKLOBBER_SKILL_LEVEL2]
-荆棘危机
+Crisis Espinosa
 
 [DUSKLOBBER_SKILL_LEVEL2_DES]
-使技能荆棘晕眩的效果提升100%
+Hay un 20% de probabilidad de que el brote adquiera forma roja y, al impactar en el objetivo enemigo, esparza polen que lo aturde durante 1,5 segundos.
 
 [DUSKLOBBER_SKILL_LEVEL5]
-究极缠绕
+Enredo Definitivo
 
 [DUSKLOBBER_SKILL_LEVEL5_DES]
-有概率在范围内形成种子，对触碰到僵尸形成藤曼束缚其行动。
+Al atacar, hay un 25% de probabilidad de dejar caer semillas dentro del rango de la caída. Estas semillas se convertirán en espinas, que pueden absorber 1000 puntos de daño y unir a los zombis que sean destruidas.
 
 [STORE_PRODUCT_AVATAR_DUSKLOBBER]
-额外形成一个巨大的紫色炸弹花苞，造成范围伤害并且眩晕2秒
+Crea además un enorme capullo explosivo de color púrpura que inflige daño de área y aturde durante 2 segundos.
 
 [STORE_PRODUCT_AVATAR_DUSKLOBBER_TITLE]
-幽暮装扮
+Disfraz de Lanzadora Oscura
 
 [DUSKLOBBER_DESCRIPTION_HEADER]
-朝敌人抛射致命花瓣
+Arroja brotes explosivos contra los zombis
 
 [DUSKLOBBER_DESCRIPTION]
-{KEYWORD}Características：{STAT}暗影状态下可以攻击距离变为3行
-{KEYWORD}Características：{STAT}绿色植物，蓝色植物，矮个子，暗影家族
-{FLAVOR}很容易就能看到薄暮投手，但这只是因为她受过广泛的训练，而且真的喜欢抛物线。
+{KEYWORD}Especial：{STAT}en modo sombra, el alcance del ataque pasa a ser de 3 filas.
+{KEYWORD}Características：{STAT}planta verde, planta azul, pequeña, sombría
+{FLAVOR}Es muy fácil distinguir a Lanzadora Oscura, pero eso se debe únicamente a que ha recibido un entrenamiento exhaustivo y a que realmente le encantan las trayectorias parabólicas.
 
 [BLOOMINGHEARTS]
-铃儿草投手
+Corazón Floreciente
 
 [BLOOMINGHEARTS_TOOLTIP]
-向僵尸投掷爱心花朵
+Lanza flores en forma de corazón, y con cada golpe el daño es mayor
  
 [BLOOMINGHEARTS_SKILL_LEVEL1]
-痴心绝对
+Obsesión
 
 [BLOOMINGHEARTS_SKILL_LEVEL1_DES]
-有10%概率在击中僵尸后，会形成巨大爱心印记，铃儿草投手会优先攻击带有巨大爱心印记的敌方单位。
+10% de posibilidad de crear una marca de prioridad que obligue a la planta a apuntar a ese zombi específico
 
 [BLOOMINGHEARTS_SKILL_LEVEL2]
-爱之永恒
+Amor Eterno
 
 [BLOOMINGHEARTS_SKILL_LEVEL2_DES]
-使痴心绝对效果提升100%
+100% de posibilidad de crear una marca de prioridad que obligue a la planta a apuntar a ese zombi específico
 
 [STORE_PRODUCT_AVATAR_BLOOMINGHEARTS]
-形成巨大花心弹药，造成额外伤害
+Crea una enorme munición de corazón, que inflige daño adicional
 
 [STORE_PRODUCT_AVATAR_BLOOMINGHEARTS_TITLE]
-铃儿草装扮
+Disfraz de Corazón Floreciente
 
 [BLOOMINGHEARTS_DESCRIPTION_HEADER]
-爱心印记可以叠加伤害
+Lanza flores en forma de corazón, y con cada golpe el daño es mayor
 
 [BLOOMINGHEARTS_DESCRIPTION]
 
-{KEYWORD}Características：{STAT}爱心印记可以叠加伤害
-{KEYWORD}Características：{STAT}红色植物，充满爱心，矮个子
-{FLAVOR}铃儿草投手喜欢僵尸。她从她的伙伴那里得到了一些谣言，但她立场坚定。她喜欢僵尸，不为此道歉。
+{KEYWORD}Especial：{STAT}las marcas de amor pueden acumularse para aumentar el daño
+{KEYWORD}Características：{STAT}planta roja, amorosa
+{FLAVOR}A Corazón Floreciente le gustan los zombis. Ha oído algunos rumores de sus compañeras, pero se mantiene firme. Le gustan los zombis y no siente pena por ello.
 
 [NIGHTSHADE]
 Solanácea
@@ -20128,113 +20128,106 @@ ca=沙漠|森林|海洋|草原|
 [LANTERN_RIDDLES_ANSWER_89]
 ca=了解敦煌知识|不去参观|破坏文物|什么都不做|
 
-
-
-
-
-
-
-
 [ICEAGE]
-冰河世界
+Cuevas Congeladas
 
 [ICEAGE_LAST]
-冰河世界-终极挑战
+Cuevas Congeladas - Día Final
 
 [ICEAGE_LAST1]
-时空穿梭-冰河世界
+Cuevas Congeladas - Día Final
 
 [ICEAGE_LEVEL_NAME]
 Cuevas Congeladas - Día {LEVEL_NUMBER}
 
 [XSHOT]
-旋转芜菁
+Rotinabo
 
 [XSHOT_DESCRIPTION_HEADER]
-旋转芜菁可以沿着4个对角线发射子弹，每个方向瞄向一个目标。
+Dispara proyectiles a lo largo de las cuatro diagonales, apuntando a un objetivo en cada dirección
 
 [XSHOT_DESCRIPTION]
-{KEYWORD}范围：{STAT}四方向发射
+{KEYWORD}Alcance：{STAT}cuatro direcciones
 {KEYWORD}Características：{STAT}紫色植物、飞行植物
-{FLAVOR}有时候旋转芜菁会听到其它植物互相八卦。“你注意到没？某某某发胖了。”他们还会说，像这样的话题“我听说某某某正在和某某某约会，你能相信吗？”但是旋转芜菁不是这种爱八卦的类型。对于在别人背后议论八卦，她更有兴趣事情是尽力超越别人。
+{FLAVOR}A veces Rotinabo oye a algunas plantas cuchichear acerca de las demás "¿Te diste cuenta que Sutanita engordó?" dicen algunas. "Menganita está saliendo con Zutanito. ¿Te lo puedes creer?", dicen otras. Pero a Rotinabo no le van los cotilleos. No quiere chismorrear y rebajarse a ese nivel. Pone todo su esfuerzo en estar por encima del resto.
 
 [XSHOT_TOOLTIP]
-沿着4个对角线的方向发射子弹
+Dispara proyectiles en cuatro diagonales, apuntando un objetivo por dirección
 
 [XSHOT_PLANTFOOD]
-在4个对角线方向快速喷射子弹流。
+Dispara rápidamente ráfagas de proyectiles en las cuatro diagonales.
 
 [SUGARCANE]
-竹小弟
+Bambú Resistente
 
 [SUGARCANE_DESCRIPTION_HEADER]
-竹小弟可以顶住僵尸，阻止它们前进。
+Bloquea y retiene zombis. Se cura cuando no lo atacan
 
 [SUGARCANE_DESCRIPTION]
-{KEYWORD}Características：{STAT}僵尸越少，能坚持的时间越长。
-{KEYWORD}Características：{STAT}在没有顶住僵尸的时候会逐渐恢复。
-{KEYWORD}Características：{STAT}绿色植物、武艺高强
-{FLAVOR}竹小弟自小开始跟着邻镇的一个戏班子跑腿，自小跑龙套的他希望有一天成为班里的台柱子，于是他苦练各种功夫，终于有一天练成了连续后空翻的看家本领。皇天不负苦心人，竹小弟终于接到了第一场他担纲主角的戏，主要剧情是这样的：有一天，在森林中一只凶猛的狼绑架了小猪，猪妈妈勇敢地寻找狼的巢穴来救它……
+{KEYWORD}Especial：{STAT}mientras menos zombis haya, más tiempo podrá aguantar
+{KEYWORD}Efecto：{STAT}mientras no lo atacan se cura poco a poco
+{KEYWORD}Características：{STAT}planta verde, luchadora
+{FLAVOR}Su infancia transcurrió haciendo recados en una compañía teatral del pueblo vecino. Soñaba con convertirse algún día en actor principal, así que aprendió todo tipo de artes marciales. Finalmente, un día dominó su habilidad exclusiva: el salto mortal consecutivo hacia atrás. Sus esfuerzos dieron fruto. Por fin consiguió un papel protagonista en una obra de teatro cuya trama es: "Un día, en el bosque, un lobo feroz secuestró a un cerdo. Su valiente madre buscó la guarida del lobo para rescatarlo...".
 
 [SUGARCANE_TOOLTIP]
-顶住僵尸，阻挡僵尸前进。
+Bloquea y retiene zombis. Se cura cuando no lo atacan
 
 [SUGARCANE_PLANTFOOD]
-凌空跳起，将僵尸击飞并眩晕一段时间。
+Salta en el aire, lanzando por los aires a los zombis y aturdiéndolos durante un tiempo.
 
 [ROSESWORDMAN]
-玫瑰剑客
+Rosa Espadachina
 
 [ROSESWORDMAN_DESCRIPTION_HEADER]
-玫瑰剑客可以攻击接近的僵尸，并对低生命的僵尸发动强力攻击。
+Ataca a espadazos a los zombis que se le acerquen y lanza ataques potentes contra zombis con poca vida
 
 [ROSESWORDMAN_DESCRIPTION]
-{KEYWORD}Características：{STAT}对生命值很低的僵尸发动强力攻击。
-{KEYWORD}Características：{STAT}红色植物、武艺高强
-{FLAVOR}这名来自遥远东方的神秘剑客自称为凡尔赛·高，他在酒馆里喝酒的时候总是吹嘘自己是一名超越时代的艺术家。“这些粗鲁的家伙根本无法理解我想表达的东西！”他总是如此愤愤不平地说道，“那位著名的歌手向日葵，我曾经给她画过一幅划时代的画像，但是她居然宣称我画的是垃圾！这可是我唯一一幅除了玫瑰之外的画像！我还特意在画的下面签上了自己名字的缩写，我敢打赌光凭这个签名就足以使这副画成为无价之宝……嗝~”
+{KEYWORD}Características：{STAT}lanza ataques potentes contra zombis con poca vida
+{KEYWORD}Características：{STAT}planta roja, luchadora
+{FLAVOR}Este misterioso espadachín del lejano oriente se hace llamar el Gogh de Versalles. Cuando bebe en las tabernas, siempre alardea de ser un artista que trasciende el tiempo. "¡Estos tipos groseros simplemente no pueden comprender lo que intento expresar!", dice siempre con rabia. "A esa famosa cantante, Girasol, le pinté una vez un retrato revolucionario, ¡pero claro que dijo que lo que había pintado era basura! ¡Pero ese fue mi único retrato que no era de Rosas! Además, firmé deliberadamente mi nombre al pie del cuadro. Apuesto a que solo con esa firma ya se convierte en un tesoro invaluable... ¡Buuuurrrp!"
 
 [ROSESWORDMAN_TOOLTIP]
-攻击接近的僵尸，对血量较低的僵尸造成巨大伤害。
+Ataca a los zombis cercanos y lanza potentes ataques contra zombis con poca vida
 
 [ROSESWORDMAN_PLANTFOOD]
-发动剑气攻击前方一定范围内的僵尸。
+Apuñala a los zombis en un área de 3x3.
 
 [MAGICSHROOM]
-魔术菇
+Seta Maga
 
 [MAGICSHROOM_DESCRIPTION_HEADER]
-魔术菇可以发射扑克攻击前后方的僵尸。
+Lanzar cartas para atacar a los zombis que se encuentran delante y detrás
 
 [MAGICSHROOM_DESCRIPTION]
-{KEYWORD}Características：{STAT}可以攻击前方或者后方的僵尸。
-{KEYWORD}Características：{STAT}蘑菇家族
-{FLAVOR}在成为耀眼的魔术菇之前，魔术菇只不过是蘑菇村落中最普通的圆脑袋蘑菇，但是这一切都在它接触魔术世界的时候改变了。“对！我就是一个耀眼的明星！”魔术菇熟练地耍着手中的扑克，这是他认为自己最英俊的姿态。不要愚蠢地以为魔术菇的帽子里面藏了一只兔子，掀开它你就完蛋了！
+{KEYWORD}Especial：{STAT}ataca a los zombis por delante y por detrás.
+{KEYWORD}Características：{STAT}reino fungi
+{FLAVOR}Antes de convertirse en un talentoso hongo, Seta Maga era simplemente un hongo común y corriente en el Reino Champiñón. Fue solo después de adentrarse en el mundo de la magia que pudo transformarse en el hongo que es ahora. "¡Soy una estrella brillante!", exclamó mientras practicaba barajando las cartas en sus manos, lo que él considera su gesto más genial. Sin embargo, no es prudente pensar que hay un conejo dentro de su sombrero mágico. ¡Si miras dentro, estarás perdido!
 
 [MAGICSHROOM_TOOLTIP]
-攻击前方或后方的僵尸。
+Lanzar cartas para atacar a los zombis que se encuentran delante y detrás
 
 [MAGICSHROOM_PLANTFOOD]
-施展一次大变活僵的魔术！
+Invoca cinco sombreros grandes que traen zombis para que luchen de tu lado.
 
 [CHESTNUT]
-板栗小队
+Escuadrón Castaña
 
 [CHESTNUT_DESCRIPTION_HEADER]
-板栗小队可以召唤板栗小兵攻击前方一定区域内的僵尸。
+Invoca soldados castaña para que ataquen a los zombis que se encuentren en una zona determinada
 
 [CHESTNUT_DESCRIPTION]
-{KEYWORD}Características：{STAT}召唤持续存在的板栗小兵
-{KEYWORD}Características：{STAT}绿色植物、攻守兼备、兄弟成群
-{FLAVOR}小板栗们最喜欢住在一起生活，当有人问起原因时，他们就会跟对方自豪地讲述一群刚毕业的小板栗挤在一栋小屋内艰苦奋斗，互相扶持，誓要出栗头地的故事。当然在故事的最后他们还会不忘小小地抱怨一下某个外号“靓仔”的小板栗挤占太多空间的不良行径……而跟他们认识了很多年的毛竹同学一句话道出了真相：“他们不过是没钱付房租罢了。”
+{KEYWORD}Especial：{STAT}invoca castañas que se quedan en la zona
+{KEYWORD}Características：{STAT}planta verde, sociedad
+{FLAVOR}A las pequeñas castañas les encanta vivir juntas, y cuando alguien les pregunta por qué, le cuentan con orgullo la historia de cómo un grupo de castañas recién graduadas se apiñaban en una casita, luchando con ahínco, apoyándose mutuamente y decididos a abrirse camino en el mundo. Por supuesto, al final de la historia no se olvidan de quejarse un poco de las malas costumbres de una pequeña castaña apodada "Lindura", que ocupaba demasiado espacio... Pero un compañero que las conoce desde hace muchos años, resume la verdad en una sola frase: "Simplemente no tienen dinero para pagar el alquiler".
 
 [CHESTNUT_TOOLTIP]
-召唤板栗小兵攻击前方一定区域内的僵尸。
+Invoca castañas para que ataquen a los zombis; luego se quedan en el patio
 
 [CHESTNUT_PLANTFOOD]
-召唤一支板栗小队向前冲锋。
+Invoca una manada de castañas que cargan hacia delante
 
 [SMALLCHESTNUT]
-板栗小队
+Escuadrón Castaña
 
 [RAFFLESIA]
 Rafflesia
@@ -22317,20 +22310,20 @@ Desvía los proyectiles hacia los zombis cercanos
 大招能缩小僵尸的体型并降低它们的能力一段时间。
 
 [ELECTRICBLUEBERRY]
-电击蓝莓
+Arándano Eléctrico
 
 [ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
-电击蓝莓可以对一定范围内的僵尸造成巨大的伤害。
+Arándano Eléctrico electrocuta un zombi al azar en vez en cuando.
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
-{KEYWORD}Características：{STAT}蓝色植物、十万伏特
-{FLAVOR}电击蓝莓为自己既能够保持中性又能够带电的能力感到无比自豪，“我喜欢让僵尸们不断推测我的行踪”，她说道，“僵尸们总是在被我的闪电劈得四分五裂的时候惊叹道，‘天哪，我可没看见那玩意儿向我劈来！’”
+{KEYWORD}Características：{STAT}planta azul, 10 mil voltios
+{FLAVOR}Arándano Eléctrico se enorgullece de que es tan eclético como eléctrico. "Me gusta que se queden pensativos, afirma. Cuando desintegro zombis, siempre se quedan con cara de: vaya, no me lo esperaba".
 
 [ELECTRICBLUEBERRY_TOOLTIP]
-电击蓝莓可以对一定范围内的僵尸造成巨大的伤害。
+Inflige un daño enorme a los zombis dentro de un radio determinado
 
 [ELECTRICBLUEBERRY_PLANTFOOD]
-产生一块小型雷云，产生三段电击。
+Genera una pequeña nube de tormenta y tres descargas eléctricas.
 
 [ELECTRICBLUEBERRY_SKILL_LEVEL5]
 十字闪电
@@ -22363,20 +22356,20 @@ Desvía los proyectiles hacia los zombis cercanos
 大招使导弹到达底线时爆炸造成巨大的伤害。
 
 [GREENTURNIP]
-捣蛋萝卜
+Rábano Travieso
 
 [GREENTURNIP_DESCRIPTION_HEADER]
-捣蛋萝卜可以依次发射三枚不同形状和伤害的萝卜导弹。
+Dispara tres tipos diferentes de misiles, y cada uno causa un daño distinto
 
 [GREENTURNIP_DESCRIPTION]
-{KEYWORD}Características：{STAT}绿色植物、武器家族
-{FLAVOR}捣蛋萝卜曾经拥有过成为一个瘦子的梦想，不过当他发现他巨大的肚子里可以塞入各种各样武器的时候，他就彻底放弃了之前那个不切实际的想法。孩子们也非常喜欢和捣蛋萝卜一起玩耍，因为他们总是以为捣蛋萝卜的肚子里装满了糖果。“有时候我不得不躲在泥土之中”，捣蛋萝卜无奈地说道，“我真的害怕我会伤害到接近我的孩子们。”
+{KEYWORD}Características：{STAT}planta verde, militar
+{FLAVOR}Rábano Travieso soñaba con ser delgado, pero al descubrir que su enorme barriga podía albergar todo tipo de armas, abandonó por completo ese sueño irreal. A los niños también les gusta jugar con él, pues siempre creen que su barriga está llena de caramelos. "A veces tengo que esconderme bajo tierra", dice Rábano Travieso con pesar, "tengo mucho miedo de lastimar a los niños que están cerca".
 
 [GREENTURNIP_TOOLTIP]
-捣蛋萝卜可以依次发射三枚不同形状和伤害的萝卜导弹。
+Dispara tres tipos diferentes de misiles, y cada uno causa un daño distinto
 
 [GREENTURNIP_PLANTFOOD]
-从头顶盖中发射一枚巨大的导弹，对前一行的僵尸造成伤害。
+Lanza un misil gigante para infligir daño a los zombis de la fila delantera.
 
 [ENDURIAN_PRODUCT_SHORT_DESC]
 榴莲可以阻挡僵尸前进并对攻击他的僵尸造成伤害。
@@ -22403,20 +22396,20 @@ Desvía los proyectiles hacia los zombis cercanos
 大招获得更结实的水晶护甲。
 
 [ENDURIAN]
-榴莲
+Endurián
 
 [ENDURIAN_DESCRIPTION_HEADER]
-榴莲可以阻挡僵尸前进并对攻击他的僵尸造成伤害。
+Defiende zombis al mismo tiempo que los ataca
 
 [ENDURIAN_DESCRIPTION]
-{KEYWORD}Características：{STAT}黄色植物
-{FLAVOR}“当别人提到我的时候，他们说我太难以接近了，因为我总是很害怕别人的接近。并且，我的气味有点难闻。”榴莲这么说着。但是实际上，他知道他比自己说的更糟糕：他的脾气非常暴躁。
+{KEYWORD}Características：{STAT}planta amarilla
+{FLAVOR}"Cuando los demás hablan de mí, dicen que soy muy difícil de tratar, porque siempre me da miedo que se me acerquen. Además, huelo un poco mal", dice Endurián. Pero, en realidad, sabía que era peor de lo que decía: tenía muy mal genio.
 
 [ENDURIAN_TOOLTIP]
-榴莲可以阻挡僵尸前进并对攻击他的僵尸造成伤害。
+Defiende zombis al mismo tiempo que los ataca
 
 [ENDURIAN_PLANTFOOD]
-获得铁制护甲。
+Se cubre con una armadura de hierro.
 
 [BIRTHSUNFLOWER_PRODUCT_SHORT_DESC]
 向日葵歌手
@@ -22449,20 +22442,20 @@ Desvía los proyectiles hacia los zombis cercanos
 大招使向日葵歌手发动表演时场上其他的向日葵歌手都会产生阳光。
 
 [BIRTHSUNFLOWER]
-向日葵歌手
+Girasol Cantante
 
 [BIRTHSUNFLOWER_DESCRIPTION_HEADER]
-向日葵歌手可以通过演唱产出阳光并鼓舞周围的植物，提升他们的攻击力并缩短休息时间。
+Produce soles y aumenta el poder de ataque de las plantas circundantes, además de acortar su tiempo de recarga
 
 [BIRTHSUNFLOWER_DESCRIPTION]
-{KEYWORD}Características：{STAT}黄色植物、无尽阳光
-{FLAVOR}为了准备两周年的庆典活动，组织方特意邀请了植物界最著名的歌手向日葵作为特邀嘉宾出席。除了大把阳光的出场费，组织方还花费了数天时间说服领导、找回失踪的经纪人小豌豌、并答应邀请著名的发型师三叶草为向日葵制作新发型才成功。届时你将能在庆典会场聆听她献唱成名曲《Zombies On Your Lawn》，如果你能买到票或者干掉高大的追秒草保镖的话……
+{KEYWORD}Características：{STAT}planta amarilla, produce soles
+{FLAVOR}Para preparar las celebraciones del aniversario, los organizadores invitaron especialmente a la cantante más famosa del Reino Vegetal, Girasol, como invitada especial. Además de la gran cantidad de sol necesaria para pagarla, los organizadores también dedicaron varios días a convencer a los líderes, y prometieron invitar al famoso estilista Trebolador para que le hiciera un nuevo peinado a Girasol antes de que finalmente aceptara. Entonces podrás escuchar la canción de celebración "Zombies en el Jardín" en el salón del festival, si logras conseguir una entrada o deshacerte de ese temible guardaespaldas...
 
 [BIRTHSUNFLOWER_TOOLTIP]
-向日葵歌手可以通过演唱产出阳光并鼓舞周围的植物。
+Produce soles, potencia plantas circundantes y acorta sus tiempos de recarga
 
 [BIRTHSUNFLOWER_PLANTFOOD]
-举行一次演唱会，产生大量阳光。
+Comienza a cantar y hace bailar a todas las plantas, transformando el sol en un corazón y luego en un número 2. Luego, le otorga al jugador 280 soles. Este efecto también aturde a todos los zombis presentes durante unos segundos. Algunas plantas poseen habilidades especiales que se activan únicamente después de bailar.
 
 [PUMPKINWITCH_PRODUCT_SHORT_DESC]
 南瓜巫师
@@ -22495,20 +22488,20 @@ Desvía los proyectiles hacia los zombis cercanos
 大招投掷出的南瓜血量提升。
 
 [PUMPKINWITCH]
-南瓜巫师
+Brujalabaza
 
 [PUMPKINWITCH_DESCRIPTION_HEADER]
-南瓜巫师可以投掷出南瓜控制普通的人形僵尸，在南瓜存在时为你作战。
+Lanza calabazas para controlar a los zombis normales, que lucharán a tu lado mientras ella siga viva.
 
 [PUMPKINWITCH_DESCRIPTION]
-{KEYWORD}Características：{STAT}橙色植物、神秘法师
-{FLAVOR}南瓜巫师独自一人住在森林中一处神秘的沼泽地当中，它神秘而强大，会使用各种神奇的魔法，比如命令它的扫帚为它扫地、或者命令它的扫帚替它煮饭洗碗、又或者命令它的扫帚为它炼制各种奇怪的药剂、再或者命令它的扫帚……好吧，它其实是一个毫无生活自理能力的半吊子巫师罢了。
+{KEYWORD}Características：{STAT}planta naranja, mágica
+{FLAVOR}Vive sola en un misterioso pantano del bosque; es misteriosa y poderosa, y sabe usar todo tipo de magia, como ordenar a su escoba que le barra el suelo, que le cocine y le lave los platos, que le prepare todo tipo de pociones extrañas, o incluso que... Bueno, en realidad no es más que una hechicera maltrecha incapaz de valerse por sí misma.
 
 [PUMPKINWITCH_TOOLTIP]
-南瓜巫师可以投掷出南瓜控制普通的人形僵尸为你作战。
+Lanza calabazas para que los zombis luchen de tu lado mientras ella siga viva
 
 [PUMPKINWITCH_PLANTFOOD]
-投掷出最多5个坚固的南瓜，控制僵尸为你作战。
+Lanza cinco calabazas de ojos azules a los zombis más cercanos. Cualquier zombi alcanzado por estas calabazas tendrá una calabaza de ojos azules en la cabeza y mayor resistencia. Estos zombis no se liberarán de la posesión tras morir Brujalabaza, sino que morirán de forma normal. Tras el lanzamiento, necesita recargarse durante 15 segundos antes de poder atacar de nuevo.
 
 [COTTONYETI_PRODUCT_SHORT_DESC]
 棉小雪
@@ -28681,18 +28674,18 @@ Desvía a los zombis hacia otras líneas
 [GIFT_BOX_WORLDMAP_HEADER]
 神秘礼盒
 [GOLDBLOOM]
-黄金蓓蕾
+Floreciemiento Dorado
 
 [GOLDBLOOM_DESCRIPTION]
-{KEYWORD}用法： {STAT}一次性使用，立即生效
-{KEYWORD}Características： {STAT}绿色植物
-{FLAVOR}“你们那些植物学家总是挖空心思琢磨能不能做到，”黄金蓓蕾这话并非针对任何事或任何人，“却从不会停下来思考应不应该。”
+{KEYWORD}Uso： {STAT}único, instantáneo
+{KEYWORD}Características： {STAT}planta verde
+{FLAVOR}"Ustedes, los botánicos, siempre os rompéis la cabeza pensando en si se puede hacer", dice Florecimiento Dorado, sin referirse a nada ni a nadie en concreto, "pero nunca os paráis a pensar si se debe hacer".
 
 [GOLDBLOOM_DESCRIPTION_HEADER]
-黄金蓓蕾能瞬间迸发出大量阳光。
+Produce al instante una inmensa cantidad de soles
 
 [GOLDBLOOM_TOOLTIP]
-瞬间迸发出大量阳光
+Produce al instante una inmensa cantidad de soles
 [GOOGLE_PLAY_FAILED_DESCRIPTION]
 你必须连接到GOOGLE PLAY才能使用成就和排名功能。
 
@@ -35830,13 +35823,13 @@ x500更改名字
 使用玉米加农炮需要先种植玉米投手，是否需要重新选择阵容
 
 [PLANTING_COBCANNON_CANNOT_BE_HERE]
-不能将玉米加农炮种在矿车上
+No puedes plantar a Mazorcañón en un vagón minero.
 
 [PLANTING_COBCANNON_MUST_BE_ON_TWO_KERNELPULT]
-请将玉米加农炮种在2个相邻的玉米投手上
+Mazorcañón se planta sobre 2 Lanzamaíz
 
 [PLANTING_FLATTENEDSHROOM_CANNOT_BE_HERE]
-不能将平顶菇种在平地上
+No puedes plantar a Seta Plana aquí
 
 [NEXT_STEP]
 下一步
@@ -46836,194 +46829,193 @@ Q弹秀发
 {NUMBER}连击
 
 [FLATTENEDSHROOM]
-平顶菇
+Seta Plana
 
 [FLATTENEDSHROOM_DESCRIPTION_HEADER]
-平顶菇可以堵住地面上的下水道洞。
+Seta Plana puede tapar alcantarillas en el suelo
 
 [FLATTENEDSHROOM_DESCRIPTION]
-{KEYWORD}用法：{STAT} 一次性使用
-{KEYWORD}Características：{STAT}堵住一个下水道洞
-{KEYWORD}Características：{STAT}红色植物
-{FLAVOR}平顶菇本想安安静静地晒晒阳光，却总是被人拿来修马路。它表示说“下水道下面可冷了”。
+{KEYWORD}Uso：{STAT}único
+{KEYWORD}Especial：{STAT}tapa alcantarillas
+{KEYWORD}Características：{STAT}planta roja
+{FLAVOR}Sólo quiere tomar el sol tranquilamente, pero siempre lo utilizan para reparar las vías. Según él, "bajo las alcantarillas hace mucho frío".
 
 [FLATTENEDSHROOM_TOOLTIP]
-把他种植在一个井洞上可以堵住蒸汽
+Puede tapar alcantarillas en el suelo
 
 [LOTUSSHOOTER]
-莲藕射手
+Raíz de Loto
 
 [LOTUSSHOOTER_DESCRIPTION_HEADER]
-可以吸收毒雾造成额外伤害。
+Puede absorber el vapor tóxico y causar daño adicional
 
 [LOTUSSHOOTER_DESCRIPTION]
-{KEYWORD}Características：{STAT}吸收身边的毒雾
-{KEYWORD}Características：{STAT}白色植物
-{FLAVOR} 莲藕射手是资深环保人士，看到漫天的雾霾，它总想射点什么。
+{KEYWORD}Especial：{STAT}absorbe el vapor tóxico de su entorno
+{KEYWORD}Características：{STAT}planta blanca
+{FLAVOR}Raíz de Loto es un ecologista veterano que, al ver el cielo cubierto de smog, siempre siente la necesidad de disparar algo.
 
 [LOTUSSHOOTER_TOOLTIP]
-发射水箭进行攻击，可吸收毒雾并使攻击附带中毒效果
+Lanza projectiles de agua; y al absorber vapor tóxico puede envenenar.
 
 [LOTUSSHOOTER_SKILL_LEVEL1]
-多重水箭
+Agua Punzante
 
 [LOTUSSHOOTER_SKILL_LEVEL1_DES]
-有10%的几率进入连发状态，发射多枚急速水箭
+10% de probabilidad de disparar una ráfaga de 4 proyectiles.
 
 [LOTUSSHOOTER_SKILL_LEVEL2]
-水箭大师
+Agujas Acuáticas
 
 [LOTUSSHOOTER_SKILL_LEVEL2_DES]
-提升爆多重水箭效果100%。
+20% de probabilidad de disparar una ráfaga de 4 proyectiles.
 
 [LOTUSSHOOTER_SKILL_LEVEL5]
-莲藕水枪
+Pistola de Agua
 
 [LOTUSSHOOTER_SKILL_LEVEL5_DES]
-有概率发射持续性水柱，对僵尸产生击退效果并造成持续性伤害
+30% de probabilidad de desatar un torrente de agua durante 5 segundos, causando 270 de daño y un retroceso de 0,5 casillas por segundo.
 
 [LOTUSSHOOTER_AVATAR_NAME]
-莲藕装扮
+Disfraz de Raíz de Loto
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER_TITLE]
-莲藕装扮
+Disfraz de Raíz de Loto
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER]
-额外形成水箭和酸液箭，水箭造成腐蚀效果，酸液箭造成范围伤害。
+Disparará gotas de agua tóxicas verdes, idénticas a sus gotas negras. Además, al final dispara una gran burbuja verde que inflige 800 puntos de daño al zombi que alcanza, junto con 500 puntos de daño por salpicadura en un área de una casilla, y la envenena.
 
 
 [PASSIONFLOWER]
-番莲工程师
+Pasiflora Mecánica
 
 [PASSIONFLOWER_DESCRIPTION_HEADER]
-都可以对上下2行造成持续伤害。
+Puede causar daño continuo a cualquiera de las dos filas superiores e inferiores
 
 [PASSIONFLOWER_DESCRIPTION]
-{KEYWORD}Características：{STAT}可以对攻击范围内的僵尸造成持续性伤害
-{KEYWORD}Características：{STAT}紫色植物
-{FLAVOR} 番莲立志要成为一名工程师，但到现在它只会造齿轮。
+{KEYWORD}Especial：{STAT}inflige daño continuo a los zombis que se encuentren dentro del radio de ataque
+{KEYWORD}Características：{STAT}planta morada
+{FLAVOR}Pasiflora Mecánica aspira a ser ingeniero, pero por ahora solo sabe fabricar engranajes.
 
 [PASSIONFLOWER_TOOLTIP]
-发射齿轮攻击最近的僵尸，并对范围内的僵尸造成持续性伤害
+Lanza engranajes; causa daño continuo en dos filas superiores e inferiores
 
 [PASSIONFLOWER_SKILL_LEVEL1]
-机械专家
+Engranaje Giratorio
 
 [PASSIONFLOWER_SKILL_LEVEL1_DES]
-有10%的几率发射出快速旋转的齿轮，对击中僵尸产生定身效果
+10% de probabilidad de lanzar un engranaje que gira rápidamente, lo que inmoviliza a los zombis a los que golpea.
 
 [PASSIONFLOWER_SKILL_LEVEL2]
-机械大师
+Maestro Mecánico
 
 [PASSIONFLOWER_SKILL_LEVEL2_DES]
-提升机械专家效果100%。
+20% de probabilidad de lanzar un engranaje que gira rápidamente, lo que inmoviliza a los zombis a los que golpea.
 
 [PASSIONFLOWER_SKILL_LEVEL5]
-机械弹射
+Reacción Mecánica
 
 [PASSIONFLOWER_SKILL_LEVEL5_DES]
-有概率再抛投出一个齿轮，攻击到目标后会再次发射小齿轮攻击后一个僵尸
+Existe la posibilidad de lanzar otro engranaje; tras impactar en el objetivo, este lanzará a su vez un engranaje más pequeño que atacará al zombi que se encuentre detrás.
 
 [PASSIONFLOWER_AVATAR_NAME]
-番莲装扮
+Disfraz de Pasiflora Mecánica
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER_TITLE]
-番莲装扮
+Disfraz de Pasiflora Mecánica
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER]
-形成钻石齿轮造成范围伤害
+Lanza un enorme engranaje giratorio de alta velocidad que puede ralentizar a los zombis.
 
 [VANILLA]
-吹风荚兰
+Soplainilla
 
 [VANILLA_DESCRIPTION_HEADER]
-可以吹走绅士僵尸的伞
+Puede llevarse el paraguas de Zombi Burgués
 
 [VANILLA_DESCRIPTION]
-{KEYWORD}Características：{STAT}可以吹走绅士僵尸的伞
-{KEYWORD}Características：{STAT}黄色植物
-{FLAVOR} 吹风荚兰一直想成为一名理发师，但是他只能吹出各种造型
+{KEYWORD}Especial：{STAT}puede llevarse el paraguas de Zombi Burgués
+{KEYWORD}Características：{STAT}planta amarilla
+{FLAVOR} A pesar de que siempre quiso ser peluquera, lo único que sabe hacer es crear peinados con el viento.
 
 [VANILLA_TOOLTIP]
-可以吹走绅士僵尸的伞
+Sopla ráfagas de viento; puede llevarse el paraguas de Zombi Burgués
 
 [VANILLA_PRODUCT_SHORT_DESC]
-可以吹走绅士僵尸的伞
+Sopla ráfagas de viento; puede llevarse el paraguas de Zombi Burgués
 
 [VANILLA_SKILL_LEVEL1]
-空气炮
+Cañón Eólico
 
 [VANILLA_SKILL_LEVEL1_DES]
-有10%的概率形成空气巨炮对目标造成伤害并且击退一格
+10% de probabilidad de disparar un cañón de aire, que inflige daño al objetivo y lo empuja una casilla hacia atrás.
 
 [VANILLA_SKILL_LEVEL2]
-气功炮
+Arma Eólica
 
 [VANILLA_SKILL_LEVEL2_DES]
-提升爆空气炮效果100%。
+40% de probabilidad de disparar un cañón de aire, que inflige daño al objetivo y lo empuja una casilla hacia atrás.
 
 [VANILLA_SKILL_LEVEL5]
-狂卷风
+Tornados Locos
 
 [VANILLA_SKILL_LEVEL5_DES]
-有概率连续释放3个定身龙卷风随机对地图上目标造成定身效果
+Al atacar, hay un 20% de probabilidad de hacer estallar 3 tornados, causando 180 puntos de daño y aturdiendo a los zombis.
 
 [VANILLA_AVATAR_NAME]
-吹风荚兰装扮
+Disfraz de Soplainilla
 
 [STORE_PRODUCT_AVATAR_VANILLA_TITLE]
-吹风荚兰装扮
-
+Disfraz de Soplainilla
 
 [STORE_PRODUCT_AVATAR_VANILLA]
-生成寒冰龙卷风有概率冰冻中体型僵尸与载具僵尸。
+Crea un tornado helado que congela a los Zombisteins y a los zombis mecánicos.
 
 [MULBERRY]
-桑葚爆破手
+Granamora
 
 [MULBERRY_DESCRIPTION_HEADER]
-丢出手雷对一格内僵尸造成伤害
+Lanza una granada que inflige daño a los zombis que se encuentren en la casilla en la que cae
 
 [MULBERRY_DESCRIPTION]
-{KEYWORD}Características：{STAT}丢出手雷对一格内僵尸造成伤害
-{KEYWORD}Características：{STAT}红色植物
-{FLAVOR} 他是一个军事迷，而且酷爱收集各种军事材料，有一天他把自己打扮成炮手的形象，在街上吓到不少植物~
+{KEYWORD}Especial：{STAT}lanza una granada que inflige daño a los zombis en la casilla donde cae
+{KEYWORD}Características：{STAT}planta roja
+{FLAVOR} Es un apasionado de los temas militares y le encanta coleccionar todo tipo de material relacionado con el ejército; un día se disfrazó de artillero y asustó a más de un transeúnte por la calle.
 
 [MULBERRY_TOOLTIP]
-丢出手雷对一格内僵尸造成伤害
+Lanza una granada que inflige daño a los zombis en la casilla donde cae
 
 [MULBERRY_SKILL_LEVEL1]
-爆破专家
+Experto Granadero
 
 [MULBERRY_SKILL_LEVEL1_DES]
-有10%概率破片手雷爆炸时会对周围僵尸造成溅射伤害。
+Existe un 10% de probabilidad de que, al explotar, la granada se fragmente y cause daño por salpicadura a los zombis cercanos.
 
 [MULBERRY_SKILL_LEVEL2]
-爆破专精
+Maestro Granadero
 
 [MULBERRY_SKILL_LEVEL2_DES]
-提升爆破专家效果100%。
+Existe un 20% de probabilidad de que, al explotar, la granada se fragmente y cause daño por salpicadura a los zombis cercanos.
 
 [MULBERRY_SKILL_LEVEL5]
-趣味爆破
+Granadas Variadas
 
 [MULBERRY_SKILL_LEVEL5_DES]
-有概率释放随机手雷弹，爆破弹对敌方造成高额伤害并且有概率炸飞僵尸，闪光弹可以对3X3范围内敌方单位造成定身效果，毒气弹可以对3X3范围内敌方单位造成10秒中毒效果。
+Hay un 4% de probabilidad de lanzar una bomba de gas, lo que provoca que los zombis circundantes en un área de 3x3 se envenenen durante 10 segundos e inflige daño por segundo equivalente al 20% de los PV del zombi. Hay un 12% de probabilidad de lanzar una bomba cegadora, que aturdirá a los zombis circundantes en un área de 3x3 durante 2 segundos. Hay un 4% de probabilidad de lanzar una bomba explosiva, que causa daño elevado a los zombis y una probabilidad de hacer explotar a los zombis pequeños y medianos en un área pequeña.
 
 [MULBERRY_AVATAR_NAME]
-桑葚爆破装扮
+Disfraz de Granamora
 
 [STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
-桑葚爆破装扮
+Disfraz de Granamora
 
 [STORE_PRODUCT_AVATAR_MULBERRY]
-有概率丢出巨大手雷对目标造成3X3范围的巨额伤害。
+Puede lanzar una granada gigante que inflige un daño enorme en un área de 3x3.
 
 [CONVALLARIACHEMIST]
-芦藜药师
+Lirio Alquímico
 
 [CONVALLARIACHEMIST_DESCRIPTION_HEADER]
-可以对攻击范围内的僵尸造成伤害附带中毒效果
+Inflige daño a los zombis que se encuentren dentro del radio de ataque y los envenena
 
 [CONVALLARIACHEMIST_DESCRIPTION]
 {KEYWORD}Características：{STAT}可以对攻击范围内的僵尸造成伤害附带中毒效果
@@ -47031,34 +47023,34 @@ Q弹秀发
 {FLAVOR} 芦藜药师从小学医，希望可以救死扶伤，但对于僵尸，可能死亡才是解脱
 
 [CONVALLARIACHEMIST_TOOLTIP]
-可以对攻击范围内的僵尸造成伤害附带中毒效果
+Inflige daño a los zombis dentro un radio determinado y los envenena
 
 [CONVALLARIACHEMIST_SKILL_LEVEL1]
-毒药师
+Charco Venenoso
 
 [CONVALLARIACHEMIST_SKILL_LEVEL1_DES]
-有10%概率在地上一格范围内形成一滩毒液，毒液会对经过的僵尸造成中毒效果
+Hay un 10% de probabilidad de que se forme un charco de veneno en un área de una casilla en el suelo; envenenará a los zombis que pasen por él.
 
 [CONVALLARIACHEMIST_SKILL_LEVEL2]
-绝命毒师
+Veneno Potente
 
 [CONVALLARIACHEMIST_SKILL_LEVEL2_DES]
-提升毒药使效果100%。
+Hay un 20% de probabilidad de que se forme un charco de veneno en un área de una casilla en el suelo; envenenará a los zombis que pasen por él.
 
 [CONVALLARIACHEMIST_SKILL_LEVEL5]
-药剂大师
+Poción Salpicante
 
 [CONVALLARIACHEMIST_SKILL_LEVEL5_DES]
-有概率抛射更大的药剂瓶，砸在僵尸身上会溅射开来，使一格内的僵尸中毒。
+Al atacar, hay un 50% de posibilidades de lanzar una botella de poción más grande, que salpica después de golpear a un zombie, causando 600 puntos de daño a los zombies en un rango de una sola celda y aplicando 1 capa de veneno a los zombies en un rango pequeño.
 
 [CONVALLARIACHEMIST_AVATAR_NAME]
-芦藜装扮
+Disfraz de Lirio Alquímico
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST_TITLE]
-芦藜装扮
+Disfraz de Lirio Alquímico
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST]
-有概率扔出毒性更强的药剂，对僵尸造成3层中毒效果
+Existe la posibilidad de lanzar flores más poderosas que proporcionan a los zombis 3 capas de veneno.
 
 [ZOMBIE_STEAM_WORKER]
 工人僵尸
@@ -47130,16 +47122,16 @@ Q弹秀发
 温度升高会对植物造成毁灭伤害
 
 [ZOMBIE_STEAM_GENTLEMAN]
-绅士僵尸
+Zombi Burgués
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
-{KEYWORD}弱点：{STAT}会被吹风荚兰吹走雨伞
+{KEYWORD}Debiidad：{STAT}Soplainilla puede llevarse su paraguas
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
-是一名贵族绅士，所以非常注重自己的仪态，每天出门都要打扮的整整齐齐，每天带着雨伞就是怕下雨弄乱他的仪表看上去不绅士。
+Es un caballero de la alta sociedad, por lo que cuida mucho su aspecto; cada día sale de casa impecablemente arreglado y lleva siempre un paraguas por miedo a que la lluvia le desordene el atuendo y le haga parecer poco caballeroso.
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
-可以跨越地面的防御与障碍
+Puede volar por encima de las plantas u obstáculos del patio
 
 [ZOMBIE_STEAM_COAL_MINER]
 煤矿僵尸
