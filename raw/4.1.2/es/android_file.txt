@@ -20196,7 +20196,7 @@ Apuñala a los zombis en un área de 3x3.
 Seta Maga
 
 [MAGICSHROOM_DESCRIPTION_HEADER]
-Lanzar cartas para atacar a los zombis que se encuentran delante y detrás
+Lanza cartas para atacar a los zombis que se encuentran delante y detrás
 
 [MAGICSHROOM_DESCRIPTION]
 {KEYWORD}Especial：{STAT}ataca a los zombis por delante y por detrás.
@@ -28674,7 +28674,7 @@ Desvía a los zombis hacia otras líneas
 [GIFT_BOX_WORLDMAP_HEADER]
 神秘礼盒
 [GOLDBLOOM]
-Floreciemiento Dorado
+Florecimiento Dorado
 
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Uso： {STAT}único, instantáneo
